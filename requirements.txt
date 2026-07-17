@@ -1,0 +1,7 @@
+pandas>=2.2
+pyarrow>=23.0.0
+ijson>=3.2
+fastapi>=0.116
+uvicorn>=0.35
+PyYAML>=6.0.2
+openpyxl>=3.1

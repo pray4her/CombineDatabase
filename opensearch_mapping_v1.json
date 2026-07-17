@@ -1,0 +1,318 @@
+{
+  "version": "1.0.0",
+  "indices": {
+    "person_v1": {
+      "settings": {
+        "number_of_shards": 1,
+        "number_of_replicas": 0
+      },
+      "mappings": {
+        "dynamic": true,
+        "properties": {
+          "original_id": { "type": "keyword", "ignore_above": 4096 },
+          "person_id": { "type": "keyword" },
+          "canonical_person_id": { "type": "keyword" },
+          "legacy_person_id": { "type": "keyword" },
+          "name_original": {
+            "type": "text",
+            "fields": {
+              "keyword": { "type": "keyword", "ignore_above": 1024 }
+            }
+          },
+          "name_norm": { "type": "keyword" },
+          "name_aliases": { "type": "keyword" },
+          "matched_by_orcid": { "type": "boolean" },
+          "orcid": { "type": "keyword" },
+          "researcher_ids": { "type": "keyword" },
+          "country": { "type": "keyword" },
+          "countries_observed": { "type": "keyword" },
+          "current_affiliation": { "type": "text" },
+          "chinese_identity": { "type": "keyword" },
+          "qs_top200_rank": { "type": "integer" },
+          "world_top500_rank": { "type": "integer" },
+          "affiliations": { "type": "text" },
+          "addresses": { "type": "text" },
+          "primary_email": { "type": "keyword", "ignore_above": 4096 },
+          "emails": { "type": "keyword", "ignore_above": 4096 },
+          "subjects": { "type": "keyword" },
+          "keywords": { "type": "keyword" },
+          "interests": { "type": "keyword" },
+          "h_index": { "type": "integer" },
+          "i10_index": { "type": "integer" },
+          "total_citations": { "type": "integer" },
+          "average_citations": { "type": "float" },
+          "articles": { "type": "integer" },
+          "google_scholar_url": { "type": "keyword", "ignore_above": 4096 },
+          "sci_profile_url": { "type": "keyword", "ignore_above": 4096 },
+          "match_methods": { "type": "keyword" },
+          "cluster_size": { "type": "integer" },
+          "source_systems": { "type": "keyword" },
+          "source_refs": {
+            "type": "nested",
+            "properties": {
+              "source_system": { "type": "keyword" },
+              "source_file": { "type": "keyword", "ignore_above": 4096 },
+              "sheet": { "type": "keyword", "ignore_above": 1024 },
+              "row_index": { "type": "integer" },
+              "raw_keys": { "type": "keyword" }
+            }
+          },
+          "created_at": { "type": "date", "format": "strict_date_optional_time||epoch_millis" },
+          "updated_at": { "type": "date", "format": "strict_date_optional_time||epoch_millis" }
+        }
+      }
+    },
+    "publication_v1": {
+      "settings": {
+        "number_of_shards": 1,
+        "number_of_replicas": 0,
+        "index": {
+          "knn": true,
+          "knn.algo_param.ef_search": 100
+        }
+      },
+      "mappings": {
+        "dynamic": true,
+        "properties": {
+          "original_id": { "type": "keyword", "ignore_above": 4096 },
+          "publication_id": { "type": "keyword" },
+          "doi": { "type": "keyword" },
+          "doi_link": { "type": "keyword", "ignore_above": 4096 },
+          "ut_wos_id": { "type": "keyword" },
+          "pubmed_id": { "type": "keyword" },
+          "title": { "type": "text" },
+          "abstract": { "type": "text" },
+          "embedding": {
+            "type": "knn_vector",
+            "dimension": 1024,
+            "method": {
+              "name": "hnsw",
+              "engine": "faiss",
+              "space_type": "cosinesimil",
+              "parameters": {
+                "ef_construction": 128,
+                "m": 24
+              }
+            }
+          },
+          "document_type": { "type": "keyword" },
+          "publication_type": { "type": "keyword" },
+          "publication_year": { "type": "integer" },
+          "publication_date_text": { "type": "keyword" },
+          "volume": { "type": "keyword" },
+          "issue": { "type": "keyword" },
+          "article_number": { "type": "keyword" },
+          "number_of_pages": { "type": "integer" },
+          "source_title": { "type": "keyword" },
+          "journal_abbr": { "type": "keyword" },
+          "journal_iso_abbr": { "type": "keyword" },
+          "issn": { "type": "keyword" },
+          "eissn": { "type": "keyword" },
+          "language": { "type": "keyword" },
+          "publisher": { "type": "keyword" },
+          "publisher_city": { "type": "keyword" },
+          "publisher_address": { "type": "text" },
+          "author_keywords": { "type": "keyword" },
+          "keywords_plus": { "type": "keyword" },
+          "wos_categories": { "type": "keyword" },
+          "research_areas": { "type": "keyword" },
+          "web_of_science_index": { "type": "keyword" },
+          "times_cited_wos_core": { "type": "integer" },
+          "times_cited_all_db": { "type": "integer" },
+          "usage_180d": { "type": "integer" },
+          "usage_since_2013": { "type": "integer" },
+          "open_access_designation": { "type": "keyword" },
+          "funding_orgs": { "type": "text" },
+          "funding_text": { "type": "text" },
+          "source_refs": {
+            "type": "nested",
+            "properties": {
+              "source_system": { "type": "keyword" },
+              "source_file": { "type": "keyword", "ignore_above": 4096 },
+              "sheet": { "type": "keyword", "ignore_above": 1024 },
+              "row_index": { "type": "integer" },
+              "raw_keys": { "type": "keyword" }
+            }
+          },
+          "created_at": { "type": "date", "format": "strict_date_optional_time||epoch_millis" },
+          "updated_at": { "type": "date", "format": "strict_date_optional_time||epoch_millis" }
+        }
+      }
+    },
+    "person_publication_v1": {
+      "settings": {
+        "number_of_shards": 1,
+        "number_of_replicas": 0
+      },
+      "mappings": {
+        "dynamic": true,
+        "properties": {
+          "original_id": { "type": "keyword", "ignore_above": 4096 },
+          "relation_id": { "type": "keyword" },
+          "person_id": { "type": "keyword" },
+          "publication_id": { "type": "keyword" },
+          "relation_type": { "type": "keyword" },
+          "author_order": { "type": "integer" },
+          "author_name_in_paper": { "type": "text" },
+          "match_score": { "type": "float" },
+          "match_confidence": { "type": "keyword" },
+          "match_rules_hit": { "type": "keyword" },
+          "is_corresponding_author": { "type": "boolean" },
+          "source_refs": {
+            "type": "nested",
+            "properties": {
+              "source_system": { "type": "keyword" },
+              "source_file": { "type": "keyword", "ignore_above": 4096 },
+              "sheet": { "type": "keyword", "ignore_above": 1024 },
+              "row_index": { "type": "integer" },
+              "raw_keys": { "type": "keyword" }
+            }
+          },
+          "created_at": { "type": "date", "format": "strict_date_optional_time||epoch_millis" },
+          "updated_at": { "type": "date", "format": "strict_date_optional_time||epoch_millis" }
+        }
+      }
+    },
+    "author_occurrence_v1": {
+      "settings": {
+        "number_of_shards": 1,
+        "number_of_replicas": 0
+      },
+      "mappings": {
+        "dynamic": true,
+        "properties": {
+          "original_id": { "type": "keyword", "ignore_above": 4096 },
+          "occurrence_id": { "type": "keyword" },
+          "publication_id": { "type": "keyword" },
+          "author_order": { "type": "integer" },
+          "author_name_raw": { "type": "text" },
+          "author_name_norm": { "type": "keyword" },
+          "surname_norm": { "type": "keyword" },
+          "given_names_norm": { "type": "keyword" },
+          "initials": { "type": "keyword" },
+          "name_aliases": { "type": "keyword" },
+          "orcid": { "type": "keyword" },
+          "researcher_ids": { "type": "keyword" },
+          "is_corresponding_author": { "type": "boolean" },
+          "chinese_identity": { "type": "keyword" },
+          "source_refs": {
+            "type": "nested",
+            "properties": {
+              "source_system": { "type": "keyword" },
+              "source_file": { "type": "keyword", "ignore_above": 4096 },
+              "sheet": { "type": "keyword", "ignore_above": 1024 },
+              "row_index": { "type": "integer" },
+              "raw_keys": { "type": "keyword" }
+            }
+          },
+          "created_at": { "type": "date", "format": "strict_date_optional_time||epoch_millis" },
+          "updated_at": { "type": "date", "format": "strict_date_optional_time||epoch_millis" }
+        }
+      }
+    },
+    "author_identifier_claim_v1": {
+      "settings": {
+        "number_of_shards": 1,
+        "number_of_replicas": 0
+      },
+      "mappings": {
+        "dynamic": true,
+        "properties": {
+          "original_id": { "type": "keyword", "ignore_above": 4096 },
+          "claim_id": { "type": "keyword" },
+          "occurrence_id": { "type": "keyword" },
+          "publication_id": { "type": "keyword" },
+          "claim_type": { "type": "keyword" },
+          "claim_value": { "type": "keyword" },
+          "matched_name_raw": { "type": "text" },
+          "match_rule": { "type": "keyword" },
+          "confidence": { "type": "keyword" },
+          "score": { "type": "float" },
+          "source_refs": {
+            "type": "nested",
+            "properties": {
+              "source_system": { "type": "keyword" },
+              "source_file": { "type": "keyword", "ignore_above": 4096 },
+              "sheet": { "type": "keyword", "ignore_above": 1024 },
+              "row_index": { "type": "integer" },
+              "raw_keys": { "type": "keyword" }
+            }
+          },
+          "created_at": { "type": "date", "format": "strict_date_optional_time||epoch_millis" },
+          "updated_at": { "type": "date", "format": "strict_date_optional_time||epoch_millis" }
+        }
+      }
+    },
+    "author_affiliation_claim_v1": {
+      "settings": {
+        "number_of_shards": 1,
+        "number_of_replicas": 0
+      },
+      "mappings": {
+        "dynamic": true,
+        "properties": {
+          "original_id": { "type": "keyword", "ignore_above": 4096 },
+          "claim_id": { "type": "keyword" },
+          "occurrence_id": { "type": "keyword" },
+          "publication_id": { "type": "keyword" },
+          "source_field": { "type": "keyword" },
+          "institution": { "type": "text" },
+          "address_text": { "type": "text" },
+          "country_raw": { "type": "keyword" },
+          "country_norm": { "type": "keyword" },
+          "qs_top200_rank": { "type": "integer" },
+          "world_top500_rank": { "type": "integer" },
+          "is_reprint": { "type": "boolean" },
+          "confidence": { "type": "keyword" },
+          "score": { "type": "float" },
+          "source_refs": {
+            "type": "nested",
+            "properties": {
+              "source_system": { "type": "keyword" },
+              "source_file": { "type": "keyword", "ignore_above": 4096 },
+              "sheet": { "type": "keyword", "ignore_above": 1024 },
+              "row_index": { "type": "integer" },
+              "raw_keys": { "type": "keyword" }
+            }
+          },
+          "created_at": { "type": "date", "format": "strict_date_optional_time||epoch_millis" },
+          "updated_at": { "type": "date", "format": "strict_date_optional_time||epoch_millis" }
+        }
+      }
+    },
+    "author_email_claim_v1": {
+      "settings": {
+        "number_of_shards": 1,
+        "number_of_replicas": 0
+      },
+      "mappings": {
+        "dynamic": true,
+        "properties": {
+          "original_id": { "type": "keyword", "ignore_above": 4096 },
+          "claim_id": { "type": "keyword" },
+          "occurrence_id": { "type": "keyword" },
+          "publication_id": { "type": "keyword" },
+          "email": { "type": "keyword", "ignore_above": 4096 },
+          "email_domain": { "type": "keyword" },
+          "world_top500_rank": { "type": "integer" },
+          "local_part": { "type": "keyword" },
+          "binding_rule": { "type": "keyword" },
+          "confidence": { "type": "keyword" },
+          "score": { "type": "float" },
+          "source_refs": {
+            "type": "nested",
+            "properties": {
+              "source_system": { "type": "keyword" },
+              "source_file": { "type": "keyword", "ignore_above": 4096 },
+              "sheet": { "type": "keyword", "ignore_above": 1024 },
+              "row_index": { "type": "integer" },
+              "raw_keys": { "type": "keyword" }
+            }
+          },
+          "created_at": { "type": "date", "format": "strict_date_optional_time||epoch_millis" },
+          "updated_at": { "type": "date", "format": "strict_date_optional_time||epoch_millis" }
+        }
+      }
+    }
+  }
+}

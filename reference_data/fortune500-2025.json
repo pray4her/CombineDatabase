@@ -1,0 +1,4502 @@
+[
+  {
+    "rank": "1",
+    "company": "沃尔玛\nWALMART",
+    "revenue_musd": "680,985",
+    "country": "美国",
+    "industry": "综合商业",
+    "website": "http://www.stock.walmart.com/",
+    "domain": "walmart.com"
+  },
+  {
+    "rank": "2",
+    "company": "亚马逊\nAMAZON.COM",
+    "revenue_musd": "637,959",
+    "country": "美国",
+    "industry": "互联网服务和零售",
+    "website": "http://www.amazon.com/",
+    "domain": "amazon.com"
+  },
+  {
+    "rank": "3",
+    "company": "国家电网有限公司\nSTATE GRID",
+    "revenue_musd": "548,414.4",
+    "country": "中国",
+    "industry": "公用设施",
+    "website": "http://www.sgcc.com.cn/",
+    "domain": "sgcc.com.cn"
+  },
+  {
+    "rank": "4",
+    "company": "沙特阿美公司\nSAUDI ARAMCO",
+    "revenue_musd": "480,193.5",
+    "country": "沙特阿拉伯",
+    "industry": "采矿、原油生产",
+    "website": "http://www.aramco.com/",
+    "domain": "aramco.com"
+  },
+  {
+    "rank": "5",
+    "company": "中国石油天然气集团有限公司\nCHINA NATIONAL PETROLEUM",
+    "revenue_musd": "412,645.3",
+    "country": "中国",
+    "industry": "炼油",
+    "website": "http://www.cnpc.com.cn/",
+    "domain": "cnpc.com.cn"
+  },
+  {
+    "rank": "6",
+    "company": "中国石油化工集团有限公司\nSINOPEC GROUP",
+    "revenue_musd": "407,490.1",
+    "country": "中国",
+    "industry": "炼油",
+    "website": "http://www.sinopec.com/",
+    "domain": "sinopec.com"
+  },
+  {
+    "rank": "7",
+    "company": "联合健康集团\nUNITEDHEALTH GROUP",
+    "revenue_musd": "400,278",
+    "country": "美国",
+    "industry": "保健：保险和管理医保",
+    "website": "http://www.unitedhealthgroup.com/",
+    "domain": "unitedhealthgroup.com"
+  },
+  {
+    "rank": "8",
+    "company": "苹果公司\nAPPLE",
+    "revenue_musd": "391,035",
+    "country": "美国",
+    "industry": "计算机、办公设备",
+    "website": "http://www.apple.com/",
+    "domain": "apple.com"
+  },
+  {
+    "rank": "9",
+    "company": "CVS Health公司\nCVS HEALTH",
+    "revenue_musd": "372,809",
+    "country": "美国",
+    "industry": "保健：药品和其他服务",
+    "website": "http://www.cvshealth.com/",
+    "domain": "cvshealth.com"
+  },
+  {
+    "rank": "10",
+    "company": "伯克希尔－哈撒韦公司\nBERKSHIRE HATHAWAY",
+    "revenue_musd": "371,433",
+    "country": "美国",
+    "industry": "财产与意外保险（股份）",
+    "website": "http://www.berkshirehathaway.com/",
+    "domain": "berkshirehathaway.com"
+  },
+  {
+    "rank": "11",
+    "company": "麦克森公司\nMCKESSON",
+    "revenue_musd": "359,051",
+    "country": "美国",
+    "industry": "批发：保健",
+    "website": "http://www.mckesson.com/",
+    "domain": "mckesson.com"
+  },
+  {
+    "rank": "12",
+    "company": "大众公司\nVOLKSWAGEN",
+    "revenue_musd": "351,093.3",
+    "country": "德国",
+    "industry": "车辆与零部件",
+    "website": "http://https//volkswagen-group.com",
+    "domain": "volkswagen-group.com"
+  },
+  {
+    "rank": "13",
+    "company": "Alphabet公司\nALPHABET",
+    "revenue_musd": "350,018",
+    "country": "美国",
+    "industry": "互联网服务和零售",
+    "website": "http://www.abc.xyz/",
+    "domain": "abc.xyz"
+  },
+  {
+    "rank": "14",
+    "company": "埃克森美孚\nEXXON MOBIL",
+    "revenue_musd": "349,585",
+    "country": "美国",
+    "industry": "炼油",
+    "website": "http://www.exxonmobil.com/",
+    "domain": "exxonmobil.com"
+  },
+  {
+    "rank": "15",
+    "company": "丰田汽车公司\nTOYOTA MOTOR",
+    "revenue_musd": "315,110.2",
+    "country": "日本",
+    "industry": "车辆与零部件",
+    "website": "http://https//global.toyota/en/",
+    "domain": "global.toyota"
+  },
+  {
+    "rank": "16",
+    "company": "中国建筑集团有限公司\nCHINA STATE CONSTRUCTION ENGINEERING",
+    "revenue_musd": "304,121.3",
+    "country": "中国",
+    "industry": "工程与建筑",
+    "website": "http://www.cscec.com/",
+    "domain": "cscec.com"
+  },
+  {
+    "rank": "17",
+    "company": "Cencora公司\nCENCORA",
+    "revenue_musd": "293,958.6",
+    "country": "美国",
+    "industry": "批发：保健",
+    "website": "http://www.cencora.com/",
+    "domain": "cencora.com"
+  },
+  {
+    "rank": "18",
+    "company": "壳牌公司\nSHELL",
+    "revenue_musd": "289,029",
+    "country": "英国",
+    "industry": "炼油",
+    "website": "http://www.shell.com/",
+    "domain": "shell.com"
+  },
+  {
+    "rank": "19",
+    "company": "摩根大通公司\nJPMORGAN CHASE",
+    "revenue_musd": "278,906",
+    "country": "美国",
+    "industry": "银行：商业储蓄",
+    "website": "http://www.jpmorganchase.com/",
+    "domain": "jpmorganchase.com"
+  },
+  {
+    "rank": "20",
+    "company": "开市客\nCOSTCO WHOLESALE",
+    "revenue_musd": "254,453",
+    "country": "美国",
+    "industry": "综合商业",
+    "website": "http://www.costco.com/",
+    "domain": "costco.com"
+  },
+  {
+    "rank": "21",
+    "company": "信诺集团\nCIGNA GROUP",
+    "revenue_musd": "247,121",
+    "country": "美国",
+    "industry": "保健：药品和其他服务",
+    "website": "http://www.thecignagroup.com/",
+    "domain": "thecignagroup.com"
+  },
+  {
+    "rank": "22",
+    "company": "微软\nMICROSOFT",
+    "revenue_musd": "245,122",
+    "country": "美国",
+    "industry": "计算机软件",
+    "website": "http://www.microsoft.com/",
+    "domain": "microsoft.com"
+  },
+  {
+    "rank": "23",
+    "company": "托克集团\nTRAFIGURA GROUP",
+    "revenue_musd": "243,201.8",
+    "country": "新加坡",
+    "industry": "贸易",
+    "website": "http://www.trafigura.com/",
+    "domain": "trafigura.com"
+  },
+  {
+    "rank": "24",
+    "company": "嘉能可\nGLENCORE",
+    "revenue_musd": "230,944",
+    "country": "瑞士",
+    "industry": "采矿、原油生产",
+    "website": "http://www.glencore.com/",
+    "domain": "glencore.com"
+  },
+  {
+    "rank": "25",
+    "company": "嘉德诺健康集团\nCARDINAL HEALTH",
+    "revenue_musd": "226,827",
+    "country": "美国",
+    "industry": "批发：保健",
+    "website": "http://www.cardinalhealth.com/",
+    "domain": "cardinalhealth.com"
+  },
+  {
+    "rank": "26",
+    "company": "中国工商银行股份有限公司\nINDUSTRIAL & COMMERCIAL BANK OF CHINA",
+    "revenue_musd": "221,461.3",
+    "country": "中国",
+    "industry": "银行：商业储蓄",
+    "website": "http://www.icbc-ltd.com/",
+    "domain": "icbc-ltd.com"
+  },
+  {
+    "rank": "27",
+    "company": "三星电子\nSAMSUNG ELECTRONICS",
+    "revenue_musd": "220,636.7",
+    "country": "韩国",
+    "industry": "电子、电气设备",
+    "website": "http://www.samsung.com/",
+    "domain": "samsung.com"
+  },
+  {
+    "rank": "28",
+    "company": "鸿海精密工业股份有限公司\nHON HAI PRECISION INDUSTRY",
+    "revenue_musd": "213,699.1",
+    "country": "中国",
+    "industry": "电子、电气设备",
+    "website": "http://www.honhai.com/",
+    "domain": "honhai.com"
+  },
+  {
+    "rank": "29",
+    "company": "雪佛龙\nCHEVRON",
+    "revenue_musd": "202,792",
+    "country": "美国",
+    "industry": "炼油",
+    "website": "http://www.chevron.com/",
+    "domain": "chevron.com"
+  },
+  {
+    "rank": "30",
+    "company": "中国农业银行股份有限公司\nAGRICULTURAL BANK OF CHINA",
+    "revenue_musd": "197,466.4",
+    "country": "中国",
+    "industry": "银行：商业储蓄",
+    "website": "http://www.abchina.com/",
+    "domain": "abchina.com"
+  },
+  {
+    "rank": "31",
+    "company": "中国建设银行股份有限公司\nCHINA CONSTRUCTION BANK",
+    "revenue_musd": "196,738.3",
+    "country": "中国",
+    "industry": "银行：商业储蓄",
+    "website": "http://www.ccb.com/",
+    "domain": "ccb.com"
+  },
+  {
+    "rank": "32",
+    "company": "道达尔能源公司\nTOTALENERGIES",
+    "revenue_musd": "195,610",
+    "country": "法国",
+    "industry": "炼油",
+    "website": "http://www.totalenergies.com/",
+    "domain": "totalenergies.com"
+  },
+  {
+    "rank": "33",
+    "company": "英国石油公司\nBP",
+    "revenue_musd": "194,629",
+    "country": "英国",
+    "industry": "炼油",
+    "website": "http://www.bp.com/",
+    "domain": "bp.com"
+  },
+  {
+    "rank": "34",
+    "company": "美国银行\nBANK OF AMERICA",
+    "revenue_musd": "192,434",
+    "country": "美国",
+    "industry": "银行：商业储蓄",
+    "website": "http://www.bankofamerica.com/",
+    "domain": "bankofamerica.com"
+  },
+  {
+    "rank": "35",
+    "company": "通用汽车公司\nGENERAL MOTORS",
+    "revenue_musd": "187,442",
+    "country": "美国",
+    "industry": "车辆与零部件",
+    "website": "http://www.gm.com/",
+    "domain": "gm.com"
+  },
+  {
+    "rank": "36",
+    "company": "福特汽车公司\nFORD MOTOR",
+    "revenue_musd": "184,992",
+    "country": "美国",
+    "industry": "车辆与零部件",
+    "website": "http://www.ford.com/",
+    "domain": "ford.com"
+  },
+  {
+    "rank": "37",
+    "company": "Elevance Health公司\nELEVANCE HEALTH",
+    "revenue_musd": "177,011",
+    "country": "美国",
+    "industry": "保健：保险和管理医保",
+    "website": "http://www.elevancehealth.com/",
+    "domain": "elevancehealth.com"
+  },
+  {
+    "rank": "38",
+    "company": "中国银行股份有限公司\nBANK OF CHINA",
+    "revenue_musd": "176,142.5",
+    "country": "中国",
+    "industry": "银行：商业储蓄",
+    "website": "http://www.boc.cn/",
+    "domain": "boc.cn"
+  },
+  {
+    "rank": "39",
+    "company": "花旗集团\nCITIGROUP",
+    "revenue_musd": "170,757",
+    "country": "美国",
+    "industry": "银行：商业储蓄",
+    "website": "http://www.citigroup.com/",
+    "domain": "citigroup.com"
+  },
+  {
+    "rank": "40",
+    "company": "Stellantis集团\nSTELLANTIS",
+    "revenue_musd": "169,652.9",
+    "country": "荷兰",
+    "industry": "车辆与零部件",
+    "website": "http://www.stellantis.com/",
+    "domain": "stellantis.com"
+  },
+  {
+    "rank": "41",
+    "company": "Meta Platforms公司\nMETA PLATFORMS",
+    "revenue_musd": "164,501",
+    "country": "美国",
+    "industry": "互联网服务和零售",
+    "website": "http://https//investor.atmeta.com/",
+    "domain": "investor.atmeta.com"
+  },
+  {
+    "rank": "42",
+    "company": "Centene公司\nCENTENE",
+    "revenue_musd": "163,071",
+    "country": "美国",
+    "industry": "保健：保险和管理医保",
+    "website": "http://www.centene.com/",
+    "domain": "centene.com"
+  },
+  {
+    "rank": "43",
+    "company": "中国铁路工程集团有限公司\nCHINA RAILWAY ENGINEERING GROUP",
+    "revenue_musd": "161,336.5",
+    "country": "中国",
+    "industry": "工程与建筑",
+    "website": "http://www.crecg.com/",
+    "domain": "crecg.com"
+  },
+  {
+    "rank": "44",
+    "company": "京东集团股份有限公司\nJD.COM",
+    "revenue_musd": "161,055.4",
+    "country": "中国",
+    "industry": "互联网服务和零售",
+    "website": "http://www.jd.com/",
+    "domain": "jd.com"
+  },
+  {
+    "rank": "45",
+    "company": "中国人寿保险（集团）公司\nCHINA LIFE INSURANCE",
+    "revenue_musd": "160,276.8",
+    "country": "中国",
+    "industry": "人寿与健康保险（股份）",
+    "website": "http://www.chinalife.com.cn/",
+    "domain": "chinalife.com.cn"
+  },
+  {
+    "rank": "46",
+    "company": "家得宝\nHOME DEPOT",
+    "revenue_musd": "159,514",
+    "country": "美国",
+    "industry": "专业零售",
+    "website": "http://www.homedepot.com/",
+    "domain": "homedepot.com"
+  },
+  {
+    "rank": "47",
+    "company": "中国平安保险（集团）股份有限公司\nPING AN INSURANCE",
+    "revenue_musd": "158,627",
+    "country": "中国",
+    "industry": "人寿与健康保险（股份）",
+    "website": "http://www.group.pingan.com/",
+    "domain": "pingan.com"
+  },
+  {
+    "rank": "48",
+    "company": "梅赛德斯-奔驰集团\nMERCEDES-BENZ GROUP",
+    "revenue_musd": "157,450",
+    "country": "德国",
+    "industry": "车辆与零部件",
+    "website": "http://group.mercedes-benz.com/",
+    "domain": "mercedes-benz.com"
+  },
+  {
+    "rank": "49",
+    "company": "宝马集团\nBMW GROUP",
+    "revenue_musd": "153,974.3",
+    "country": "德国",
+    "industry": "车辆与零部件",
+    "website": "http://www.bmwgroup.com/",
+    "domain": "bmwgroup.com"
+  },
+  {
+    "rank": "50",
+    "company": "房利美\nFANNIE MAE",
+    "revenue_musd": "152,670",
+    "country": "美国",
+    "industry": "多元化金融",
+    "website": "http://www.fanniemae.com/",
+    "domain": "fanniemae.com"
+  },
+  {
+    "rank": "51",
+    "company": "中国铁道建筑集团有限公司\nCHINA RAILWAY CONSTRUCTION",
+    "revenue_musd": "148,467.4",
+    "country": "中国",
+    "industry": "工程与建筑",
+    "website": "http://www.crcc.cn/",
+    "domain": "crcc.cn"
+  },
+  {
+    "rank": "52",
+    "company": "沃博联\nWALGREENS BOOTS ALLIANCE",
+    "revenue_musd": "147,658",
+    "country": "美国",
+    "industry": "食品店和杂货店",
+    "website": "http://www.walgreensbootsalliance.com/",
+    "domain": "walgreensbootsalliance.com"
+  },
+  {
+    "rank": "53",
+    "company": "克罗格\nKROGER",
+    "revenue_musd": "147,123",
+    "country": "美国",
+    "industry": "食品店和杂货店",
+    "website": "http://www.thekrogerco.com/",
+    "domain": "thekrogerco.com"
+  },
+  {
+    "rank": "54",
+    "company": "法国巴黎银行\nBNP PARIBAS",
+    "revenue_musd": "146,390.2",
+    "country": "法国",
+    "industry": "银行：商业储蓄",
+    "website": "http://group.bnpparibas/",
+    "domain": "group.bnpparibas"
+  },
+  {
+    "rank": "55",
+    "company": "西班牙国家银行\nBANCO SANTANDER",
+    "revenue_musd": "146,326.4",
+    "country": "西班牙",
+    "industry": "银行：商业储蓄",
+    "website": "http://www.santander.com/",
+    "domain": "santander.com"
+  },
+  {
+    "rank": "56",
+    "company": "汇丰银行控股公司\nHSBC HOLDINGS",
+    "revenue_musd": "145,717",
+    "country": "英国",
+    "industry": "银行：商业储蓄",
+    "website": "http://www.hsbc.com/",
+    "domain": "hsbc.com"
+  },
+  {
+    "rank": "57",
+    "company": "Phillips 66公司\nPHILLIPS 66",
+    "revenue_musd": "145,496",
+    "country": "美国",
+    "industry": "炼油",
+    "website": "http://www.phillips66.com/",
+    "domain": "phillips66.com"
+  },
+  {
+    "rank": "58",
+    "company": "中国移动通信集团有限公司\nCHINA MOBILE COMMUNICATIONS",
+    "revenue_musd": "145,239.9",
+    "country": "中国",
+    "industry": "电信",
+    "website": "http://www.10086.cn/",
+    "domain": "10086.cn"
+  },
+  {
+    "rank": "59",
+    "company": "本田汽车\nHONDA MOTOR",
+    "revenue_musd": "142,273.6",
+    "country": "日本",
+    "industry": "车辆与零部件",
+    "website": "http://global.honda/",
+    "domain": "global.honda"
+  },
+  {
+    "rank": "60",
+    "company": "马拉松原油公司\nMARATHON PETROLEUM",
+    "revenue_musd": "140,412",
+    "country": "美国",
+    "industry": "炼油",
+    "website": "http://www.marathonpetroleum.com/",
+    "domain": "marathonpetroleum.com"
+  },
+  {
+    "rank": "61",
+    "company": "中国交通建设集团有限公司\nCHINA COMMUNICATIONS CONSTRUCTION",
+    "revenue_musd": "139,229",
+    "country": "中国",
+    "industry": "工程与建筑",
+    "website": "http://www.ccccltd.cn/",
+    "domain": "ccccltd.cn"
+  },
+  {
+    "rank": "62",
+    "company": "中国中信集团有限公司\nCITIC GROUP",
+    "revenue_musd": "138,940.6",
+    "country": "中国",
+    "industry": "多元化金融",
+    "website": "http://www.group.citic/",
+    "domain": "group.citic"
+  },
+  {
+    "rank": "63",
+    "company": "阿里巴巴集团控股有限公司\nALIBABA GROUP HOLDING",
+    "revenue_musd": "138,065",
+    "country": "中国",
+    "industry": "互联网服务和零售",
+    "website": "http://www.alibabagroup.com/",
+    "domain": "alibabagroup.com"
+  },
+  {
+    "rank": "64",
+    "company": "威瑞森电信\nVERIZON COMMUNICATIONS",
+    "revenue_musd": "134,788",
+    "country": "美国",
+    "industry": "电信",
+    "website": "http://verizon.com/about/",
+    "domain": "verizon.com"
+  },
+  {
+    "rank": "65",
+    "company": "中国海洋石油集团有限公司\nCHINA NATIONAL OFFSHORE OIL",
+    "revenue_musd": "130,832",
+    "country": "中国",
+    "industry": "采矿、原油生产",
+    "website": "http://www.cnooc.com.cn/",
+    "domain": "cnooc.com.cn"
+  },
+  {
+    "rank": "66",
+    "company": "英伟达公司\nNVIDIA",
+    "revenue_musd": "130,497",
+    "country": "美国",
+    "industry": "半导体、电子元件",
+    "website": "http://www.nvidia.com/",
+    "domain": "nvidia.com"
+  },
+  {
+    "rank": "67",
+    "company": "中国华润有限公司\nCHINA RESOURCES",
+    "revenue_musd": "129,623.5",
+    "country": "中国",
+    "industry": "多元化金融",
+    "website": "http://www.crc.com.hk/",
+    "domain": "crc.com.hk"
+  },
+  {
+    "rank": "68",
+    "company": "现代汽车\nHYUNDAI MOTOR",
+    "revenue_musd": "128,501.8",
+    "country": "韩国",
+    "industry": "车辆与零部件",
+    "website": "http://www.hyundai.com/worldwide/en",
+    "domain": "hyundai.com"
+  },
+  {
+    "rank": "69",
+    "company": "法国电力公司\nELECTRICITÉ DE FRANCE",
+    "revenue_musd": "128,355.1",
+    "country": "法国",
+    "industry": "公用设施",
+    "website": "http://www.edf.fr/",
+    "domain": "edf.fr"
+  },
+  {
+    "rank": "70",
+    "company": "高盛集团\nGOLDMAN SACHS GROUP",
+    "revenue_musd": "126,853",
+    "country": "美国",
+    "industry": "银行：商业储蓄",
+    "website": "http://www.goldmansachs.com/",
+    "domain": "goldmansachs.com"
+  },
+  {
+    "rank": "71",
+    "company": "美国富国银行\nWELLS FARGO",
+    "revenue_musd": "125,397",
+    "country": "美国",
+    "industry": "银行：商业储蓄",
+    "website": "http://www.wellsfargo.com/",
+    "domain": "wellsfargo.com"
+  },
+  {
+    "rank": "72",
+    "company": "德国电信\nDEUTSCHE TELEKOM",
+    "revenue_musd": "125,196.3",
+    "country": "德国",
+    "industry": "电信",
+    "website": "http://www.telekom.com/",
+    "domain": "telekom.com"
+  },
+  {
+    "rank": "73",
+    "company": "中国宝武钢铁集团有限公司\nCHINA BAOWU STEEL GROUP",
+    "revenue_musd": "125,112.5",
+    "country": "中国",
+    "industry": "金属产品",
+    "website": "http://www.baowugroup.com/",
+    "domain": "baowugroup.com"
+  },
+  {
+    "rank": "74",
+    "company": "瓦莱罗能源公司\nVALERO ENERGY",
+    "revenue_musd": "123,974",
+    "country": "美国",
+    "industry": "炼油",
+    "website": "http://www.valero.com/",
+    "domain": "valero.com"
+  },
+  {
+    "rank": "75",
+    "company": "美国康卡斯特电信公司\nCOMCAST",
+    "revenue_musd": "123,731",
+    "country": "美国",
+    "industry": "电信",
+    "website": "http://www.comcastcorporation.com/",
+    "domain": "comcastcorporation.com"
+  },
+  {
+    "rank": "76",
+    "company": "安联保险集团\nALLIANZ",
+    "revenue_musd": "123,148.1",
+    "country": "德国",
+    "industry": "人寿与健康保险（股份）",
+    "website": "http://www.allianz.com/",
+    "domain": "allianz.com"
+  },
+  {
+    "rank": "77",
+    "company": "州立农业保险公司\nSTATE FARM INSURANCE",
+    "revenue_musd": "122,951",
+    "country": "美国",
+    "industry": "财产与意外保险（互助）",
+    "website": "http://www.statefarm.com/",
+    "domain": "statefarm.com"
+  },
+  {
+    "rank": "78",
+    "company": "美国电话电报公司\nAT&T",
+    "revenue_musd": "122,336",
+    "country": "美国",
+    "industry": "电信",
+    "website": "http://www.att.com/",
+    "domain": "att.com"
+  },
+  {
+    "rank": "79",
+    "company": "三菱商事株式会社\nMITSUBISHI",
+    "revenue_musd": "122,127.4",
+    "country": "日本",
+    "industry": "贸易",
+    "website": "http://www.mitsubishicorp.com/",
+    "domain": "mitsubishicorp.com"
+  },
+  {
+    "rank": "80",
+    "company": "房地美\nFREDDIE MAC",
+    "revenue_musd": "122,052",
+    "country": "美国",
+    "industry": "多元化金融",
+    "website": "http://www.freddiemac.com/",
+    "domain": "freddiemac.com"
+  },
+  {
+    "rank": "81",
+    "company": "恒力集团有限公司\nHENGLI GROUP",
+    "revenue_musd": "121,126",
+    "country": "中国",
+    "industry": "纺织",
+    "website": "http://www.hengli.com/",
+    "domain": "hengli.com"
+  },
+  {
+    "rank": "82",
+    "company": "山东能源集团有限公司\nSHANDONG ENERGY GROUP",
+    "revenue_musd": "120,426",
+    "country": "中国",
+    "industry": "采矿、原油生产",
+    "website": "http://www.shandong-energy.com/",
+    "domain": "shandong-energy.com"
+  },
+  {
+    "rank": "83",
+    "company": "华为投资控股有限公司\nHUAWEI INVESTMENT & HOLDING",
+    "revenue_musd": "119,812.8",
+    "country": "中国",
+    "industry": "网络、通讯设备",
+    "website": "http://www.huawei.com/",
+    "domain": "huawei.com"
+  },
+  {
+    "rank": "84",
+    "company": "中国南方电网有限责任公司\nCHINA SOUTHERN POWER GRID",
+    "revenue_musd": "118,607.5",
+    "country": "中国",
+    "industry": "公用设施",
+    "website": "http://www.csg.cn/",
+    "domain": "csg.cn"
+  },
+  {
+    "rank": "85",
+    "company": "哈门那公司\nHUMANA",
+    "revenue_musd": "117,761",
+    "country": "美国",
+    "industry": "保健：保险和管理医保",
+    "website": "http://www.humana.com/",
+    "domain": "humana.com"
+  },
+  {
+    "rank": "86",
+    "company": "中国五矿集团有限公司\nCHINA MINMETALS",
+    "revenue_musd": "115,805.6",
+    "country": "中国",
+    "industry": "金属产品",
+    "website": "http://www.minmetals.com/",
+    "domain": "minmetals.com"
+  },
+  {
+    "rank": "87",
+    "company": "俄罗斯天然气工业股份公司\nGAZPROM",
+    "revenue_musd": "115,457.7",
+    "country": "俄罗斯",
+    "industry": "能源",
+    "website": "http://www.gazprom.com/",
+    "domain": "gazprom.com"
+  },
+  {
+    "rank": "88",
+    "company": "信实工业公司\nRELIANCE INDUSTRIES",
+    "revenue_musd": "114,121.6",
+    "country": "印度",
+    "industry": "炼油",
+    "website": "http://www.ril.com/",
+    "domain": "ril.com"
+  },
+  {
+    "rank": "89",
+    "company": "法国兴业银行\nSOCIÉTÉ GÉNÉRALE",
+    "revenue_musd": "110,647.8",
+    "country": "法国",
+    "industry": "银行：商业储蓄",
+    "website": "http://www.societegenerale.com/",
+    "domain": "societegenerale.com"
+  },
+  {
+    "rank": "90",
+    "company": "俄罗斯石油公司\nROSNEFT OIL",
+    "revenue_musd": "109,254.3",
+    "country": "俄罗斯",
+    "industry": "炼油",
+    "website": "http://www.rosneft.com/",
+    "domain": "rosneft.com"
+  },
+  {
+    "rank": "91",
+    "company": "比亚迪股份有限公司\nBYD",
+    "revenue_musd": "108,003.5",
+    "country": "中国",
+    "industry": "车辆与零部件",
+    "website": "http://www.byd.com/",
+    "domain": "byd.com"
+  },
+  {
+    "rank": "92",
+    "company": "国家能源投资集团有限责任公司\nCHINA ENERGY INVESTMENT",
+    "revenue_musd": "107,690.2",
+    "country": "中国",
+    "industry": "能源",
+    "website": "http://www.ceic.com/",
+    "domain": "ceic.com"
+  },
+  {
+    "rank": "93",
+    "company": "摩根士丹利\nMORGAN STANLEY",
+    "revenue_musd": "107,285",
+    "country": "美国",
+    "industry": "银行：商业储蓄",
+    "website": "http://www.morganstanley.com/",
+    "domain": "morganstanley.com"
+  },
+  {
+    "rank": "94",
+    "company": "塔吉特公司\nTARGET",
+    "revenue_musd": "106,566",
+    "country": "美国",
+    "industry": "综合商业",
+    "website": "http://corporate.target.com/",
+    "domain": "corporate.target.com"
+  },
+  {
+    "rank": "95",
+    "company": "印度人寿保险公司\nLIFE INSURANCE CORP. OF INDIA",
+    "revenue_musd": "104,970.8",
+    "country": "印度",
+    "industry": "人寿与健康保险（股份）",
+    "website": "http://www.licindia.in/",
+    "domain": "licindia.in"
+  },
+  {
+    "rank": "96",
+    "company": "Equinor公司\nEQUINOR",
+    "revenue_musd": "103,774",
+    "country": "挪威",
+    "industry": "炼油",
+    "website": "http://www.equinor.com/",
+    "domain": "equinor.com"
+  },
+  {
+    "rank": "97",
+    "company": "雀巢公司\nNESTLÉ",
+    "revenue_musd": "103,749.5",
+    "country": "瑞士",
+    "industry": "食品：消费产品",
+    "website": "http://www.nestle.com/",
+    "domain": "nestle.com"
+  },
+  {
+    "rank": "98",
+    "company": "厦门建发集团有限公司\nXIAMEN C&D",
+    "revenue_musd": "100,600.1",
+    "country": "中国",
+    "industry": "贸易",
+    "website": "http://www.chinacdc.com/",
+    "domain": "chinacdc.com"
+  },
+  {
+    "rank": "99",
+    "company": "StoneX集团\nSTONEX GROUP",
+    "revenue_musd": "99,887.8",
+    "country": "美国",
+    "industry": "多元化金融",
+    "website": "http://www.stonex.com/",
+    "domain": "stonex.com"
+  },
+  {
+    "rank": "100",
+    "company": "中国电力建设集团有限公司\nPOWERCHINA",
+    "revenue_musd": "99,829.5",
+    "country": "中国",
+    "industry": "工程与建筑",
+    "website": "http://www.powerchina.cn/",
+    "domain": "powerchina.cn"
+  },
+  {
+    "rank": "101",
+    "company": "加拿大皇家银行\nROYAL BANK OF CANADA",
+    "revenue_musd": "98,742.8",
+    "country": "加拿大",
+    "industry": "银行：商业储蓄",
+    "website": "http://www.rbc.com/",
+    "domain": "rbc.com"
+  },
+  {
+    "rank": "102",
+    "company": "俄罗斯联邦储蓄银行\nSBERBANK",
+    "revenue_musd": "98,742.7",
+    "country": "俄罗斯",
+    "industry": "银行：商业储蓄",
+    "website": "http://www.sberbank.ru/",
+    "domain": "sberbank.ru"
+  },
+  {
+    "rank": "103",
+    "company": "安盛\nAXA",
+    "revenue_musd": "98,686.1",
+    "country": "法国",
+    "industry": "人寿与健康保险（股份）",
+    "website": "http://www.axa.com/",
+    "domain": "axa.com"
+  },
+  {
+    "rank": "104",
+    "company": "埃尼石油公司\nENI",
+    "revenue_musd": "98,641.7",
+    "country": "意大利",
+    "industry": "炼油",
+    "website": "http://www.eni.com/",
+    "domain": "eni.com"
+  },
+  {
+    "rank": "105",
+    "company": "博世集团\nBOSCH GROUP",
+    "revenue_musd": "97,702",
+    "country": "德国",
+    "industry": "车辆与零部件",
+    "website": "http://www.bosch.com/",
+    "domain": "bosch.com"
+  },
+  {
+    "rank": "106",
+    "company": "特斯拉\nTESLA",
+    "revenue_musd": "97,690",
+    "country": "美国",
+    "industry": "车辆与零部件",
+    "website": "http://www.tesla.com/",
+    "domain": "tesla.com"
+  },
+  {
+    "rank": "107",
+    "company": "中国邮政集团有限公司\nCHINA POST GROUP",
+    "revenue_musd": "97,544.4",
+    "country": "中国",
+    "industry": "邮件、包裹及货物包装运输",
+    "website": "http://www.chinapost.com.cn/",
+    "domain": "chinapost.com.cn"
+  },
+  {
+    "rank": "108",
+    "company": "皇家阿霍德德尔海兹集团\nROYAL AHOLD DELHAIZE",
+    "revenue_musd": "96,632.4",
+    "country": "荷兰",
+    "industry": "食品店和杂货店",
+    "website": "http://www.aholddelhaize.com/",
+    "domain": "aholddelhaize.com"
+  },
+  {
+    "rank": "109",
+    "company": "日本伊藤忠商事株式会社\nITOCHU",
+    "revenue_musd": "96,587.7",
+    "country": "日本",
+    "industry": "贸易",
+    "website": "http://www.itochu.co.jp/",
+    "domain": "itochu.co.jp"
+  },
+  {
+    "rank": "110",
+    "company": "三井物产株式会社\nMITSUI",
+    "revenue_musd": "96,183.6",
+    "country": "日本",
+    "industry": "贸易",
+    "website": "http://www.mitsui.com/",
+    "domain": "mitsui.com"
+  },
+  {
+    "rank": "111",
+    "company": "戴尔科技公司\nDELL TECHNOLOGIES",
+    "revenue_musd": "95,567",
+    "country": "美国",
+    "industry": "计算机、办公设备",
+    "website": "http://delltechnologies.com/",
+    "domain": "delltechnologies.com"
+  },
+  {
+    "rank": "112",
+    "company": "REWE集团\nREWE GROUP",
+    "revenue_musd": "95,044.2",
+    "country": "德国",
+    "industry": "食品店和杂货店",
+    "website": "http://www.rewe-group.com/en",
+    "domain": "rewe-group.com"
+  },
+  {
+    "rank": "113",
+    "company": "家乐福\nCARREFOUR",
+    "revenue_musd": "94,376.6",
+    "country": "法国",
+    "industry": "食品店和杂货店",
+    "website": "http://www.carrefour.com/",
+    "domain": "carrefour.com"
+  },
+  {
+    "rank": "114",
+    "company": "SK集团\nSK",
+    "revenue_musd": "92,973.3",
+    "country": "韩国",
+    "industry": "炼油",
+    "website": "http://www.sk.co.kr/",
+    "domain": "sk.co.kr"
+  },
+  {
+    "rank": "115",
+    "company": "百事公司\nPEPSICO",
+    "revenue_musd": "91,854",
+    "country": "美国",
+    "industry": "食品：消费产品",
+    "website": "http://www.pepsico.com/",
+    "domain": "pepsico.com"
+  },
+  {
+    "rank": "116",
+    "company": "腾讯控股有限公司\nTENCENT HOLDINGS",
+    "revenue_musd": "91,764.1",
+    "country": "中国",
+    "industry": "互联网服务和零售",
+    "website": "http://www.tencent.com/",
+    "domain": "tencent.com"
+  },
+  {
+    "rank": "117",
+    "company": "迪奥公司\nCHRISTIAN DIOR",
+    "revenue_musd": "91,578.9",
+    "country": "法国",
+    "industry": "服装",
+    "website": "http://www.dior-finance.com/",
+    "domain": "dior-finance.com"
+  },
+  {
+    "rank": "118",
+    "company": "浙江荣盛控股集团有限公司\nZHEJIANG RONGSHENG HOLDING GROUP",
+    "revenue_musd": "91,534",
+    "country": "中国",
+    "industry": "化学品",
+    "website": "http://www.rong-sheng.com/",
+    "domain": "rong-sheng.com"
+  },
+  {
+    "rank": "119",
+    "company": "中国医药集团有限公司\nSINOPHARM",
+    "revenue_musd": "91,485.7",
+    "country": "中国",
+    "industry": "批发：保健",
+    "website": "http://www.sinopharm.com/",
+    "domain": "sinopharm.com"
+  },
+  {
+    "rank": "120",
+    "company": "巴西国家石油公司\nPETROBRAS",
+    "revenue_musd": "91,416",
+    "country": "巴西",
+    "industry": "炼油",
+    "website": "http://www.petrobras.com.br/",
+    "domain": "petrobras.com.br"
+  },
+  {
+    "rank": "121",
+    "company": "墨西哥石油公司\nPEMEX",
+    "revenue_musd": "91,376.5",
+    "country": "墨西哥",
+    "industry": "采矿、原油生产",
+    "website": "http://www.pemex.com/",
+    "domain": "pemex.com"
+  },
+  {
+    "rank": "122",
+    "company": "华特迪士尼公司\nWALT DISNEY",
+    "revenue_musd": "91,361",
+    "country": "美国",
+    "industry": "娱乐",
+    "website": "http://www.thewaltdisneycompany.com/",
+    "domain": "thewaltdisneycompany.com"
+  },
+  {
+    "rank": "123",
+    "company": "联合包裹速递服务公司\nUNITED PARCEL SERVICE",
+    "revenue_musd": "91,070",
+    "country": "美国",
+    "industry": "邮件、包裹及货物包装运输",
+    "website": "http://https//about.ups.com/",
+    "domain": "about.ups.com"
+  },
+  {
+    "rank": "124",
+    "company": "敦豪集团\nDHL GROUP",
+    "revenue_musd": "91,041.4",
+    "country": "德国",
+    "industry": "邮件、包裹及货物包装运输",
+    "website": "http://group.dhl.com/",
+    "domain": "group.dhl.com"
+  },
+  {
+    "rank": "125",
+    "company": "法国农业信贷银行\nCRÉDIT AGRICOLE",
+    "revenue_musd": "90,552.6",
+    "country": "法国",
+    "industry": "银行：商业储蓄",
+    "website": "http://www.credit-agricole.com/",
+    "domain": "credit-agricole.com"
+  },
+  {
+    "rank": "126",
+    "company": "台积公司\nTAIWAN SEMICONDUCTOR MANUFACTURING",
+    "revenue_musd": "90,167",
+    "country": "中国",
+    "industry": "半导体、电子元件",
+    "website": "http://www.tsmc.com/",
+    "domain": "tsmc.com"
+  },
+  {
+    "rank": "127",
+    "company": "印度石油公司\nINDIAN OIL",
+    "revenue_musd": "90,098.4",
+    "country": "印度",
+    "industry": "炼油",
+    "website": "http://www.iocl.com/",
+    "domain": "iocl.com"
+  },
+  {
+    "rank": "128",
+    "company": "日本电报电话公司\nNIPPON TELEGRAPH AND TELEPHONE",
+    "revenue_musd": "89,900",
+    "country": "日本",
+    "industry": "电信",
+    "website": "http://group.ntt/en/",
+    "domain": "group.ntt"
+  },
+  {
+    "rank": "129",
+    "company": "乐购\nTESCO",
+    "revenue_musd": "89,745.6",
+    "country": "英国",
+    "industry": "食品店和杂货店",
+    "website": "http://www.tescoplc.com/",
+    "domain": "tescoplc.com"
+  },
+  {
+    "rank": "130",
+    "company": "三菱日联金融集团\nMITSUBISHI UFJ FINANCIAL GROUP",
+    "revenue_musd": "89,409.8",
+    "country": "日本",
+    "industry": "银行：商业储蓄",
+    "website": "http://www.mufg.jp/",
+    "domain": "mufg.jp"
+  },
+  {
+    "rank": "131",
+    "company": "强生\nJOHNSON & JOHNSON",
+    "revenue_musd": "88,821",
+    "country": "美国",
+    "industry": "制药",
+    "website": "http://www.jnj.com/",
+    "domain": "jnj.com"
+  },
+  {
+    "rank": "132",
+    "company": "多伦多道明银行\nTORONTO-DOMINION BANK",
+    "revenue_musd": "88,304.2",
+    "country": "加拿大",
+    "industry": "银行：商业储蓄",
+    "website": "http://www.td.com/",
+    "domain": "td.com"
+  },
+  {
+    "rank": "133",
+    "company": "中粮集团有限公司\nCOFCO",
+    "revenue_musd": "88,260",
+    "country": "中国",
+    "industry": "贸易",
+    "website": "http://www.cofco.com/",
+    "domain": "cofco.com"
+  },
+  {
+    "rank": "134",
+    "company": "中国电信集团有限公司\nCHINA TELECOMMUNICATIONS",
+    "revenue_musd": "87,996.5",
+    "country": "中国",
+    "industry": "电信",
+    "website": "http://www.chinatelecom.com.cn/",
+    "domain": "chinatelecom.com.cn"
+  },
+  {
+    "rank": "135",
+    "company": "联邦快递\nFEDEX",
+    "revenue_musd": "87,693",
+    "country": "美国",
+    "industry": "邮件、包裹及货物包装运输",
+    "website": "http://www.fedex.com/",
+    "domain": "fedex.com"
+  },
+  {
+    "rank": "136",
+    "company": "泰国国家石油有限公司\nPTT",
+    "revenue_musd": "87,638.5",
+    "country": "泰国",
+    "industry": "炼油",
+    "website": "http://www.pttplc.com/",
+    "domain": "pttplc.com"
+  },
+  {
+    "rank": "137",
+    "company": "西班牙对外银行\nBANCO BILBAO VIZCAYA ARGENTARIA",
+    "revenue_musd": "87,457.6",
+    "country": "西班牙",
+    "industry": "银行：商业储蓄",
+    "website": "http://www.bbva.com/",
+    "domain": "bbva.com"
+  },
+  {
+    "rank": "138",
+    "company": "上海汽车集团股份有限公司\nSAIC MOTOR",
+    "revenue_musd": "87,223.9",
+    "country": "中国",
+    "industry": "车辆与零部件",
+    "website": "http://www.saicmotor.com/",
+    "domain": "saicmotor.com"
+  },
+  {
+    "rank": "139",
+    "company": "瑞银集团\nUBS GROUP",
+    "revenue_musd": "87,150",
+    "country": "瑞士",
+    "industry": "银行：商业储蓄",
+    "website": "http://www.ubs.com/",
+    "domain": "ubs.com"
+  },
+  {
+    "rank": "140",
+    "company": "意昂集团\nE.ON",
+    "revenue_musd": "86,643.2",
+    "country": "德国",
+    "industry": "能源",
+    "website": "http://www.eon.com/",
+    "domain": "eon.com"
+  },
+  {
+    "rank": "141",
+    "company": "中国人民保险集团股份有限公司\nPEOPLE'S INSURANCE CO. OF CHINA",
+    "revenue_musd": "86,477.6",
+    "country": "中国",
+    "industry": "财产与意外保险（股份）",
+    "website": "http://www.picc.com.cn/",
+    "domain": "picc.com.cn"
+  },
+  {
+    "rank": "142",
+    "company": "博枫公司\nBROOKFIELD",
+    "revenue_musd": "86,006",
+    "country": "加拿大",
+    "industry": "多元化金融",
+    "website": "http://www.brookfield.com/",
+    "domain": "brookfield.com"
+  },
+  {
+    "rank": "143",
+    "company": "ADM公司\nARCHER DANIELS MIDLAND",
+    "revenue_musd": "85,530",
+    "country": "美国",
+    "industry": "食品生产",
+    "website": "http://www.adm.com/",
+    "domain": "adm.com"
+  },
+  {
+    "rank": "144",
+    "company": "西门子\nSIEMENS",
+    "revenue_musd": "85,432.8",
+    "country": "德国",
+    "industry": "工业机械",
+    "website": "http://www.siemens.com/",
+    "domain": "siemens.com"
+  },
+  {
+    "rank": "145",
+    "company": "意大利国家电力公司\nENEL",
+    "revenue_musd": "85,375.8",
+    "country": "意大利",
+    "industry": "公用设施",
+    "website": "http://www.enel.com/",
+    "domain": "enel.com"
+  },
+  {
+    "rank": "146",
+    "company": "索尼\nSONY",
+    "revenue_musd": "84,995.5",
+    "country": "日本",
+    "industry": "电子、电气设备",
+    "website": "http://www.sony.com/en/",
+    "domain": "sony.com"
+  },
+  {
+    "rank": "147",
+    "company": "宝洁公司\nPROCTER & GAMBLE",
+    "revenue_musd": "84,039",
+    "country": "美国",
+    "industry": "家居、个人用品",
+    "website": "http://www.pginvestor.com/",
+    "domain": "pginvestor.com"
+  },
+  {
+    "rank": "148",
+    "company": "美国劳氏公司\nLOWE'S",
+    "revenue_musd": "83,674",
+    "country": "美国",
+    "industry": "专业零售",
+    "website": "http://www.lowes.com/",
+    "domain": "lowes.com"
+  },
+  {
+    "rank": "149",
+    "company": "物产中大集团股份有限公司\nWUCHAN ZHONGDA GROUP",
+    "revenue_musd": "83,322.6",
+    "country": "中国",
+    "industry": "贸易",
+    "website": "http://www.wzgroup.cn/",
+    "domain": "wzgroup.cn"
+  },
+  {
+    "rank": "150",
+    "company": "日产汽车\nNISSAN MOTOR",
+    "revenue_musd": "82,871.1",
+    "country": "日本",
+    "industry": "车辆与零部件",
+    "website": "http://www.nissan-global.com/",
+    "domain": "nissan-global.com"
+  },
+  {
+    "rank": "151",
+    "company": "Energy Transfer公司\nENERGY TRANSFER",
+    "revenue_musd": "82,671",
+    "country": "美国",
+    "industry": "管道运输",
+    "website": "http://www.energytransfer.com/",
+    "domain": "energytransfer.com"
+  },
+  {
+    "rank": "152",
+    "company": "法国BPCE银行集团\nGROUPE BPCE",
+    "revenue_musd": "81,716.2",
+    "country": "法国",
+    "industry": "银行：商业储蓄",
+    "website": "http://www.groupebpce.com/",
+    "domain": "groupebpce.com"
+  },
+  {
+    "rank": "153",
+    "company": "雷神技术公司\nRTX",
+    "revenue_musd": "80,738",
+    "country": "美国",
+    "industry": "航天与防务",
+    "website": "http://www.rtx.com/",
+    "domain": "rtx.com"
+  },
+  {
+    "rank": "154",
+    "company": "艾伯森公司\nALBERTSONS",
+    "revenue_musd": "80,390.9",
+    "country": "美国",
+    "industry": "食品店和杂货店",
+    "website": "http://www.albertsonscompanies.com/",
+    "domain": "albertsonscompanies.com"
+  },
+  {
+    "rank": "155",
+    "company": "浙江吉利控股集团有限公司\nZHEJIANG GEELY HOLDING GROUP",
+    "revenue_musd": "79,890.6",
+    "country": "中国",
+    "industry": "车辆与零部件",
+    "website": "http://www.zgh.com/",
+    "domain": "zgh.com"
+  },
+  {
+    "rank": "156",
+    "company": "Engie集团\nENGIE",
+    "revenue_musd": "79,822.7",
+    "country": "法国",
+    "industry": "能源",
+    "website": "http://www.engie.com/",
+    "domain": "engie.com"
+  },
+  {
+    "rank": "157",
+    "company": "美国邮政\nU.S. POSTAL SERVICE",
+    "revenue_musd": "79,547",
+    "country": "美国",
+    "industry": "邮件、包裹及货物包装运输",
+    "website": "http://www.usps.com/",
+    "domain": "usps.com"
+  },
+  {
+    "rank": "158",
+    "company": "西斯科公司\nSYSCO",
+    "revenue_musd": "78,844",
+    "country": "美国",
+    "industry": "批发：食品",
+    "website": "http://www.sysco.com/",
+    "domain": "sysco.com"
+  },
+  {
+    "rank": "159",
+    "company": "起亚公司\nKIA",
+    "revenue_musd": "78,795",
+    "country": "韩国",
+    "industry": "车辆与零部件",
+    "website": "http://www.kia.com/",
+    "domain": "kia.com"
+  },
+  {
+    "rank": "160",
+    "company": "万喜集团\nVINCI",
+    "revenue_musd": "78,692.6",
+    "country": "法国",
+    "industry": "工程与建筑",
+    "website": "http://www.vinci.com/",
+    "domain": "vinci.com"
+  },
+  {
+    "rank": "161",
+    "company": "盛虹控股集团有限公司\nSHENGHONG HOLDING GROUP",
+    "revenue_musd": "78,611.7",
+    "country": "中国",
+    "industry": "化学品",
+    "website": "http://www.shenghonggroup.cn/",
+    "domain": "shenghonggroup.cn"
+  },
+  {
+    "rank": "162",
+    "company": "Seven & I 控股公司\nSEVEN & I HOLDINGS",
+    "revenue_musd": "78,509.4",
+    "country": "日本",
+    "industry": "食品店和杂货店",
+    "website": "http://www.7andi.com/",
+    "domain": "7andi.com"
+  },
+  {
+    "rank": "163",
+    "company": "印度国家银行\nSTATE BANK OF INDIA",
+    "revenue_musd": "78,472.4",
+    "country": "印度",
+    "industry": "银行：商业储蓄",
+    "website": "http://www.sbi.co.in/",
+    "domain": "sbi.co.in"
+  },
+  {
+    "rank": "164",
+    "company": "中国第一汽车集团有限公司\nCHINA FAW GROUP",
+    "revenue_musd": "77,736.8",
+    "country": "中国",
+    "industry": "车辆与零部件",
+    "website": "http://www.faw.com.cn/",
+    "domain": "faw.com.cn"
+  },
+  {
+    "rank": "165",
+    "company": "江西铜业集团有限公司\nJIANGXI COPPER",
+    "revenue_musd": "77,667.6",
+    "country": "中国",
+    "industry": "金属产品",
+    "website": "http://www.jxcc.com/",
+    "domain": "jxcc.com"
+  },
+  {
+    "rank": "166",
+    "company": "山东魏桥创业集团有限公司\nSHANDONG WEIQIAO PIONEERING GROUP",
+    "revenue_musd": "77,626.2",
+    "country": "中国",
+    "industry": "纺织",
+    "website": "http://www.weiqiaocy.com/",
+    "domain": "weiqiaocy.com"
+  },
+  {
+    "rank": "167",
+    "company": "巴西JBS公司\nJBS",
+    "revenue_musd": "77,182.6",
+    "country": "荷兰",
+    "industry": "食品生产",
+    "website": "http://jbs.com.br/",
+    "domain": "jbs.com.br"
+  },
+  {
+    "rank": "168",
+    "company": "交通银行股份有限公司\nBANK OF COMMUNICATIONS",
+    "revenue_musd": "75,834.2",
+    "country": "中国",
+    "industry": "银行：商业储蓄",
+    "website": "http://www.bankcomm.com/",
+    "domain": "bankcomm.com"
+  },
+  {
+    "rank": "169",
+    "company": "前进保险公司\nPROGRESSIVE",
+    "revenue_musd": "75,372",
+    "country": "美国",
+    "industry": "财产与意外保险（股份）",
+    "website": "http://www.progressive.com/",
+    "domain": "progressive.com"
+  },
+  {
+    "rank": "170",
+    "company": "太平洋建设集团有限公司\nPACIFIC CONSTRUCTION GROUP",
+    "revenue_musd": "75,359.8",
+    "country": "中国",
+    "industry": "工程与建筑",
+    "website": "http://www.cpcg.com.cn/",
+    "domain": "cpcg.com.cn"
+  },
+  {
+    "rank": "171",
+    "company": "印尼国家石油公司\nPERTAMINA",
+    "revenue_musd": "75,327",
+    "country": "印度尼西亚",
+    "industry": "炼油",
+    "website": "http://www.pertamina.com/",
+    "domain": "pertamina.com"
+  },
+  {
+    "rank": "172",
+    "company": "Uniper公司\nUNIPER",
+    "revenue_musd": "75,306.6",
+    "country": "德国",
+    "industry": "能源",
+    "website": "http://www.uniper.energy/",
+    "domain": "uniper.energy"
+  },
+  {
+    "rank": "173",
+    "company": "日本邮政控股公司\nJAPAN POST HOLDINGS",
+    "revenue_musd": "75,230",
+    "country": "日本",
+    "industry": "人寿与健康保险（股份）",
+    "website": "http://www.japanpost.jp/en/",
+    "domain": "japanpost.jp"
+  },
+  {
+    "rank": "174",
+    "company": "空中客车公司\nAIRBUS",
+    "revenue_musd": "74,867.5",
+    "country": "荷兰",
+    "industry": "航天与防务",
+    "website": "http://www.airbus.com/",
+    "domain": "airbus.com"
+  },
+  {
+    "rank": "175",
+    "company": "美国运通公司\nAMERICAN EXPRESS",
+    "revenue_musd": "74,201",
+    "country": "美国",
+    "industry": "多元化金融",
+    "website": "http://www.americanexpress.com/",
+    "domain": "americanexpress.com"
+  },
+  {
+    "rank": "176",
+    "company": "波兰国营石油公司\nORLEN",
+    "revenue_musd": "74,121.3",
+    "country": "波兰",
+    "industry": "炼油",
+    "website": "http://www.orlen.pl/",
+    "domain": "orlen.pl"
+  },
+  {
+    "rank": "177",
+    "company": "德意志银行\nDEUTSCHE BANK",
+    "revenue_musd": "73,708.2",
+    "country": "德国",
+    "industry": "银行：商业储蓄",
+    "website": "http://www.db.com/",
+    "domain": "db.com"
+  },
+  {
+    "rank": "178",
+    "company": "陕西煤业化工集团有限责任公司\nSHAANXI COAL & CHEMICAL INDUSTRY",
+    "revenue_musd": "73,683.6",
+    "country": "中国",
+    "industry": "采矿、原油生产",
+    "website": "http://www.shccig.com/",
+    "domain": "shccig.com"
+  },
+  {
+    "rank": "179",
+    "company": "英国劳埃德银行集团\nLLOYDS BANKING GROUP",
+    "revenue_musd": "73,085.6",
+    "country": "英国",
+    "industry": "银行：商业储蓄",
+    "website": "http://lloydsbankinggroup.com/",
+    "domain": "lloydsbankinggroup.com"
+  },
+  {
+    "rank": "180",
+    "company": "引能仕控股株式会社\nENEOS HOLDINGS",
+    "revenue_musd": "72,819.3",
+    "country": "日本",
+    "industry": "炼油",
+    "website": "http://www.hd.eneos.co.jp/",
+    "domain": "hd.eneos.co.jp"
+  },
+  {
+    "rank": "181",
+    "company": "印度石油天然气公司\nOIL & NATURAL GAS",
+    "revenue_musd": "72,406.3",
+    "country": "印度",
+    "industry": "采矿、原油生产",
+    "website": "http://www.ongcindia.com/",
+    "domain": "ongcindia.com"
+  },
+  {
+    "rank": "182",
+    "company": "卢克石油公司\nLUKOIL",
+    "revenue_musd": "72,270.3",
+    "country": "俄罗斯",
+    "industry": "炼油",
+    "website": "http://www.lukoil.com/",
+    "domain": "lukoil.com"
+  },
+  {
+    "rank": "183",
+    "company": "日本生命保险公司\nNIPPON LIFE INSURANCE",
+    "revenue_musd": "72,181",
+    "country": "日本",
+    "industry": "人寿与健康保险（互助）",
+    "website": "http://www.nissay.co.jp/",
+    "domain": "nissay.co.jp"
+  },
+  {
+    "rank": "184",
+    "company": "荷兰国际集团\nING GROUP",
+    "revenue_musd": "71,973.6",
+    "country": "荷兰",
+    "industry": "银行：商业储蓄",
+    "website": "http://www.ing.com/",
+    "domain": "ing.com"
+  },
+  {
+    "rank": "185",
+    "company": "巴克莱\nBARCLAYS",
+    "revenue_musd": "71,257.5",
+    "country": "英国",
+    "industry": "银行：商业储蓄",
+    "website": "http://www.home.barclays/",
+    "domain": "home.barclays"
+  },
+  {
+    "rank": "186",
+    "company": "洛克希德－马丁\nLOCKHEED MARTIN",
+    "revenue_musd": "71,043",
+    "country": "美国",
+    "industry": "航天与防务",
+    "website": "http://www.lockheedmartin.com/",
+    "domain": "lockheedmartin.com"
+  },
+  {
+    "rank": "187",
+    "company": "美国大都会集团\nMETLIFE",
+    "revenue_musd": "70,986",
+    "country": "美国",
+    "industry": "人寿与健康保险（股份）",
+    "website": "http://www.metlife.com/",
+    "domain": "metlife.com"
+  },
+  {
+    "rank": "188",
+    "company": "瑞士罗氏公司\nROCHE GROUP",
+    "revenue_musd": "70,861.1",
+    "country": "瑞士",
+    "industry": "制药",
+    "website": "http://www.roche.com/",
+    "domain": "roche.com"
+  },
+  {
+    "rank": "189",
+    "company": "HCA 医疗保健公司\nHCA HEALTHCARE",
+    "revenue_musd": "70,603",
+    "country": "美国",
+    "industry": "保健：医疗设施",
+    "website": "http://www.hcahealthcare.com/",
+    "domain": "hcahealthcare.com"
+  },
+  {
+    "rank": "190",
+    "company": "巴斯夫公司\nBASF",
+    "revenue_musd": "70,574.2",
+    "country": "德国",
+    "industry": "化学品",
+    "website": "http://www.basf.com/",
+    "domain": "basf.com"
+  },
+  {
+    "rank": "191",
+    "company": "KOC集团\nKOÇ HOLDING",
+    "revenue_musd": "70,543.2",
+    "country": "土耳其",
+    "industry": "能源",
+    "website": "http://www.koc.com.tr/",
+    "domain": "koc.com.tr"
+  },
+  {
+    "rank": "192",
+    "company": "保德信金融集团\nPRUDENTIAL FINANCIAL",
+    "revenue_musd": "70,405",
+    "country": "美国",
+    "industry": "人寿与健康保险（股份）",
+    "website": "http://investor.prudential.com/",
+    "domain": "investor.prudential.com"
+  },
+  {
+    "rank": "193",
+    "company": "招商银行股份有限公司\nCHINA MERCHANTS BANK",
+    "revenue_musd": "70,384.7",
+    "country": "中国",
+    "industry": "银行：商业储蓄",
+    "website": "http://www.cmbchina.com/",
+    "domain": "cmbchina.com"
+  },
+  {
+    "rank": "194",
+    "company": "马来西亚国家石油公司\nPETRONAS",
+    "revenue_musd": "69,973.9",
+    "country": "马来西亚",
+    "industry": "能源",
+    "website": "http://www.petronas.com/",
+    "domain": "petronas.com"
+  },
+  {
+    "rank": "195",
+    "company": "Alimentation Couche-Tard公司\nALIMENTATION COUCHE-TARD",
+    "revenue_musd": "69,263.5",
+    "country": "加拿大",
+    "industry": "专业零售",
+    "website": "http://corpo.couche-tard.com/",
+    "domain": "corpo.couche-tard.com"
+  },
+  {
+    "rank": "196",
+    "company": "联想集团有限公司\nLENOVO GROUP",
+    "revenue_musd": "69,077",
+    "country": "中国",
+    "industry": "计算机、办公设备",
+    "website": "http://www.lenovo.com/",
+    "domain": "lenovo.com"
+  },
+  {
+    "rank": "197",
+    "company": "韩国电力公司\nKOREA ELECTRIC POWER",
+    "revenue_musd": "67,890.1",
+    "country": "韩国",
+    "industry": "公用设施",
+    "website": "http://www.kepco.co.kr/",
+    "domain": "kepco.co.kr"
+  },
+  {
+    "rank": "198",
+    "company": "丰田通商公司\nTOYOTA TSUSHO",
+    "revenue_musd": "67,628.4",
+    "country": "日本",
+    "industry": "贸易",
+    "website": "http://www.toyota-tsusho.com/",
+    "domain": "toyota-tsusho.com"
+  },
+  {
+    "rank": "199",
+    "company": "中国保利集团有限公司\nCHINA POLY GROUP",
+    "revenue_musd": "67,617.7",
+    "country": "中国",
+    "industry": "房地产",
+    "website": "http://www.poly.com.cn/",
+    "domain": "poly.com.cn"
+  },
+  {
+    "rank": "200",
+    "company": "丰益国际\nWILMAR INTERNATIONAL",
+    "revenue_musd": "67,379.1",
+    "country": "新加坡",
+    "industry": "食品生产",
+    "website": "http://www.wilmar-international.com/",
+    "domain": "wilmar-international.com"
+  },
+  {
+    "rank": "201",
+    "company": "北京汽车集团有限公司\nBEIJING AUTOMOTIVE GROUP",
+    "revenue_musd": "67,199.7",
+    "country": "中国",
+    "industry": "车辆与零部件",
+    "website": "http://www.baicgroup.com.cn/",
+    "domain": "baicgroup.com.cn"
+  },
+  {
+    "rank": "202",
+    "company": "慕尼黑再保险集团\nMUNICH RE GROUP",
+    "revenue_musd": "67,118",
+    "country": "德国",
+    "industry": "财产与意外保险（股份）",
+    "website": "http://www.munichre.com/",
+    "domain": "munichre.com"
+  },
+  {
+    "rank": "203",
+    "company": "中国铝业集团有限公司\nALUMINUM CORP. OF CHINA",
+    "revenue_musd": "66,811.1",
+    "country": "中国",
+    "industry": "金属产品",
+    "website": "http://www.chinalco.com.cn/",
+    "domain": "chinalco.com.cn"
+  },
+  {
+    "rank": "204",
+    "company": "日本三井住友金融集团\nSUMITOMO MITSUI FINANCIAL GROUP",
+    "revenue_musd": "66,745.1",
+    "country": "日本",
+    "industry": "银行：商业储蓄",
+    "website": "http://www.smfg.co.jp/english/",
+    "domain": "smfg.co.jp"
+  },
+  {
+    "rank": "205",
+    "company": "伊塔乌联合银行控股公司\nITAÚ UNIBANCO HOLDING",
+    "revenue_musd": "66,620.1",
+    "country": "巴西",
+    "industry": "银行：商业储蓄",
+    "website": "http://www.itau.com.br/",
+    "domain": "itau.com.br"
+  },
+  {
+    "rank": "206",
+    "company": "波音\nBOEING",
+    "revenue_musd": "66,517",
+    "country": "美国",
+    "industry": "航天与防务",
+    "website": "http://www.boeing.com/",
+    "domain": "boeing.com"
+  },
+  {
+    "rank": "207",
+    "company": "日本永旺集团\nAEON",
+    "revenue_musd": "66,457.7",
+    "country": "日本",
+    "industry": "食品店和杂货店",
+    "website": "http://www.aeon.info/",
+    "domain": "aeon.info"
+  },
+  {
+    "rank": "208",
+    "company": "厦门国贸控股集团有限公司\nXIAMEN ITG HOLDING GROUP",
+    "revenue_musd": "66,225.7",
+    "country": "中国",
+    "industry": "贸易",
+    "website": "http://www.itgholding.com.cn/",
+    "domain": "itgholding.com.cn"
+  },
+  {
+    "rank": "209",
+    "company": "苏黎世保险集团\nZURICH INSURANCE GROUP",
+    "revenue_musd": "65,801",
+    "country": "瑞士",
+    "industry": "财产与意外保险（股份）",
+    "website": "http://www.zurich.com/",
+    "domain": "zurich.com"
+  },
+  {
+    "rank": "210",
+    "company": "联合利华\nUNILEVER",
+    "revenue_musd": "65,708.9",
+    "country": "英国",
+    "industry": "家居、个人用品",
+    "website": "http://www.unilever.com/",
+    "domain": "unilever.com"
+  },
+  {
+    "rank": "211",
+    "company": "埃森哲\nACCENTURE",
+    "revenue_musd": "64,896.5",
+    "country": "爱尔兰",
+    "industry": "信息技术服务",
+    "website": "http://www.accenture.com/",
+    "domain": "accenture.com"
+  },
+  {
+    "rank": "212",
+    "company": "中国远洋海运集团有限公司\nCOSCO SHIPPING",
+    "revenue_musd": "64,863.1",
+    "country": "中国",
+    "industry": "船务",
+    "website": "http://www.coscoshipping.com/",
+    "domain": "coscoshipping.com"
+  },
+  {
+    "rank": "213",
+    "company": "卡特彼勒\nCATERPILLAR",
+    "revenue_musd": "64,809",
+    "country": "美国",
+    "industry": "建筑和农业机械",
+    "website": "http://www.caterpillar.com/",
+    "domain": "caterpillar.com"
+  },
+  {
+    "rank": "214",
+    "company": "第一生命控股有限公司\nDAI-ICHI LIFE HOLDINGS",
+    "revenue_musd": "64,766.4",
+    "country": "日本",
+    "industry": "人寿与健康保险（股份）",
+    "website": "http://www.dai-ichi-life-hd.com/",
+    "domain": "dai-ichi-life-hd.com"
+  },
+  {
+    "rank": "215",
+    "company": "LG电子\nLG ELECTRONICS",
+    "revenue_musd": "64,333.5",
+    "country": "韩国",
+    "industry": "电子、电气设备",
+    "website": "http://www.lg.com/global/",
+    "domain": "lg.com"
+  },
+  {
+    "rank": "216",
+    "company": "日立\nHITACHI",
+    "revenue_musd": "64,176.8",
+    "country": "日本",
+    "industry": "电子、电气设备",
+    "website": "http://www.hitachi.com/",
+    "domain": "hitachi.com"
+  },
+  {
+    "rank": "217",
+    "company": "默沙东\nMERCK",
+    "revenue_musd": "64,168",
+    "country": "美国",
+    "industry": "制药",
+    "website": "http://www.merck.com/",
+    "domain": "merck.com"
+  },
+  {
+    "rank": "218",
+    "company": "好事达\nALLSTATE",
+    "revenue_musd": "64,106",
+    "country": "美国",
+    "industry": "财产与意外保险（股份）",
+    "website": "http://www.allstate.com/",
+    "domain": "allstate.com"
+  },
+  {
+    "rank": "219",
+    "company": "辉瑞制药有限公司\nPFIZER",
+    "revenue_musd": "63,627",
+    "country": "美国",
+    "industry": "制药",
+    "website": "http://www.pfizer.com/",
+    "domain": "pfizer.com"
+  },
+  {
+    "rank": "220",
+    "company": "浙江恒逸集团有限公司\nZHEJIANG HENGYI GROUP",
+    "revenue_musd": "62,792.3",
+    "country": "中国",
+    "industry": "化学品",
+    "website": "http://www.hengyi.com/",
+    "domain": "hengyi.com"
+  },
+  {
+    "rank": "221",
+    "company": "国际商业机器公司\nINTERNATIONAL BUSINESS MACHINES",
+    "revenue_musd": "62,753",
+    "country": "美国",
+    "industry": "信息技术服务",
+    "website": "http://www.ibm.com/",
+    "domain": "ibm.com"
+  },
+  {
+    "rank": "222",
+    "company": "美国纽约人寿保险公司\nNEW YORK LIFE INSURANCE",
+    "revenue_musd": "62,639.2",
+    "country": "美国",
+    "industry": "人寿与健康保险（互助）",
+    "website": "http://www.newyorklife.com/",
+    "domain": "newyorklife.com"
+  },
+  {
+    "rank": "223",
+    "company": "安赛乐米塔尔\nARCELORMITTAL",
+    "revenue_musd": "62,441",
+    "country": "卢森堡",
+    "industry": "金属产品",
+    "website": "http://www.arcelormittal.com/",
+    "domain": "arcelormittal.com"
+  },
+  {
+    "rank": "224",
+    "company": "意大利忠利保险公司\nASSICURAZIONI GENERALI",
+    "revenue_musd": "62,196.4",
+    "country": "意大利",
+    "industry": "人寿与健康保险（股份）",
+    "website": "http://www.generali.com/",
+    "domain": "generali.com"
+  },
+  {
+    "rank": "225",
+    "company": "达美航空\nDELTA AIR LINES",
+    "revenue_musd": "61,643",
+    "country": "美国",
+    "industry": "航空",
+    "website": "http://www.delta.com/",
+    "domain": "delta.com"
+  },
+  {
+    "rank": "226",
+    "company": "中国兵器工业集团有限公司\nCHINA NORTH INDUSTRIES GROUP",
+    "revenue_musd": "61,519.5",
+    "country": "中国",
+    "industry": "航天与防务",
+    "website": "http://www.norincogroup.com.cn/",
+    "domain": "norincogroup.com.cn"
+  },
+  {
+    "rank": "227",
+    "company": "法国布伊格集团\nBOUYGUES",
+    "revenue_musd": "61,423.2",
+    "country": "法国",
+    "industry": "工程与建筑",
+    "website": "http://www.bouygues.com/",
+    "domain": "bouygues.com"
+  },
+  {
+    "rank": "228",
+    "company": "中国能源建设集团有限公司\nCHINA ENERGY ENGINEERING GROUP",
+    "revenue_musd": "61,099.5",
+    "country": "中国",
+    "industry": "工程与建筑",
+    "website": "http://www.ceec.net.cn/",
+    "domain": "ceec.net.cn"
+  },
+  {
+    "rank": "229",
+    "company": "雷诺\nRENAULT",
+    "revenue_musd": "60,811.1",
+    "country": "法国",
+    "industry": "车辆与零部件",
+    "website": "http://renaultgroup.com/",
+    "domain": "renaultgroup.com"
+  },
+  {
+    "rank": "230",
+    "company": "巴西银行\nBANCO DO BRASIL",
+    "revenue_musd": "60,802",
+    "country": "巴西",
+    "industry": "银行：商业储蓄",
+    "website": "http://www.bb.com.br/",
+    "domain": "bb.com.br"
+  },
+  {
+    "rank": "231",
+    "company": "大众超级市场公司\nPUBLIX SUPER MARKETS",
+    "revenue_musd": "60,177",
+    "country": "美国",
+    "industry": "食品店和杂货店",
+    "website": "http://corporate.publix.com/",
+    "domain": "corporate.publix.com"
+  },
+  {
+    "rank": "232",
+    "company": "百威英博\nANHEUSER-BUSCH INBEV",
+    "revenue_musd": "59,768",
+    "country": "比利时",
+    "industry": "饮料",
+    "website": "http://www.ab-inbev.com/",
+    "domain": "ab-inbev.com"
+  },
+  {
+    "rank": "233",
+    "company": "奇瑞控股集团有限公司\nCHERY HOLDING GROUP",
+    "revenue_musd": "59,693.9",
+    "country": "中国",
+    "industry": "车辆与零部件",
+    "website": "http://www.cheryholding.com/",
+    "domain": "cheryholding.com"
+  },
+  {
+    "rank": "234",
+    "company": "日本瑞穗金融集团\nMIZUHO FINANCIAL GROUP",
+    "revenue_musd": "59,237.3",
+    "country": "日本",
+    "industry": "银行：商业储蓄",
+    "website": "http://www.mizuhogroup.com/",
+    "domain": "mizuhogroup.com"
+  },
+  {
+    "rank": "235",
+    "company": "金川集团股份有限公司\nJINCHUAN GROUP",
+    "revenue_musd": "58,886",
+    "country": "中国",
+    "industry": "金属产品",
+    "website": "http://www.jnmc.com/",
+    "domain": "jnmc.com"
+  },
+  {
+    "rank": "236",
+    "company": "美国全国保险公司\nNATIONWIDE",
+    "revenue_musd": "58,645.9",
+    "country": "美国",
+    "industry": "财产与意外保险（互助）",
+    "website": "http://www.nationwide.com/",
+    "domain": "nationwide.com"
+  },
+  {
+    "rank": "237",
+    "company": "德国艾德卡公司\nEDEKA ZENTRALE",
+    "revenue_musd": "58,493.6",
+    "country": "德国",
+    "industry": "批发：食品",
+    "website": "http://www.verbund.edeka/",
+    "domain": "verbund.edeka"
+  },
+  {
+    "rank": "238",
+    "company": "戴姆勒卡车控股股份公司\nDAIMLER TRUCK HOLDING",
+    "revenue_musd": "58,480.6",
+    "country": "德国",
+    "industry": "车辆与零部件",
+    "website": "http://www.daimlertruck.com/",
+    "domain": "daimlertruck.com"
+  },
+  {
+    "rank": "239",
+    "company": "TD Synnex公司\nTD SYNNEX",
+    "revenue_musd": "58,452.4",
+    "country": "美国",
+    "industry": "批发：电子、办公设备",
+    "website": "http://www.tdsynnex.com/",
+    "domain": "tdsynnex.com"
+  },
+  {
+    "rank": "240",
+    "company": "蒙特利尔银行\nBANK OF MONTREAL",
+    "revenue_musd": "58,295.1",
+    "country": "加拿大",
+    "industry": "银行：商业储蓄",
+    "website": "http://www.bmo.com/",
+    "domain": "bmo.com"
+  },
+  {
+    "rank": "241",
+    "company": "厦门象屿集团有限公司\nXMXYG",
+    "revenue_musd": "57,874.3",
+    "country": "中国",
+    "industry": "贸易",
+    "website": "http://www.xiangyu-group.com/",
+    "domain": "xiangyu-group.com"
+  },
+  {
+    "rank": "242",
+    "company": "兴业银行股份有限公司\nINDUSTRIAL BANK",
+    "revenue_musd": "57,476.8",
+    "country": "中国",
+    "industry": "银行：商业储蓄",
+    "website": "http://www.cib.com.cn/",
+    "domain": "cib.com.cn"
+  },
+  {
+    "rank": "243",
+    "company": "联合航空控股公司\nUNITED AIRLINES HOLDINGS",
+    "revenue_musd": "57,063",
+    "country": "美国",
+    "industry": "航空",
+    "website": "http://www.united.com/",
+    "domain": "united.com"
+  },
+  {
+    "rank": "244",
+    "company": "日本制铁集团公司\nNIPPON STEEL CORPORATION",
+    "revenue_musd": "57,040.7",
+    "country": "日本",
+    "industry": "金属产品",
+    "website": "http://www.nipponsteel.com/",
+    "domain": "nipponsteel.com"
+  },
+  {
+    "rank": "245",
+    "company": "康菲石油公司\nCONOCOPHILLIPS",
+    "revenue_musd": "56,953",
+    "country": "美国",
+    "industry": "采矿、原油生产",
+    "website": "http://www.conocophillips.com/",
+    "domain": "conocophillips.com"
+  },
+  {
+    "rank": "246",
+    "company": "美的集团股份有限公司\nMIDEA GROUP",
+    "revenue_musd": "56,855.5",
+    "country": "中国",
+    "industry": "电子、电气设备",
+    "website": "http://www.midea-group.com/",
+    "domain": "midea-group.com"
+  },
+  {
+    "rank": "247",
+    "company": "青山控股集团有限公司\nTSINGSHAN HOLDING GROUP",
+    "revenue_musd": "56,515.8",
+    "country": "中国",
+    "industry": "金属产品",
+    "website": "http://www.tssgroup.com.cn/",
+    "domain": "tssgroup.com.cn"
+  },
+  {
+    "rank": "248",
+    "company": "TJX公司\nTJX",
+    "revenue_musd": "56,360",
+    "country": "美国",
+    "industry": "专业零售",
+    "website": "http://www.tjx.com/",
+    "domain": "tjx.com"
+  },
+  {
+    "rank": "249",
+    "company": "艾伯维\nABBVIE",
+    "revenue_musd": "56,334",
+    "country": "美国",
+    "industry": "制药",
+    "website": "http://www.abbvie.com/",
+    "domain": "abbvie.com"
+  },
+  {
+    "rank": "250",
+    "company": "Enterprise Products Partners公司\nENTERPRISE PRODUCTS PARTNERS",
+    "revenue_musd": "56,219",
+    "country": "美国",
+    "industry": "管道运输",
+    "website": "http://www.enterpriseproducts.com/",
+    "domain": "enterpriseproducts.com"
+  },
+  {
+    "rank": "251",
+    "company": "中国太平洋保险(集团)股份有限公司\nCHINA PACIFIC INSURANCE (GROUP)",
+    "revenue_musd": "56,161.2",
+    "country": "中国",
+    "industry": "人寿与健康保险（股份）",
+    "website": "http://www.cpic.com.cn/",
+    "domain": "cpic.com.cn"
+  },
+  {
+    "rank": "252",
+    "company": "广州汽车工业集团有限公司\nGUANGZHOU AUTOMOBILE INDUSTRY GROUP",
+    "revenue_musd": "56,059.1",
+    "country": "中国",
+    "industry": "车辆与零部件",
+    "website": "http://www.gac.com.cn/",
+    "domain": "gac.com.cn"
+  },
+  {
+    "rank": "253",
+    "company": "加拿大丰业银行\nBANK OF NOVA SCOTIA",
+    "revenue_musd": "55,917.4",
+    "country": "加拿大",
+    "industry": "银行：商业储蓄",
+    "website": "http://www.scotiabank.com/",
+    "domain": "scotiabank.com"
+  },
+  {
+    "rank": "254",
+    "company": "河钢集团有限公司\nHBIS GROUP",
+    "revenue_musd": "55,879.7",
+    "country": "中国",
+    "industry": "金属产品",
+    "website": "http://www.hbisco.com/",
+    "domain": "hbisco.com"
+  },
+  {
+    "rank": "255",
+    "company": "意大利联合圣保罗银行\nINTESA SANPAOLO",
+    "revenue_musd": "55,844.1",
+    "country": "意大利",
+    "industry": "银行：商业储蓄",
+    "website": "http://www.group.intesasanpaolo.com/",
+    "domain": "group.intesasanpaolo.com"
+  },
+  {
+    "rank": "256",
+    "company": "中国华能集团有限公司\nCHINA HUANENG GROUP",
+    "revenue_musd": "55,760.2",
+    "country": "中国",
+    "industry": "能源",
+    "website": "http://www.chng.com.cn/",
+    "domain": "chng.com.cn"
+  },
+  {
+    "rank": "257",
+    "company": "安达保险公司\nCHUBB",
+    "revenue_musd": "55,753",
+    "country": "瑞士",
+    "industry": "财产与意外保险（股份）",
+    "website": "http://www.chubb.com/",
+    "domain": "chubb.com"
+  },
+  {
+    "rank": "258",
+    "company": "HDFC银行\nHDFC BANK",
+    "revenue_musd": "55,708.6",
+    "country": "印度",
+    "industry": "银行：商业储蓄",
+    "website": "http://www.hdfcbank.com/",
+    "domain": "hdfcbank.com"
+  },
+  {
+    "rank": "259",
+    "company": "必和必拓集团\nBHP GROUP",
+    "revenue_musd": "55,658",
+    "country": "澳大利亚",
+    "industry": "采矿、原油生产",
+    "website": "http://www.bhp.com/",
+    "domain": "bhp.com"
+  },
+  {
+    "rank": "260",
+    "company": "雷普索尔公司\nREPSOL",
+    "revenue_musd": "55,571.5",
+    "country": "西班牙",
+    "industry": "炼油",
+    "website": "http://www.repsol.com/",
+    "domain": "repsol.com"
+  },
+  {
+    "rank": "261",
+    "company": "松下控股公司\nPANASONIC HOLDINGS",
+    "revenue_musd": "55,483.8",
+    "country": "日本",
+    "industry": "电子、电气设备",
+    "website": "http://holdings.panasonic/global",
+    "domain": "holdings.panasonic"
+  },
+  {
+    "rank": "262",
+    "company": "马士基集团\nMAERSK GROUP",
+    "revenue_musd": "55,482",
+    "country": "丹麦",
+    "industry": "船务",
+    "website": "http://www.maersk.com/",
+    "domain": "maersk.com"
+  },
+  {
+    "rank": "263",
+    "company": "东京海上日动火灾保险公司\nTOKIO MARINE HOLDINGS",
+    "revenue_musd": "55,365.3",
+    "country": "日本",
+    "industry": "财产与意外保险（股份）",
+    "website": "http://www.tokiomarinehd.com/",
+    "domain": "tokiomarinehd.com"
+  },
+  {
+    "rank": "264",
+    "company": "特许通讯公司\nCHARTER COMMUNICATIONS",
+    "revenue_musd": "55,085",
+    "country": "美国",
+    "industry": "电信",
+    "website": "http://www.charter.com/",
+    "domain": "charter.com"
+  },
+  {
+    "rank": "265",
+    "company": "国家电力投资集团有限公司\nSTATE POWER INVESTMENT",
+    "revenue_musd": "54,963.1",
+    "country": "中国",
+    "industry": "能源",
+    "website": "http://www.spic.com.cn/",
+    "domain": "spic.com.cn"
+  },
+  {
+    "rank": "266",
+    "company": "拼多多控股公司\nPDD HOLDINGS",
+    "revenue_musd": "54,736.3",
+    "country": "中国",
+    "industry": "互联网服务和零售",
+    "website": "http://www.pddholdings.com/",
+    "domain": "pddholdings.com"
+  },
+  {
+    "rank": "267",
+    "company": "Performance Food Group公司\nPERFORMANCE FOOD GROUP",
+    "revenue_musd": "54,681.2",
+    "country": "美国",
+    "industry": "批发：食品",
+    "website": "http://www.pfgc.com/",
+    "domain": "pfgc.com"
+  },
+  {
+    "rank": "268",
+    "company": "美国航空集团\nAMERICAN AIRLINES GROUP",
+    "revenue_musd": "54,211",
+    "country": "美国",
+    "industry": "航空",
+    "website": "http://www.aa.com/",
+    "domain": "aa.com"
+  },
+  {
+    "rank": "269",
+    "company": "中国联合网络通信股份有限公司\nCHINA UNITED NETWORK COMMUNICATIONS",
+    "revenue_musd": "54,146",
+    "country": "中国",
+    "industry": "电信",
+    "website": "http://www.chinaunicom-a.com/",
+    "domain": "chinaunicom-a.com"
+  },
+  {
+    "rank": "270",
+    "company": "阿斯利康\nASTRAZENECA",
+    "revenue_musd": "54,073",
+    "country": "英国",
+    "industry": "制药",
+    "website": "http://www.astrazeneca.com/",
+    "domain": "astrazeneca.com"
+  },
+  {
+    "rank": "271",
+    "company": "第一资本金融公司\nCAPITAL ONE FINANCIAL",
+    "revenue_musd": "53,938",
+    "country": "美国",
+    "industry": "银行：商业储蓄",
+    "website": "http://www.capitalone.com/",
+    "domain": "capitalone.com"
+  },
+  {
+    "rank": "272",
+    "company": "浦项制铁控股公司\nPOSCO HOLDINGS",
+    "revenue_musd": "53,869.8",
+    "country": "韩国",
+    "industry": "金属产品",
+    "website": "http://posco-inc.com/",
+    "domain": "posco-inc.com"
+  },
+  {
+    "rank": "273",
+    "company": "思科公司\nCISCO SYSTEMS",
+    "revenue_musd": "53,803",
+    "country": "美国",
+    "industry": "网络、通讯设备",
+    "website": "http://www.cisco.com/",
+    "domain": "cisco.com"
+  },
+  {
+    "rank": "274",
+    "company": "力拓集团\nRIO TINTO GROUP",
+    "revenue_musd": "53,658",
+    "country": "英国",
+    "industry": "采矿、原油生产",
+    "website": "http://www.riotinto.com/",
+    "domain": "riotinto.com"
+  },
+  {
+    "rank": "275",
+    "company": "惠普公司\nHP",
+    "revenue_musd": "53,559",
+    "country": "美国",
+    "industry": "计算机、办公设备",
+    "website": "http://www.hp.com/",
+    "domain": "hp.com"
+  },
+  {
+    "rank": "276",
+    "company": "菲尼克斯医药公司\nPHOENIX PHARMA",
+    "revenue_musd": "53,536.8",
+    "country": "德国",
+    "industry": "批发：保健",
+    "website": "http://www.phoenixgroup.eu/",
+    "domain": "phoenixgroup.eu"
+  },
+  {
+    "rank": "277",
+    "company": "赛诺菲\nSANOFI",
+    "revenue_musd": "53,333",
+    "country": "法国",
+    "industry": "制药",
+    "website": "http://www.sanofi.com/",
+    "domain": "sanofi.com"
+  },
+  {
+    "rank": "278",
+    "company": "泰森食品\nTYSON FOODS",
+    "revenue_musd": "53,309",
+    "country": "美国",
+    "industry": "食品生产",
+    "website": "http://www.tysonfoods.com/",
+    "domain": "tysonfoods.com"
+  },
+  {
+    "rank": "279",
+    "company": "邦吉公司\nBUNGE GLOBAL",
+    "revenue_musd": "53,108",
+    "country": "瑞士",
+    "industry": "食品生产",
+    "website": "http://www.bunge.com/",
+    "domain": "bunge.com"
+  },
+  {
+    "rank": "280",
+    "company": "英特尔公司\nINTEL",
+    "revenue_musd": "53,101",
+    "country": "美国",
+    "industry": "半导体、电子元件",
+    "website": "http://www.intel.com/",
+    "domain": "intel.com"
+  },
+  {
+    "rank": "281",
+    "company": "日本出光兴产株式会社\nIDEMITSU KOSAN",
+    "revenue_musd": "53,004.8",
+    "country": "日本",
+    "industry": "炼油",
+    "website": "http://www.idemitsu.com/",
+    "domain": "idemitsu.com"
+  },
+  {
+    "rank": "282",
+    "company": "甲骨文公司\nORACLE",
+    "revenue_musd": "52,961",
+    "country": "美国",
+    "industry": "计算机软件",
+    "website": "http://www.oracle.com/",
+    "domain": "oracle.com"
+  },
+  {
+    "rank": "283",
+    "company": "印度塔塔汽车公司\nTATA MOTORS",
+    "revenue_musd": "52,753.9",
+    "country": "印度",
+    "industry": "车辆与零部件",
+    "website": "http://www.tatamotors.com/",
+    "domain": "tatamotors.com"
+  },
+  {
+    "rank": "284",
+    "company": "博通公司\nBROADCOM",
+    "revenue_musd": "52,432",
+    "country": "美国",
+    "industry": "半导体、电子元件",
+    "website": "http://www.broadcom.com/",
+    "domain": "broadcom.com"
+  },
+  {
+    "rank": "285",
+    "company": "巴拉特石油公司\nBHARAT PETROLEUM",
+    "revenue_musd": "52,401",
+    "country": "印度",
+    "industry": "炼油",
+    "website": "http://www.bharatpetroleum.in/",
+    "domain": "bharatpetroleum.in"
+  },
+  {
+    "rank": "286",
+    "company": "俄罗斯外贸银行\nVTB BANK",
+    "revenue_musd": "51,825.5",
+    "country": "俄罗斯",
+    "industry": "银行：商业储蓄",
+    "website": "http://www.vtb.com/",
+    "domain": "vtb.com"
+  },
+  {
+    "rank": "287",
+    "company": "诺华公司\nNOVARTIS",
+    "revenue_musd": "51,722",
+    "country": "瑞士",
+    "industry": "制药",
+    "website": "http://www.novartis.com/",
+    "domain": "novartis.com"
+  },
+  {
+    "rank": "288",
+    "company": "迪尔公司\nDEERE",
+    "revenue_musd": "51,716",
+    "country": "美国",
+    "industry": "建筑和农业机械",
+    "website": "http://www.deere.com/",
+    "domain": "deere.com"
+  },
+  {
+    "rank": "289",
+    "company": "晋能控股集团有限公司\nJINNENG HOLDING GROUP",
+    "revenue_musd": "51,443.4",
+    "country": "中国",
+    "industry": "采矿、原油生产",
+    "website": "http://www.jnkgjtnews.com/",
+    "domain": "jnkgjtnews.com"
+  },
+  {
+    "rank": "290",
+    "company": "耐克公司\nNIKE",
+    "revenue_musd": "51,362",
+    "country": "美国",
+    "industry": "服装",
+    "website": "http://investors.nike.com/",
+    "domain": "nike.com"
+  },
+  {
+    "rank": "291",
+    "company": "东风汽车集团有限公司\nDONGFENG MOTOR",
+    "revenue_musd": "51,309.3",
+    "country": "中国",
+    "industry": "车辆与零部件",
+    "website": "http://www.dfmc.com.cn/",
+    "domain": "dfmc.com.cn"
+  },
+  {
+    "rank": "292",
+    "company": "敬业集团有限公司\nJINGYE GROUP",
+    "revenue_musd": "51,224.6",
+    "country": "中国",
+    "industry": "金属产品",
+    "website": "http://www.hbjyjt.com/",
+    "domain": "hbjyjt.com"
+  },
+  {
+    "rank": "293",
+    "company": "巴西布拉德斯科银行\nBANCO BRADESCO",
+    "revenue_musd": "51,104.2",
+    "country": "巴西",
+    "industry": "银行：商业储蓄",
+    "website": "http://www.bradesco.com.br/",
+    "domain": "bradesco.com.br"
+  },
+  {
+    "rank": "294",
+    "company": "丸红株式会社\nMARUBENI",
+    "revenue_musd": "51,101.8",
+    "country": "日本",
+    "industry": "贸易",
+    "website": "http://www.marubeni.com/",
+    "domain": "marubeni.com"
+  },
+  {
+    "rank": "295",
+    "company": "陕西延长石油（集团）有限责任公司\nSHAANXI YANCHANG PETROLEUM (GROUP)",
+    "revenue_musd": "51,062.7",
+    "country": "中国",
+    "industry": "采矿、原油生产",
+    "website": "http://www.sxycpc.com/",
+    "domain": "sxycpc.com"
+  },
+  {
+    "rank": "296",
+    "company": "德国联邦铁路公司\nDEUTSCHE BAHN",
+    "revenue_musd": "50,972.2",
+    "country": "德国",
+    "industry": "铁路运输",
+    "website": "http://www.deutschebahn.com/",
+    "domain": "deutschebahn.com"
+  },
+  {
+    "rank": "297",
+    "company": "小米集团\nXIAOMI",
+    "revenue_musd": "50,854.5",
+    "country": "中国",
+    "industry": "电子、电气设备",
+    "website": "http://www.mi.com/global",
+    "domain": "mi.com"
+  },
+  {
+    "rank": "298",
+    "company": "法国国民互助信贷银行集团\nCRÉDIT MUTUEL GROUP",
+    "revenue_musd": "50,619.7",
+    "country": "法国",
+    "industry": "多元化金融",
+    "website": "http://investors.bfcm.creditmutuel.fr/",
+    "domain": "bfcm.creditmutuel.fr"
+  },
+  {
+    "rank": "299",
+    "company": "路易达孚集团\nLOUIS DREYFUS",
+    "revenue_musd": "50,589",
+    "country": "荷兰",
+    "industry": "食品生产",
+    "website": "http://www.ldc.com/",
+    "domain": "ldc.com"
+  },
+  {
+    "rank": "300",
+    "company": "美国利宝互助保险集团\nLIBERTY MUTUAL INSURANCE GROUP",
+    "revenue_musd": "50,429",
+    "country": "美国",
+    "industry": "财产与意外保险（股份）",
+    "website": "http://www.libertymutual.com/",
+    "domain": "libertymutual.com"
+  },
+  {
+    "rank": "301",
+    "company": "拜耳集团\nBAYER",
+    "revenue_musd": "50,401.2",
+    "country": "德国",
+    "industry": "制药",
+    "website": "http://www.bayer.com/",
+    "domain": "bayer.com"
+  },
+  {
+    "rank": "302",
+    "company": "圣戈班集团\nSAINT-GOBAIN",
+    "revenue_musd": "50,363.4",
+    "country": "法国",
+    "industry": "建材、玻璃",
+    "website": "http://www.saint-gobain.com/",
+    "domain": "saint-gobain.com"
+  },
+  {
+    "rank": "303",
+    "company": "宁德时代新能源科技股份有限公司\nCONTEMPORARY AMPEREX TECHNOLOGY",
+    "revenue_musd": "50,313.4",
+    "country": "中国",
+    "industry": "车辆与零部件",
+    "website": "http://www.catl.com/en/",
+    "domain": "catl.com"
+  },
+  {
+    "rank": "304",
+    "company": "Plains GP Holdings公司\nPLAINS GP HOLDINGS",
+    "revenue_musd": "50,073",
+    "country": "美国",
+    "industry": "管道运输",
+    "website": "http://www.plains.com/",
+    "domain": "plains.com"
+  },
+  {
+    "rank": "305",
+    "company": "Talanx公司\nTALANX",
+    "revenue_musd": "50,017.3",
+    "country": "德国",
+    "industry": "财产与意外保险（股份）",
+    "website": "http://www.talanx.com/",
+    "domain": "talanx.com"
+  },
+  {
+    "rank": "306",
+    "company": "联合信贷集团\nUNICREDIT GROUP",
+    "revenue_musd": "49,962.2",
+    "country": "意大利",
+    "industry": "银行：商业储蓄",
+    "website": "http://www.unicreditgroup.eu/",
+    "domain": "unicreditgroup.eu"
+  },
+  {
+    "rank": "307",
+    "company": "沃尔沃集团\nVOLVO",
+    "revenue_musd": "49,826.5",
+    "country": "瑞典",
+    "industry": "车辆与零部件",
+    "website": "http://www.volvogroup.com/",
+    "domain": "volvogroup.com"
+  },
+  {
+    "rank": "308",
+    "company": "HD现代公司\nHD HYUNDAI",
+    "revenue_musd": "49,694.3",
+    "country": "韩国",
+    "industry": "炼油",
+    "website": "http://www.hd-hyundai.com/",
+    "domain": "hd-hyundai.com"
+  },
+  {
+    "rank": "309",
+    "company": "上海浦东发展银行股份有限公司\nSHANGHAI PUDONG DEVELOPMENT BANK",
+    "revenue_musd": "48,944",
+    "country": "中国",
+    "industry": "银行：商业储蓄",
+    "website": "http://www.spdb.com.cn/",
+    "domain": "spdb.com.cn"
+  },
+  {
+    "rank": "310",
+    "company": "联合服务汽车协会\nUNITED SERVICES AUTOMOBILE ASSN.",
+    "revenue_musd": "48,560",
+    "country": "美国",
+    "industry": "财产与意外保险（股份）",
+    "website": "http://www.usaa.com/",
+    "domain": "usaa.com"
+  },
+  {
+    "rank": "311",
+    "company": "SK海力士公司\nSK HYNIX",
+    "revenue_musd": "48,541.1",
+    "country": "韩国",
+    "industry": "半导体、电子元件",
+    "website": "http://www.skhynix.com/",
+    "domain": "skhynix.com"
+  },
+  {
+    "rank": "312",
+    "company": "Iberdrola公司\nIBERDROLA",
+    "revenue_musd": "48,382.2",
+    "country": "西班牙",
+    "industry": "公用设施",
+    "website": "http://www.iberdrola.com/",
+    "domain": "iberdrola.com"
+  },
+  {
+    "rank": "313",
+    "company": "法国威立雅环境集团\nVEOLIA ENVIRONNEMENT",
+    "revenue_musd": "48,331.4",
+    "country": "法国",
+    "industry": "公用设施",
+    "website": "http://www.veolia.com/",
+    "domain": "veolia.com"
+  },
+  {
+    "rank": "314",
+    "company": "百时美施贵宝公司\nBRISTOL-MYERS SQUIBB",
+    "revenue_musd": "48,300",
+    "country": "美国",
+    "industry": "制药",
+    "website": "http://www.bms.com/",
+    "domain": "bms.com"
+  },
+  {
+    "rank": "315",
+    "company": "德国巴登-符腾堡州银行\nLANDESBANK BADEN-WÜRTTEMBERG",
+    "revenue_musd": "48,028.6",
+    "country": "德国",
+    "industry": "银行：商业储蓄",
+    "website": "http://www.lbbw.de/",
+    "domain": "lbbw.de"
+  },
+  {
+    "rank": "316",
+    "company": "英迈公司\nINGRAM MICRO HOLDING",
+    "revenue_musd": "47,983.7",
+    "country": "美国",
+    "industry": "批发：电子、办公设备",
+    "website": "http://www.ingrammicro.com/",
+    "domain": "ingrammicro.com"
+  },
+  {
+    "rank": "317",
+    "company": "住友商事\nSUMITOMO",
+    "revenue_musd": "47,834.5",
+    "country": "日本",
+    "industry": "贸易",
+    "website": "http://www.sumitomocorp.com/",
+    "domain": "sumitomocorp.com"
+  },
+  {
+    "rank": "318",
+    "company": "通用动力\nGENERAL DYNAMICS",
+    "revenue_musd": "47,716",
+    "country": "美国",
+    "industry": "航天与防务",
+    "website": "http://www.gd.com/",
+    "domain": "gd.com"
+  },
+  {
+    "rank": "319",
+    "company": "万科企业股份有限公司\nCHINA VANKE",
+    "revenue_musd": "47,695.5",
+    "country": "中国",
+    "industry": "房地产",
+    "website": "http://www.vanke.com/",
+    "domain": "vanke.com"
+  },
+  {
+    "rank": "320",
+    "company": "软银集团\nSOFTBANK GROUP",
+    "revenue_musd": "47,517.4",
+    "country": "日本",
+    "industry": "电信",
+    "website": "http://group.softbank/en/",
+    "domain": "group.softbank"
+  },
+  {
+    "rank": "321",
+    "company": "美洲电信\nAMÉRICA MÓVIL",
+    "revenue_musd": "47,484.7",
+    "country": "墨西哥",
+    "industry": "电信",
+    "website": "http://www.americamovil.com/",
+    "domain": "americamovil.com"
+  },
+  {
+    "rank": "322",
+    "company": "加拿大帝国商业银行\nCANADIAN IMPERIAL BANK OF COMMERCE",
+    "revenue_musd": "47,111.2",
+    "country": "加拿大",
+    "industry": "银行：商业储蓄",
+    "website": "http://www.cibc.com/",
+    "domain": "cibc.com"
+  },
+  {
+    "rank": "323",
+    "company": "可口可乐公司\nCOCA-COLA",
+    "revenue_musd": "47,061",
+    "country": "美国",
+    "industry": "饮料",
+    "website": "http://www.coca-colacompany.com/",
+    "domain": "coca-colacompany.com"
+  },
+  {
+    "rank": "324",
+    "company": "欧莱雅\nL'ORÉAL",
+    "revenue_musd": "47,028",
+    "country": "法国",
+    "industry": "家居、个人用品",
+    "website": "http://www.loreal.com/",
+    "domain": "loreal.com"
+  },
+  {
+    "rank": "325",
+    "company": "电装公司\nDENSO",
+    "revenue_musd": "46,979.7",
+    "country": "日本",
+    "industry": "车辆与零部件",
+    "website": "http://www.denso.com/global",
+    "domain": "denso.com"
+  },
+  {
+    "rank": "326",
+    "company": "美国教师退休基金会\nTIAA",
+    "revenue_musd": "46,945.8",
+    "country": "美国",
+    "industry": "人寿与健康保险（互助）",
+    "website": "http://www.tiaa.org/",
+    "domain": "tiaa.org"
+  },
+  {
+    "rank": "327",
+    "company": "美团公司\nMEITUAN",
+    "revenue_musd": "46,919.3",
+    "country": "中国",
+    "industry": "互联网服务和零售",
+    "website": "http://about.meituan.com/",
+    "domain": "meituan.com"
+  },
+  {
+    "rank": "328",
+    "company": "法国国营铁路集团\nSNCF GROUP",
+    "revenue_musd": "46,884.4",
+    "country": "法国",
+    "industry": "铁路运输",
+    "website": "http://groupe-sncf.com/",
+    "domain": "groupe-sncf.com"
+  },
+  {
+    "rank": "329",
+    "company": "Travelers公司\nTRAVELERS",
+    "revenue_musd": "46,423",
+    "country": "美国",
+    "industry": "财产与意外保险（股份）",
+    "website": "http://www.travelers.com/",
+    "domain": "travelers.com"
+  },
+  {
+    "rank": "330",
+    "company": "浙江省交通投资集团有限公司\nZHEJIANG COMMUNICATIONS INVESTMENT GROUP",
+    "revenue_musd": "45,971.6",
+    "country": "中国",
+    "industry": "运输及物流",
+    "website": "http://www.cncico.com/",
+    "domain": "cncico.com"
+  },
+  {
+    "rank": "331",
+    "company": "瑞士再保险股份有限公司\nSWISS RE",
+    "revenue_musd": "45,865",
+    "country": "瑞士",
+    "industry": "财产与意外保险（股份）",
+    "website": "http://www.swissre.com/",
+    "domain": "swissre.com"
+  },
+  {
+    "rank": "332",
+    "company": "中国兵器装备集团公司\nCHINA SOUTH INDUSTRIES GROUP",
+    "revenue_musd": "45,481.8",
+    "country": "中国",
+    "industry": "航天与防务",
+    "website": "http://www.csgc.com.cn/",
+    "domain": "csgc.com.cn"
+  },
+  {
+    "rank": "333",
+    "company": "Raízen公司\nRAÍZEN",
+    "revenue_musd": "45,473.9",
+    "country": "巴西",
+    "industry": "炼油",
+    "website": "http://www.raizen.com.br/",
+    "domain": "raizen.com.br"
+  },
+  {
+    "rank": "334",
+    "company": "泰康保险集团股份有限公司\nTAIKANG INSURANCE GROUP",
+    "revenue_musd": "45,456",
+    "country": "中国",
+    "industry": "人寿与健康保险（互助）",
+    "website": "http://www.taikang.com/",
+    "domain": "taikang.com"
+  },
+  {
+    "rank": "335",
+    "company": "英格卡集团\nINGKA GROUP",
+    "revenue_musd": "45,215.7",
+    "country": "荷兰",
+    "industry": "专业零售",
+    "website": "http://www.ingka.com/",
+    "domain": "ingka.com"
+  },
+  {
+    "rank": "336",
+    "company": "美国礼来公司\nELI LILLY",
+    "revenue_musd": "45,042.7",
+    "country": "美国",
+    "industry": "制药",
+    "website": "http://www.lilly.com/",
+    "domain": "lilly.com"
+  },
+  {
+    "rank": "337",
+    "company": "西班牙ACS集团\nACS",
+    "revenue_musd": "45,023.4",
+    "country": "西班牙",
+    "industry": "工程与建筑",
+    "website": "http://www.grupoacs.com/",
+    "domain": "grupoacs.com"
+  },
+  {
+    "rank": "338",
+    "company": "苏商建设集团有限公司\nSUSUN CONSTRUCTION GROUP",
+    "revenue_musd": "45,003.8",
+    "country": "中国",
+    "industry": "工程与建筑",
+    "website": "http://www.ss-ceo.com/",
+    "domain": "ss-ceo.com"
+  },
+  {
+    "rank": "339",
+    "company": "中国华电集团有限公司\nCHINA HUADIAN",
+    "revenue_musd": "45,003.1",
+    "country": "中国",
+    "industry": "公用设施",
+    "website": "http://www.chd.com.cn/",
+    "domain": "chd.com.cn"
+  },
+  {
+    "rank": "340",
+    "company": "乔治威斯顿公司\nGEORGE WESTON",
+    "revenue_musd": "44,975.6",
+    "country": "加拿大",
+    "industry": "食品店和杂货店",
+    "website": "http://www.weston.ca/",
+    "domain": "weston.ca"
+  },
+  {
+    "rank": "341",
+    "company": "Orange公司\nORANGE",
+    "revenue_musd": "44,781",
+    "country": "法国",
+    "industry": "电信",
+    "website": "http://www.orange.com/",
+    "domain": "orange.com"
+  },
+  {
+    "rank": "342",
+    "company": "采埃孚\nZF FRIEDRICHSHAFEN",
+    "revenue_musd": "44,746.4",
+    "country": "德国",
+    "industry": "车辆与零部件",
+    "website": "http://www.zf.com/",
+    "domain": "zf.com"
+  },
+  {
+    "rank": "343",
+    "company": "西班牙电话公司\nTELEFÓNICA",
+    "revenue_musd": "44,679.4",
+    "country": "西班牙",
+    "industry": "电信",
+    "website": "http://www.telefonica.com/",
+    "domain": "telefonica.com"
+  },
+  {
+    "rank": "344",
+    "company": "东京电力公司\nTOKYO ELECTRIC POWER",
+    "revenue_musd": "44,674.7",
+    "country": "日本",
+    "industry": "公用设施",
+    "website": "http://www.tepco.co.jp/",
+    "domain": "tepco.co.jp"
+  },
+  {
+    "rank": "345",
+    "company": "伍尔沃斯集团\nWOOLWORTHS GROUP",
+    "revenue_musd": "44,521.5",
+    "country": "澳大利亚",
+    "industry": "食品店和杂货店",
+    "website": "http://www.woolworthsgroup.com.au/",
+    "domain": "woolworthsgroup.com.au"
+  },
+  {
+    "rank": "346",
+    "company": "沃达丰集团\nVODAFONE GROUP",
+    "revenue_musd": "44,427.3",
+    "country": "英国",
+    "industry": "电信",
+    "website": "http://www.vodafone.com/",
+    "domain": "vodafone.com"
+  },
+  {
+    "rank": "347",
+    "company": "Uber Technologies公司\nUBER TECHNOLOGIES",
+    "revenue_musd": "43,978",
+    "country": "美国",
+    "industry": "互联网服务和零售",
+    "website": "http://www.uber.com/",
+    "domain": "uber.com"
+  },
+  {
+    "rank": "348",
+    "company": "广达电脑公司\nQUANTA COMPUTER",
+    "revenue_musd": "43,949.6",
+    "country": "中国",
+    "industry": "计算机、办公设备",
+    "website": "http://www.quantatw.com/",
+    "domain": "quantatw.com"
+  },
+  {
+    "rank": "349",
+    "company": "Fomento Económico Mexicano公司\nFOMENTO ECONÓMICO MEXICANO",
+    "revenue_musd": "43,800.7",
+    "country": "墨西哥",
+    "industry": "饮料",
+    "website": "http://www.femsa.com/",
+    "domain": "femsa.com"
+  },
+  {
+    "rank": "350",
+    "company": "MS&AD保险集团控股有限公司\nMS&AD INSURANCE GROUP HOLDINGS",
+    "revenue_musd": "43,693.5",
+    "country": "日本",
+    "industry": "财产与意外保险（股份）",
+    "website": "http://www.ms-ad-hd.com/",
+    "domain": "ms-ad-hd.com"
+  },
+  {
+    "rank": "351",
+    "company": "中国建材集团有限公司\nCHINA NATIONAL BUILDING MATERIAL GROUP",
+    "revenue_musd": "43,504.9",
+    "country": "中国",
+    "industry": "建材、玻璃",
+    "website": "http://www.cnbm.com.cn/",
+    "domain": "cnbm.com.cn"
+  },
+  {
+    "rank": "352",
+    "company": "中国机械工业集团有限公司\nSINOMACH",
+    "revenue_musd": "43,269.2",
+    "country": "中国",
+    "industry": "工业机械",
+    "website": "http://www.sinomach.com.cn/",
+    "domain": "sinomach.com.cn"
+  },
+  {
+    "rank": "353",
+    "company": "德国中央合作银行\nDZ BANK",
+    "revenue_musd": "43,262.7",
+    "country": "德国",
+    "industry": "银行：商业储蓄",
+    "website": "http://www.dzbank.com/",
+    "domain": "dzbank.com"
+  },
+  {
+    "rank": "354",
+    "company": "万通互惠理财公司\nMASSACHUSETTS MUTUAL LIFE INSURANCE",
+    "revenue_musd": "43,072",
+    "country": "美国",
+    "industry": "人寿与健康保险（互助）",
+    "website": "http://www.massmutual.com/",
+    "domain": "massmutual.com"
+  },
+  {
+    "rank": "355",
+    "company": "陶氏公司\nDOW",
+    "revenue_musd": "42,964",
+    "country": "美国",
+    "industry": "化学品",
+    "website": "http://www.dow.com/",
+    "domain": "dow.com"
+  },
+  {
+    "rank": "356",
+    "company": "澳新银行集团\nANZ GROUP HOLDINGS",
+    "revenue_musd": "42,962.8",
+    "country": "澳大利亚",
+    "industry": "银行：商业储蓄",
+    "website": "http://www.anz.com/",
+    "domain": "anz.com"
+  },
+  {
+    "rank": "357",
+    "company": "德国大陆集团\nCONTINENTAL",
+    "revenue_musd": "42,953.4",
+    "country": "德国",
+    "industry": "车辆与零部件",
+    "website": "http://www.continental.com/",
+    "domain": "continental.com"
+  },
+  {
+    "rank": "358",
+    "company": "澳洲联邦银行\nCOMMONWEALTH BANK OF AUSTRALIA",
+    "revenue_musd": "42,945.7",
+    "country": "澳大利亚",
+    "industry": "银行：商业储蓄",
+    "website": "http://www.commbank.com.au/",
+    "domain": "commbank.com.au"
+  },
+  {
+    "rank": "359",
+    "company": "赛默飞世尔科技公司\nTHERMO FISHER SCIENTIFIC",
+    "revenue_musd": "42,879",
+    "country": "美国",
+    "industry": "医疗器材和设备",
+    "website": "http://www.thermofisher.com/",
+    "domain": "thermofisher.com"
+  },
+  {
+    "rank": "360",
+    "company": "麦格纳国际\nMAGNA INTERNATIONAL",
+    "revenue_musd": "42,836",
+    "country": "加拿大",
+    "industry": "车辆与零部件",
+    "website": "http://www.magna.com/",
+    "domain": "magna.com"
+  },
+  {
+    "rank": "361",
+    "company": "美国合众银行\nU.S. BANCORP",
+    "revenue_musd": "42,712",
+    "country": "美国",
+    "industry": "银行：商业储蓄",
+    "website": "http://www.usbank.com/",
+    "domain": "usbank.com"
+  },
+  {
+    "rank": "362",
+    "company": "巴西联邦储蓄银行\nCAIXA ECONÔMICA FEDERAL",
+    "revenue_musd": "42,397.5",
+    "country": "巴西",
+    "industry": "银行：商业储蓄",
+    "website": "http://www.caixa.gov.br/",
+    "domain": "caixa.gov.br"
+  },
+  {
+    "rank": "363",
+    "company": "加拿大枫信金融控股公司\nFAIRFAX FINANCIAL HOLDINGS",
+    "revenue_musd": "42,282.3",
+    "country": "加拿大",
+    "industry": "财产与意外保险（股份）",
+    "website": "http://www.fairfax.ca/",
+    "domain": "fairfax.ca"
+  },
+  {
+    "rank": "364",
+    "company": "森宝利公司\nJ. SAINSBURY",
+    "revenue_musd": "42,261.3",
+    "country": "英国",
+    "industry": "食品店和杂货店",
+    "website": "http://www.about.sainsburys.co.uk/",
+    "domain": "sainsburys.co.uk"
+  },
+  {
+    "rank": "365",
+    "company": "紫金矿业集团股份有限公司\nZIJIN MINING GROUP",
+    "revenue_musd": "42,200.6",
+    "country": "中国",
+    "industry": "金属产品",
+    "website": "http://www.zjky.cn/",
+    "domain": "zjky.cn"
+  },
+  {
+    "rank": "366",
+    "company": "World Kinect公司\nWORLD KINECT",
+    "revenue_musd": "42,168",
+    "country": "美国",
+    "industry": "能源",
+    "website": "http://www.world-kinect.com/",
+    "domain": "world-kinect.com"
+  },
+  {
+    "rank": "367",
+    "company": "X5零售集团\nX5 RETAIL GROUP",
+    "revenue_musd": "42,111.8",
+    "country": "荷兰",
+    "industry": "食品店和杂货店",
+    "website": "http://www.x5.ru/",
+    "domain": "x5.ru"
+  },
+  {
+    "rank": "368",
+    "company": "诺和诺德公司\nNOVO NORDISK",
+    "revenue_musd": "42,110.8",
+    "country": "丹麦",
+    "industry": "制药",
+    "website": "http://www.novonordisk.com/",
+    "domain": "novonordisk.com"
+  },
+  {
+    "rank": "369",
+    "company": "新加坡奥兰集团\nOLAM GROUP",
+    "revenue_musd": "42,028.3",
+    "country": "新加坡",
+    "industry": "食品生产",
+    "website": "http://www.olamgroup.com/",
+    "domain": "olamgroup.com"
+  },
+  {
+    "rank": "370",
+    "company": "康帕斯集团\nCOMPASS GROUP",
+    "revenue_musd": "42,002",
+    "country": "英国",
+    "industry": "食品：饮食服务业",
+    "website": "http://www.compass-group.com/",
+    "domain": "compass-group.com"
+  },
+  {
+    "rank": "371",
+    "company": "现代摩比斯公司\nHYUNDAI MOBIS",
+    "revenue_musd": "41,973.4",
+    "country": "韩国",
+    "industry": "车辆与零部件",
+    "website": "http://www.mobis.com/",
+    "domain": "mobis.com"
+  },
+  {
+    "rank": "372",
+    "company": "雅培公司\nABBOTT LABORATORIES",
+    "revenue_musd": "41,950",
+    "country": "美国",
+    "industry": "医疗器材和设备",
+    "website": "http://www.abbott.com/",
+    "domain": "abbott.com"
+  },
+  {
+    "rank": "373",
+    "company": "渣打银行\nSTANDARD CHARTERED",
+    "revenue_musd": "41,928",
+    "country": "英国",
+    "industry": "银行：商业储蓄",
+    "website": "http://www.sc.com/",
+    "domain": "sc.com"
+  },
+  {
+    "rank": "374",
+    "company": "上海建工集团股份有限公司\nSHANGHAI CONSTRUCTION GROUP",
+    "revenue_musd": "41,724.8",
+    "country": "中国",
+    "industry": "工程与建筑",
+    "website": "http://www.scg.com.cn/",
+    "domain": "scg.com.cn"
+  },
+  {
+    "rank": "375",
+    "company": "Inditex公司\nINDITEX",
+    "revenue_musd": "41,593.5",
+    "country": "西班牙",
+    "industry": "专业零售",
+    "website": "http://www.inditex.com/",
+    "domain": "inditex.com"
+  },
+  {
+    "rank": "376",
+    "company": "百思买\nBEST BUY",
+    "revenue_musd": "41,528",
+    "country": "美国",
+    "industry": "专业零售",
+    "website": "http://www.investors.bestbuy.com/",
+    "domain": "bestbuy.com"
+  },
+  {
+    "rank": "377",
+    "company": "西北互助人寿保险公司\nNORTHWESTERN MUTUAL",
+    "revenue_musd": "41,445",
+    "country": "美国",
+    "industry": "人寿与健康保险（互助）",
+    "website": "http://www.northwesternmutual.com/",
+    "domain": "northwesternmutual.com"
+  },
+  {
+    "rank": "378",
+    "company": "施耐德电气\nSCHNEIDER ELECTRIC",
+    "revenue_musd": "41,259.9",
+    "country": "法国",
+    "industry": "电子、电气设备",
+    "website": "http://www.se.com/",
+    "domain": "se.com"
+  },
+  {
+    "rank": "379",
+    "company": "KB金融集团\nKB FINANCIAL GROUP",
+    "revenue_musd": "41,086.5",
+    "country": "韩国",
+    "industry": "银行：商业储蓄",
+    "website": "http://www.kbfg.com/",
+    "domain": "kbfg.com"
+  },
+  {
+    "rank": "380",
+    "company": "美国诺斯洛普格拉曼公司\nNORTHROP GRUMMAN",
+    "revenue_musd": "41,033",
+    "country": "美国",
+    "industry": "航天与防务",
+    "website": "http://www.northropgrumman.com/",
+    "domain": "northropgrumman.com"
+  },
+  {
+    "rank": "381",
+    "company": "澳大利亚国民银行\nNATIONAL AUSTRALIA BANK",
+    "revenue_musd": "41,000.6",
+    "country": "澳大利亚",
+    "industry": "银行：商业储蓄",
+    "website": "http://www.nab.com.au/",
+    "domain": "nab.com.au"
+  },
+  {
+    "rank": "382",
+    "company": "韩华集团\nHANWHA",
+    "revenue_musd": "40,807.3",
+    "country": "韩国",
+    "industry": "多元化金融",
+    "website": "http://www.hanwhacorp.co.kr/",
+    "domain": "hanwhacorp.co.kr"
+  },
+  {
+    "rank": "383",
+    "company": "Molina Healthcare公司\nMOLINA HEALTHCARE",
+    "revenue_musd": "40,650",
+    "country": "美国",
+    "industry": "保健：保险和管理医保",
+    "website": "http://www.molinahealthcare.com/",
+    "domain": "molinahealthcare.com"
+  },
+  {
+    "rank": "384",
+    "company": "汉莎集团\nLUFTHANSA GROUP",
+    "revenue_musd": "40,641.3",
+    "country": "德国",
+    "industry": "航空",
+    "website": "http://www.lufthansagroup.com/",
+    "domain": "lufthansagroup.com"
+  },
+  {
+    "rank": "385",
+    "company": "Dollar General公司\nDOLLAR GENERAL",
+    "revenue_musd": "40,612.3",
+    "country": "美国",
+    "industry": "专业零售",
+    "website": "http://www.dollargeneral.com/",
+    "domain": "dollargeneral.com"
+  },
+  {
+    "rank": "386",
+    "company": "利安德巴塞尔工业公司\nLYONDELLBASELL INDUSTRIES",
+    "revenue_musd": "40,302",
+    "country": "荷兰",
+    "industry": "化学品",
+    "website": "http://www.lyondellbasell.com/",
+    "domain": "lyondellbasell.com"
+  },
+  {
+    "rank": "387",
+    "company": "中国民生银行股份有限公司\nCHINA MINSHENG BANKING",
+    "revenue_musd": "40,217",
+    "country": "中国",
+    "industry": "银行：商业储蓄",
+    "website": "http://www.cmbc.com.cn/",
+    "domain": "cmbc.com.cn"
+  },
+  {
+    "rank": "388",
+    "company": "葛兰素史克集团\nGSK",
+    "revenue_musd": "40,083.5",
+    "country": "英国",
+    "industry": "制药",
+    "website": "http://www.gsk.com/",
+    "domain": "gsk.com"
+  },
+  {
+    "rank": "389",
+    "company": "纽约梅隆银行\nBANK OF NEW YORK (BNY)",
+    "revenue_musd": "39,914",
+    "country": "美国",
+    "industry": "银行：商业储蓄",
+    "website": "http://www.bny.com/",
+    "domain": "bny.com"
+  },
+  {
+    "rank": "390",
+    "company": "海尔智家股份有限公司\nHAIER SMART HOME",
+    "revenue_musd": "39,746.3",
+    "country": "中国",
+    "industry": "电子、电气设备",
+    "website": "http://smart-home.haier.com/",
+    "domain": "smart-home.haier.com"
+  },
+  {
+    "rank": "391",
+    "company": "Cenovus Energy公司\nCENOVUS ENERGY",
+    "revenue_musd": "39,623.8",
+    "country": "加拿大",
+    "industry": "采矿、原油生产",
+    "website": "http://www.cenovus.com/",
+    "domain": "cenovus.com"
+  },
+  {
+    "rank": "392",
+    "company": "Coop集团\nCOOP GROUP",
+    "revenue_musd": "39,591.2",
+    "country": "瑞士",
+    "industry": "食品店和杂货店",
+    "website": "http://www.coop.ch/",
+    "domain": "coop.ch"
+  },
+  {
+    "rank": "393",
+    "company": "顺丰控股股份有限公司\nS.F. HOLDING",
+    "revenue_musd": "39,529.4",
+    "country": "中国",
+    "industry": "运输及物流",
+    "website": "http://www.sf-express.com/",
+    "domain": "sf-express.com"
+  },
+  {
+    "rank": "394",
+    "company": "杭州市实业投资集团有限公司\nHANGZHOU INDUSTRIAL INVESTMENT GROUP",
+    "revenue_musd": "39,495.9",
+    "country": "中国",
+    "industry": "多元化金融",
+    "website": "http://www.hziam.com/",
+    "domain": "hziam.com"
+  },
+  {
+    "rank": "395",
+    "company": "华纳兄弟探索公司\nWARNER BROS. DISCOVERY",
+    "revenue_musd": "39,321",
+    "country": "美国",
+    "industry": "娱乐",
+    "website": "http://wbd.com",
+    "domain": "wbd.com"
+  },
+  {
+    "rank": "396",
+    "company": "CHS公司\nCHS",
+    "revenue_musd": "39,261.2",
+    "country": "美国",
+    "industry": "食品生产",
+    "website": "http://www.chsinc.com/",
+    "domain": "chsinc.com"
+  },
+  {
+    "rank": "397",
+    "company": "Enbridge公司\nENBRIDGE",
+    "revenue_musd": "39,036.9",
+    "country": "加拿大",
+    "industry": "管道运输",
+    "website": "http://www.enbridge.com/",
+    "domain": "enbridge.com"
+  },
+  {
+    "rank": "398",
+    "company": "Netflix公司\nNETFLIX",
+    "revenue_musd": "39,001",
+    "country": "美国",
+    "industry": "娱乐",
+    "website": "http://www.netflix.com/",
+    "domain": "netflix.com"
+  },
+  {
+    "rank": "399",
+    "company": "高通\nQUALCOMM",
+    "revenue_musd": "38,962",
+    "country": "美国",
+    "industry": "半导体、电子元件",
+    "website": "http://www.qualcomm.com/",
+    "domain": "qualcomm.com"
+  },
+  {
+    "rank": "400",
+    "company": "日本KDDI电信公司\nKDDI",
+    "revenue_musd": "38,820.5",
+    "country": "日本",
+    "industry": "电信",
+    "website": "http://www.kddi.com/",
+    "domain": "kddi.com"
+  },
+  {
+    "rank": "401",
+    "company": "山东高速集团有限公司\nSHANDONG HI-SPEED GROUP",
+    "revenue_musd": "38,819.6",
+    "country": "中国",
+    "industry": "运输及物流",
+    "website": "http://www.sdhsg.com/",
+    "domain": "sdhsg.com"
+  },
+  {
+    "rank": "402",
+    "company": "GE航空航天公司\nGENERAL ELECTRIC (GE AEROSPACE)",
+    "revenue_musd": "38,702",
+    "country": "美国",
+    "industry": "航天与防务",
+    "website": "http://www.ge.com/",
+    "domain": "ge.com"
+  },
+  {
+    "rank": "403",
+    "company": "Mercadona公司\nMERCADONA",
+    "revenue_musd": "38,505.3",
+    "country": "西班牙",
+    "industry": "食品店和杂货店",
+    "website": "http://www.mercadona.es/",
+    "domain": "mercadona.es"
+  },
+  {
+    "rank": "404",
+    "company": "霍尼韦尔国际公司\nHONEYWELL INTERNATIONAL",
+    "revenue_musd": "38,498",
+    "country": "美国",
+    "industry": "工业机械",
+    "website": "http://www.honeywell.com/",
+    "domain": "honeywell.com"
+  },
+  {
+    "rank": "405",
+    "company": "杭州钢铁集团有限公司\nHANGZHOU IRON AND STEEL GROUP",
+    "revenue_musd": "38,430.7",
+    "country": "中国",
+    "industry": "金属产品",
+    "website": "http://www.hzsteel.com/",
+    "domain": "hzsteel.com"
+  },
+  {
+    "rank": "406",
+    "company": "广州工业投资控股集团有限公司\nGUANGZHOU INDUSTRIAL INVESTMENT HOLDINGS",
+    "revenue_musd": "38,344.6",
+    "country": "中国",
+    "industry": "工业机械",
+    "website": "http://www.giihg.com/",
+    "domain": "giihg.com"
+  },
+  {
+    "rank": "407",
+    "company": "上海医药集团股份有限公司\nSHANGHAI PHARMACEUTICALS HOLDING",
+    "revenue_musd": "38,255",
+    "country": "中国",
+    "industry": "批发：保健",
+    "website": "http://www.sphchina.com/",
+    "domain": "sphchina.com"
+  },
+  {
+    "rank": "408",
+    "company": "铃木汽车\nSUZUKI MOTOR",
+    "revenue_musd": "38,211.8",
+    "country": "日本",
+    "industry": "车辆与零部件",
+    "website": "http://www.globalsuzuki.com/",
+    "domain": "globalsuzuki.com"
+  },
+  {
+    "rank": "409",
+    "company": "巴西淡水河谷公司\nVALE",
+    "revenue_musd": "38,056",
+    "country": "巴西",
+    "industry": "采矿、原油生产",
+    "website": "http://www.vale.com/",
+    "domain": "vale.com"
+  },
+  {
+    "rank": "410",
+    "company": "蒂森克虏伯\nTHYSSENKRUPP",
+    "revenue_musd": "37,985.2",
+    "country": "德国",
+    "industry": "金属产品",
+    "website": "http://www.thyssenkrupp.com/",
+    "domain": "thyssenkrupp.com"
+  },
+  {
+    "rank": "411",
+    "company": "赛富时\nSALESFORCE",
+    "revenue_musd": "37,895",
+    "country": "美国",
+    "industry": "计算机软件",
+    "website": "http://www.salesforce.com/",
+    "domain": "salesforce.com"
+  },
+  {
+    "rank": "412",
+    "company": "菲利普－莫里斯国际公司\nPHILIP MORRIS INTERNATIONAL",
+    "revenue_musd": "37,878",
+    "country": "美国",
+    "industry": "烟草",
+    "website": "http://www.pmi.com/",
+    "domain": "pmi.com"
+  },
+  {
+    "rank": "413",
+    "company": "US Foods Holding公司\nUS FOODS HOLDING",
+    "revenue_musd": "37,877",
+    "country": "美国",
+    "industry": "批发：食品",
+    "website": "http://www.usfoods.com/",
+    "domain": "usfoods.com"
+  },
+  {
+    "rank": "414",
+    "company": "深圳市投资控股有限公司\nSHENZHEN INVESTMENT HOLDINGS",
+    "revenue_musd": "37,717.2",
+    "country": "中国",
+    "industry": "多元化金融",
+    "website": "http://www.sihc.com.cn/en",
+    "domain": "sihc.com.cn"
+  },
+  {
+    "rank": "415",
+    "company": "西太平洋银行\nWESTPAC BANKING",
+    "revenue_musd": "37,701.4",
+    "country": "澳大利亚",
+    "industry": "银行：商业储蓄",
+    "website": "http://www.westpac.com.au/",
+    "domain": "westpac.com.au"
+  },
+  {
+    "rank": "416",
+    "company": "江苏沙钢集团有限公司\nJIANGSU SHAGANG GROUP",
+    "revenue_musd": "37,615.5",
+    "country": "中国",
+    "industry": "金属产品",
+    "website": "http://www.shasteel.cn/",
+    "domain": "shasteel.cn"
+  },
+  {
+    "rank": "417",
+    "company": "友邦保险控股有限公司\nAIA GROUP",
+    "revenue_musd": "37,612",
+    "country": "中国",
+    "industry": "人寿与健康保险（股份）",
+    "website": "http://www.aia.com/",
+    "domain": "aia.com"
+  },
+  {
+    "rank": "418",
+    "company": "广东省广新控股集团有限公司\nGUANGDONG GUANGXIN HOLDINGS GROUP",
+    "revenue_musd": "37,542.8",
+    "country": "中国",
+    "industry": "多元化金融",
+    "website": "http://www.gdghg.com/",
+    "domain": "gdghg.com"
+  },
+  {
+    "rank": "419",
+    "company": "卡塔尔国民银行\nQNB GROUP",
+    "revenue_musd": "37,472.7",
+    "country": "卡塔尔",
+    "industry": "银行：商业储蓄",
+    "website": "http://www.qnb.com/",
+    "domain": "qnb.com"
+  },
+  {
+    "rank": "420",
+    "company": "国民威斯敏斯特银行集团\nNATWEST GROUP",
+    "revenue_musd": "37,460.7",
+    "country": "英国",
+    "industry": "银行：商业储蓄",
+    "website": "http://www.natwestgroup.com/",
+    "domain": "natwestgroup.com"
+  },
+  {
+    "rank": "421",
+    "company": "法国邮政\nLA POSTE",
+    "revenue_musd": "37,384",
+    "country": "法国",
+    "industry": "邮件、包裹及货物包装运输",
+    "website": "http://www.lapostegroupe.com/",
+    "domain": "lapostegroupe.com"
+  },
+  {
+    "rank": "422",
+    "company": "西门子能源\nSIEMENS ENERGY",
+    "revenue_musd": "37,360.8",
+    "country": "德国",
+    "industry": "能源",
+    "website": "http://www.siemens-energy.com/",
+    "domain": "siemens-energy.com"
+  },
+  {
+    "rank": "423",
+    "company": "立讯精密工业股份有限公司\nLUXSHARE PRECISION INDUSTRY",
+    "revenue_musd": "37,357.7",
+    "country": "中国",
+    "industry": "电子、电气设备",
+    "website": "http://www.luxshare-ict.com/",
+    "domain": "luxshare-ict.com"
+  },
+  {
+    "rank": "424",
+    "company": "巴登-符腾堡州能源公司\nENERGIE BADEN-WÜRTTEMBERG",
+    "revenue_musd": "37,335.8",
+    "country": "德国",
+    "industry": "公用设施",
+    "website": "http://www.enbw.com/",
+    "domain": "enbw.com"
+  },
+  {
+    "rank": "425",
+    "company": "森科能源公司\nSUNCOR ENERGY",
+    "revenue_musd": "37,329.3",
+    "country": "加拿大",
+    "industry": "炼油",
+    "website": "http://www.suncor.com/",
+    "domain": "suncor.com"
+  },
+  {
+    "rank": "426",
+    "company": "新希望控股集团有限公司\nNEW HOPE HOLDING GROUP",
+    "revenue_musd": "37,283.9",
+    "country": "中国",
+    "industry": "食品生产",
+    "website": "http://www.newhopegroup.com/",
+    "domain": "newhopegroup.com"
+  },
+  {
+    "rank": "427",
+    "company": "中国电子信息产业集团有限公司\nCHINA ELECTRONICS",
+    "revenue_musd": "37,030",
+    "country": "中国",
+    "industry": "电子、电气设备",
+    "website": "http://www.cec.com.cn/",
+    "domain": "cec.com.cn"
+  },
+  {
+    "rank": "428",
+    "company": "LG化学公司\nLG CHEM",
+    "revenue_musd": "37,021",
+    "country": "韩国",
+    "industry": "化学品",
+    "website": "http://www.lgchem.co.kr/",
+    "domain": "lgchem.co.kr"
+  },
+  {
+    "rank": "429",
+    "company": "SAP公司\nSAP",
+    "revenue_musd": "36,959",
+    "country": "德国",
+    "industry": "计算机软件",
+    "website": "http://www.sap.com/",
+    "domain": "sap.com"
+  },
+  {
+    "rank": "430",
+    "company": "Migros集团\nMIGROS GROUP",
+    "revenue_musd": "36,942.7",
+    "country": "瑞士",
+    "industry": "食品店和杂货店",
+    "website": "http://www.migros.ch/",
+    "domain": "migros.ch"
+  },
+  {
+    "rank": "431",
+    "company": "日本明治安田生命保险公司\nMEIJI YASUDA LIFE INSURANCE",
+    "revenue_musd": "36,877.7",
+    "country": "日本",
+    "industry": "人寿与健康保险（互助）",
+    "website": "http://www.meijiyasuda.co.jp/",
+    "domain": "meijiyasuda.co.jp"
+  },
+  {
+    "rank": "432",
+    "company": "D.R. Horton公司\nD.R. HORTON",
+    "revenue_musd": "36,801.4",
+    "country": "美国",
+    "industry": "房屋建筑商",
+    "website": "http://www.drhorton.com/",
+    "domain": "drhorton.com"
+  },
+  {
+    "rank": "433",
+    "company": "奥地利石油天然气集团\nOMV GROUP",
+    "revenue_musd": "36,748.1",
+    "country": "奥地利",
+    "industry": "炼油",
+    "website": "http://www.omv.com/",
+    "domain": "omv.com"
+  },
+  {
+    "rank": "434",
+    "company": "Lithia Motors公司\nLITHIA MOTORS",
+    "revenue_musd": "36,610.6",
+    "country": "美国",
+    "industry": "专业零售",
+    "website": "http://investors.lithiadriveway.com/",
+    "domain": "lithiadriveway.com"
+  },
+  {
+    "rank": "435",
+    "company": "CFE公司\nCFE",
+    "revenue_musd": "36,450.9",
+    "country": "墨西哥",
+    "industry": "公用设施",
+    "website": "http://www.cfe.mx/",
+    "domain": "cfe.mx"
+  },
+  {
+    "rank": "436",
+    "company": "亿滋国际\nMONDELEZ INTERNATIONAL",
+    "revenue_musd": "36,441",
+    "country": "美国",
+    "industry": "食品：消费产品",
+    "website": "http://www.mondelezinternational.com/",
+    "domain": "mondelezinternational.com"
+  },
+  {
+    "rank": "437",
+    "company": "斯伦贝谢公司\nSCHLUMBERGER",
+    "revenue_musd": "36,289",
+    "country": "美国",
+    "industry": "油气设备与服务",
+    "website": "http://www.slb.com/",
+    "domain": "slb.com"
+  },
+  {
+    "rank": "438",
+    "company": "鞍钢集团有限公司\nANSTEEL GROUP",
+    "revenue_musd": "36,270.6",
+    "country": "中国",
+    "industry": "金属产品",
+    "website": "http://www.ansteel.cn/",
+    "domain": "ansteel.cn"
+  },
+  {
+    "rank": "439",
+    "company": "三菱电机股份有限公司\nMITSUBISHI ELECTRIC",
+    "revenue_musd": "36,221.2",
+    "country": "日本",
+    "industry": "电子、电气设备",
+    "website": "http://www.mitsubishielectric.com/",
+    "domain": "mitsubishielectric.com"
+  },
+  {
+    "rank": "440",
+    "company": "Jerónimo Martins公司\nJERÓNIMO MARTINS",
+    "revenue_musd": "36,189",
+    "country": "葡萄牙",
+    "industry": "食品店和杂货店",
+    "website": "http://www.jeronimomartins.com/",
+    "domain": "jeronimomartins.com"
+  },
+  {
+    "rank": "441",
+    "company": "星巴克公司\nSTARBUCKS",
+    "revenue_musd": "36,176.2",
+    "country": "美国",
+    "industry": "食品：饮食服务业",
+    "website": "http://www.starbucks.com/",
+    "domain": "starbucks.com"
+  },
+  {
+    "rank": "442",
+    "company": "海亮集团有限公司\nHAILIANG GROUP",
+    "revenue_musd": "36,166.5",
+    "country": "中国",
+    "industry": "贸易",
+    "website": "http://www.hailiang.com/",
+    "domain": "hailiang.com"
+  },
+  {
+    "rank": "443",
+    "company": "曼福集团\nMAPFRE GROUP",
+    "revenue_musd": "36,102.7",
+    "country": "西班牙",
+    "industry": "财产与意外保险（股份）",
+    "website": "http://www.mapfre.com/",
+    "domain": "mapfre.com"
+  },
+  {
+    "rank": "444",
+    "company": "长江和记实业有限公司\nCK HUTCHISON HOLDINGS",
+    "revenue_musd": "36,057.3",
+    "country": "中国",
+    "industry": "专业零售",
+    "website": "http://www.ckh.com.hk/",
+    "domain": "com.hk"
+  },
+  {
+    "rank": "445",
+    "company": "ELO集团\nELO GROUP",
+    "revenue_musd": "35,945.7",
+    "country": "法国",
+    "industry": "食品店和杂货店",
+    "website": "http://www.groupe-elo.com/",
+    "domain": "groupe-elo.com"
+  },
+  {
+    "rank": "446",
+    "company": "Visa公司\nVISA",
+    "revenue_musd": "35,926",
+    "country": "美国",
+    "industry": "多元化金融",
+    "website": "http://www.visa.com/",
+    "domain": "visa.com"
+  },
+  {
+    "rank": "447",
+    "company": "中国大唐集团有限公司\nCHINA DATANG",
+    "revenue_musd": "35,901.4",
+    "country": "中国",
+    "industry": "能源",
+    "website": "http://www.china-cdt.com/",
+    "domain": "china-cdt.com"
+  },
+  {
+    "rank": "448",
+    "company": "中国中车集团有限公司\nCRRC GROUP",
+    "revenue_musd": "35,876.1",
+    "country": "中国",
+    "industry": "工业机械",
+    "website": "http://www.crrcgc.cc/",
+    "domain": "crrcgc.cc"
+  },
+  {
+    "rank": "449",
+    "company": "怡和集团\nJARDINE MATHESON",
+    "revenue_musd": "35,779",
+    "country": "中国",
+    "industry": "车辆与零部件",
+    "website": "http://www.jardines.com/",
+    "domain": "jardines.com"
+  },
+  {
+    "rank": "450",
+    "company": "损保控股有限公司\nSOMPO HOLDINGS",
+    "revenue_musd": "35,775.5",
+    "country": "日本",
+    "industry": "财产与意外保险（股份）",
+    "website": "http://www.sompo-hd.com/",
+    "domain": "sompo-hd.com"
+  },
+  {
+    "rank": "451",
+    "company": "铜陵有色金属集团控股有限公司\nTONGLING NONFERROUS METALS GROUP",
+    "revenue_musd": "35,773.5",
+    "country": "中国",
+    "industry": "金属产品",
+    "website": "http://www.tnmg.com.cn/",
+    "domain": "tnmg.com.cn"
+  },
+  {
+    "rank": "452",
+    "company": "世邦魏理仕集团\nCBRE GROUP",
+    "revenue_musd": "35,767",
+    "country": "美国",
+    "industry": "房地产",
+    "website": "http://www.cbre.com/",
+    "domain": "cbre.com"
+  },
+  {
+    "rank": "453",
+    "company": "荷兰合作银行集团\nRABOBANK GROUP",
+    "revenue_musd": "35,764",
+    "country": "荷兰",
+    "industry": "银行：商业储蓄",
+    "website": "http://www.rabobank.com/",
+    "domain": "rabobank.com"
+  },
+  {
+    "rank": "454",
+    "company": "蜀道投资集团有限责任公司\nSHUDAO INVESTMENT GROUP",
+    "revenue_musd": "35,732.8",
+    "country": "中国",
+    "industry": "工程与建筑",
+    "website": "http://www.shudaojt.com/",
+    "domain": "shudaojt.com"
+  },
+  {
+    "rank": "455",
+    "company": "广州市建筑集团有限公司\nGUANGZHOU MUNICIPAL CONSTRUCTION GROUP",
+    "revenue_musd": "35,676",
+    "country": "中国",
+    "industry": "工程与建筑",
+    "website": "http://www.gzmcg.com/",
+    "domain": "gzmcg.com"
+  },
+  {
+    "rank": "456",
+    "company": "大和房建\nDAIWA HOUSE INDUSTRY",
+    "revenue_musd": "35,651.2",
+    "country": "日本",
+    "industry": "工程与建筑",
+    "website": "http://www.daiwahouse.com/english",
+    "domain": "daiwahouse.com"
+  },
+  {
+    "rank": "457",
+    "company": "CRH公司\nCRH",
+    "revenue_musd": "35,572",
+    "country": "爱尔兰",
+    "industry": "建材、玻璃",
+    "website": "http://www.crh.com/",
+    "domain": "crh.com"
+  },
+  {
+    "rank": "458",
+    "company": "莱纳公司\nLENNAR",
+    "revenue_musd": "35,441.5",
+    "country": "美国",
+    "industry": "房屋建筑商",
+    "website": "http://www.lennar.com/",
+    "domain": "lennar.com"
+  },
+  {
+    "rank": "459",
+    "company": "广州医药集团有限公司\nGUANGZHOU PHARMACEUTICAL HOLDINGS",
+    "revenue_musd": "35,164.1",
+    "country": "中国",
+    "industry": "制药",
+    "website": "http://www.gpc.com.cn/",
+    "domain": "gpc.com.cn"
+  },
+  {
+    "rank": "460",
+    "company": "碧桂园控股有限公司\nCOUNTRY GARDEN HOLDINGS",
+    "revenue_musd": "35,128.6",
+    "country": "中国",
+    "industry": "房地产",
+    "website": "http://www.countrygarden.com.cn/",
+    "domain": "countrygarden.com.cn"
+  },
+  {
+    "rank": "461",
+    "company": "和硕联合科技股份有限公司\nPEGATRON",
+    "revenue_musd": "35,058.2",
+    "country": "中国",
+    "industry": "电子、电气设备",
+    "website": "http://www.pegatroncorp.com/",
+    "domain": "pegatroncorp.com"
+  },
+  {
+    "rank": "462",
+    "company": "GE Vernova公司\nGE VERNOVA",
+    "revenue_musd": "34,935",
+    "country": "美国",
+    "industry": "能源",
+    "website": "http://www.gevernova.com",
+    "domain": "gevernova.com"
+  },
+  {
+    "rank": "463",
+    "company": "GS加德士\nGS CALTEX",
+    "revenue_musd": "34,916.8",
+    "country": "韩国",
+    "industry": "炼油",
+    "website": "http://www.gscaltex.com/",
+    "domain": "gscaltex.com"
+  },
+  {
+    "rank": "464",
+    "company": "印度工业信贷投资银行\nICICI BANK",
+    "revenue_musd": "34,849.2",
+    "country": "印度",
+    "industry": "银行：商业储蓄",
+    "website": "http://www.icicibank.com/",
+    "domain": "icicibank.com"
+  },
+  {
+    "rank": "465",
+    "company": "山东黄金集团有限公司\nSHANDONG GOLD GROUP",
+    "revenue_musd": "34,762.6",
+    "country": "中国",
+    "industry": "金属产品",
+    "website": "http://www.sd-gold.com",
+    "domain": "sd-gold.com"
+  },
+  {
+    "rank": "466",
+    "company": "国际航空集团\nINTERNATIONAL AIRLINES GROUP",
+    "revenue_musd": "34,714",
+    "country": "英国",
+    "industry": "航空",
+    "website": "http://www.iairgroup.com/",
+    "domain": "iairgroup.com"
+  },
+  {
+    "rank": "467",
+    "company": "上海德龙钢铁集团有限公司\nSHANGHAI DELONG STEEL GROUP",
+    "revenue_musd": "34,513.9",
+    "country": "中国",
+    "industry": "金属产品",
+    "website": "http://www.shanghaidelong.com/",
+    "domain": "shanghaidelong.com"
+  },
+  {
+    "rank": "468",
+    "company": "美国PNC金融服务集团\nPNC FINANCIAL SERVICES GROUP",
+    "revenue_musd": "34,440",
+    "country": "美国",
+    "industry": "银行：商业储蓄",
+    "website": "http://www.pnc.com/",
+    "domain": "pnc.com"
+  },
+  {
+    "rank": "469",
+    "company": "Perusahaan Listrik Negara公司\nPERUSAHAAN LISTRIK NEGARA",
+    "revenue_musd": "34,437.3",
+    "country": "印度尼西亚",
+    "industry": "公用设施",
+    "website": "http://www.pln.co.id/",
+    "domain": "pln.co.id"
+  },
+  {
+    "rank": "470",
+    "company": "阿联酋航空集团\nEMIRATES GROUP",
+    "revenue_musd": "34,257.9",
+    "country": "阿拉伯联合酋长国",
+    "industry": "航空",
+    "website": "http://www.theemiratesgroup.com/",
+    "domain": "theemiratesgroup.com"
+  },
+  {
+    "rank": "471",
+    "company": "北京建龙重工集团有限公司\nBEIJING JIANLONG HEAVY INDUSTRY GROUP",
+    "revenue_musd": "34,238.5",
+    "country": "中国",
+    "industry": "金属产品",
+    "website": "http://www.ejianlong.com/",
+    "domain": "ejianlong.com"
+  },
+  {
+    "rank": "472",
+    "company": "康明斯公司\nCUMMINS",
+    "revenue_musd": "34,102",
+    "country": "美国",
+    "industry": "工业机械",
+    "website": "http://www.cummins.com/",
+    "domain": "cummins.com"
+  },
+  {
+    "rank": "473",
+    "company": "中国中煤能源集团有限公司\nCHINA NATIONAL COAL GROUP",
+    "revenue_musd": "34,057.9",
+    "country": "中国",
+    "industry": "采矿、原油生产",
+    "website": "http://en.chinacoal.com",
+    "domain": "en.chinacoal.com"
+  },
+  {
+    "rank": "474",
+    "company": "法国航空－荷兰皇家航空集团\nAIR FRANCE-KLM GROUP",
+    "revenue_musd": "34,020.8",
+    "country": "法国",
+    "industry": "航空",
+    "website": "http://www.airfranceklm.com/",
+    "domain": "airfranceklm.com"
+  },
+  {
+    "rank": "475",
+    "company": "住友生命保险公司\nSUMITOMO LIFE INSURANCE",
+    "revenue_musd": "33,996.7",
+    "country": "日本",
+    "industry": "人寿与健康保险（互助）",
+    "website": "http://www.sumitomolife.co.jp/",
+    "domain": "sumitomolife.co.jp"
+  },
+  {
+    "rank": "476",
+    "company": "帕卡公司\nPACCAR",
+    "revenue_musd": "33,663.8",
+    "country": "美国",
+    "industry": "车辆与零部件",
+    "website": "http://www.paccar.com/",
+    "domain": "paccar.com"
+  },
+  {
+    "rank": "477",
+    "company": "麦德龙\nMETRO",
+    "revenue_musd": "33,636.1",
+    "country": "德国",
+    "industry": "批发：食品",
+    "website": "http://www.metroag.de/",
+    "domain": "metroag.de"
+  },
+  {
+    "rank": "478",
+    "company": "BAE系统公司\nBAE SYSTEMS",
+    "revenue_musd": "33,614.1",
+    "country": "英国",
+    "industry": "航天与防务",
+    "website": "http://www.baesystems.com/",
+    "domain": "baesystems.com"
+  },
+  {
+    "rank": "479",
+    "company": "通威集团有限公司\nTONGWEI GROUP",
+    "revenue_musd": "33,547.6",
+    "country": "中国",
+    "industry": "能源",
+    "website": "http://www.tongwei.com/",
+    "domain": "tongwei.com"
+  },
+  {
+    "rank": "480",
+    "company": "绿地控股集团股份有限公司\nGREENLAND HOLDING GROUP",
+    "revenue_musd": "33,482",
+    "country": "中国",
+    "industry": "房地产",
+    "website": "http://www.ldjt.com.cn/",
+    "domain": "ldjt.com.cn"
+  },
+  {
+    "rank": "481",
+    "company": "中国航空油料集团有限公司\nCHINA NATIONAL AVIATION FUEL GROUP",
+    "revenue_musd": "33,447.8",
+    "country": "中国",
+    "industry": "贸易",
+    "website": "http://www.cnaf.com/",
+    "domain": "cnaf.com"
+  },
+  {
+    "rank": "482",
+    "company": "安进\nAMGEN",
+    "revenue_musd": "33,424",
+    "country": "美国",
+    "industry": "制药",
+    "website": "http://www.amgen.com/",
+    "domain": "amgen.com"
+  },
+  {
+    "rank": "483",
+    "company": "湖南钢铁集团有限公司\nHUNAN IRON & STEEL GROUP",
+    "revenue_musd": "33,366.8",
+    "country": "中国",
+    "industry": "金属产品",
+    "website": "http://www.chinavalin.com/",
+    "domain": "chinavalin.com"
+  },
+  {
+    "rank": "484",
+    "company": "St. James's Place公司\nST. JAMES'S PLACE",
+    "revenue_musd": "33,178.9",
+    "country": "英国",
+    "industry": "多元化金融",
+    "website": "http://www.sjp.co.uk/",
+    "domain": "sjp.co.uk"
+  },
+  {
+    "rank": "485",
+    "company": "PBF Energy公司\nPBF ENERGY",
+    "revenue_musd": "33,115.3",
+    "country": "美国",
+    "industry": "炼油",
+    "website": "http://www.pbfenergy.com/",
+    "domain": "pbfenergy.com"
+  },
+  {
+    "rank": "486",
+    "company": "英美烟草集团\nBRITISH AMERICAN TOBACCO",
+    "revenue_musd": "33,045.6",
+    "country": "英国",
+    "industry": "烟草",
+    "website": "http://www.bat.com/",
+    "domain": "bat.com"
+  },
+  {
+    "rank": "487",
+    "company": "林德集团\nLINDE",
+    "revenue_musd": "33,005",
+    "country": "英国",
+    "industry": "化学品",
+    "website": "http://www.linde.com/",
+    "domain": "linde.com"
+  },
+  {
+    "rank": "488",
+    "company": "日本三菱重工业股份有限公司\nMITSUBISHI HEAVY INDUSTRIES",
+    "revenue_musd": "32,977.2",
+    "country": "日本",
+    "industry": "工业机械",
+    "website": "http://www.mhi.com/",
+    "domain": "mhi.com"
+  },
+  {
+    "rank": "489",
+    "company": "广西投资集团有限公司\nGUANGXI INVESTMENT GROUP",
+    "revenue_musd": "32,974.6",
+    "country": "中国",
+    "industry": "多元化金融",
+    "website": "http://www.gig.cn/",
+    "domain": "gig.cn"
+  },
+  {
+    "rank": "490",
+    "company": "GuideWell Mutual Holding公司\nGUIDEWELL MUTUAL HOLDING",
+    "revenue_musd": "32,955",
+    "country": "美国",
+    "industry": "保健：保险和管理医保",
+    "website": "http://www.guidewell.com/",
+    "domain": "guidewell.com"
+  },
+  {
+    "rank": "491",
+    "company": "马自达汽车株式会社\nMAZDA MOTOR",
+    "revenue_musd": "32,922.8",
+    "country": "日本",
+    "industry": "车辆与零部件",
+    "website": "http://www.mazda.com/",
+    "domain": "mazda.com"
+  },
+  {
+    "rank": "492",
+    "company": "瑞士ABB集团\nABB",
+    "revenue_musd": "32,850",
+    "country": "瑞士",
+    "industry": "电子、电气设备",
+    "website": "http://www.abb.com/",
+    "domain": "abb.com"
+  },
+  {
+    "rank": "493",
+    "company": "Magnit公司\nMAGNIT",
+    "revenue_musd": "32,795",
+    "country": "俄罗斯",
+    "industry": "食品店和杂货店",
+    "website": "http://www.magnit.com/",
+    "domain": "magnit.com"
+  },
+  {
+    "rank": "494",
+    "company": "台湾中油股份有限公司CPC",
+    "revenue_musd": "32,768.9",
+    "country": "中国",
+    "industry": "炼油",
+    "website": "http://www.cpc.com.tw/",
+    "domain": "cpc.com.tw"
+  },
+  {
+    "rank": "495",
+    "company": "哥伦比亚国家石油公司ECOPETROL",
+    "revenue_musd": "32,736.3",
+    "country": "哥伦比亚",
+    "industry": "采矿、原油生产",
+    "website": "http://www.ecopetrol.com.co/",
+    "domain": "ecopetrol.com.co"
+  },
+  {
+    "rank": "496",
+    "company": "纬创集团WISTRON",
+    "revenue_musd": "32,687.7",
+    "country": "中国",
+    "industry": "计算机、办公设备",
+    "website": "http://www.wistron.com/",
+    "domain": "wistron.com"
+  },
+  {
+    "rank": "497",
+    "company": "美敦力公司MEDTRONIC",
+    "revenue_musd": "32,364",
+    "country": "爱尔兰",
+    "industry": "医疗器材和设备",
+    "website": "http://www.medtronic.com/",
+    "domain": "medtronic.com"
+  },
+  {
+    "rank": "498",
+    "company": "新华人寿保险股份有限公司NEW CHINA LIFE INSURANCE",
+    "revenue_musd": "32,293.1",
+    "country": "中国",
+    "industry": "人寿与健康保险（股份）",
+    "website": "http://www.newchinalife.com/",
+    "domain": "newchinalife.com"
+  },
+  {
+    "rank": "499",
+    "company": "中国通用技术(集团)控股有限责任公司CHINA GENERAL TECHNOLOGY",
+    "revenue_musd": "32,282.4",
+    "country": "中国",
+    "industry": "贸易",
+    "website": "http://gt.cn/",
+    "domain": "gt.cn"
+  },
+  {
+    "rank": "500",
+    "company": "喜力公司HEINEKEN",
+    "revenue_musd": "32,249.4",
+    "country": "荷兰",
+    "industry": "饮料",
+    "website": "http://www.theheinekencompany.com/",
+    "domain": "theheinekencompany.com"
+  }
+]

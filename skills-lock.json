@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "python-patterns": {
+      "source": "affaan-m/ECC",
+      "sourceType": "github",
+      "skillPath": "skills/python-patterns/SKILL.md",
+      "computedHash": "3f4ccececee9c3144436666aed86417aa03fcfd0f976e606953adcc9c9b420b4"
+    }
+  }
+}

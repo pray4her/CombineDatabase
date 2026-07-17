@@ -1,0 +1,676 @@
+version: "1.0.0"
+name: "scholars_frontiers_unified_schema"
+description: "Unified schema for scholars/frontiers data pipeline (person, publication, relation)."
+
+meta:
+  owner: "data-platform"
+  created_at: "2026-04-03"
+  encoding: "utf-8"
+  timezone: "Asia/Shanghai"
+
+id_generation:
+  publication_id:
+    priority:
+      - "doi"
+      - "ut_wos_id"
+      - "sha1(title + '|' + publication_year + '|' + source_title)"
+  person_id:
+    rule: "sha1(name_norm + '|' + coalesce(orcid,'') + '|' + coalesce(country,''))"
+  relation_id:
+    rule: "sha1(person_id + '|' + publication_id + '|' + relation_type)"
+  author_occurrence_id:
+    rule: "sha1(publication_id + '|' + author_order + '|' + author_name_norm)"
+  claim_id:
+    rule: "sha1(entity specific evidence fields)"
+
+normalization_rules:
+  null_policy:
+    empty_string_to_null: true
+    keep_json_null: true
+  text_normalization:
+    trim_whitespace: true
+    collapse_multiple_spaces: true
+    lowercase_for_norm_fields: true
+    remove_diacritics_for_norm_fields: true
+    normalize_punctuation_for_norm_fields: true
+  split_rules:
+    default_delimiters: [";", ",", "|"]
+    deduplicate_array_values: true
+    strip_array_items: true
+  special:
+    orcid_extract_regex: "\\b\\d{4}-\\d{4}-\\d{4}-[\\dX]{4}\\b"
+    author_full_names_split_delimiter: ";"
+
+entities:
+  person:
+    description: "Canonical person profile merged from scholars and parsed frontiers authors."
+    primary_key: "person_id"
+    fields:
+      - name: "person_id"
+        type: "keyword"
+        required: true
+        description: "Internal canonical person identifier."
+      - name: "canonical_person_id"
+        type: "keyword"
+        required: false
+        description: "Authoritative canonical person identifier produced by match stage."
+      - name: "legacy_person_id"
+        type: "keyword"
+        required: false
+        description: "Backward-compatible person identifier from pre-match stages."
+
+      - name: "name_original"
+        type: "text"
+        required: true
+        description: "Original person name from source."
+      - name: "name_norm"
+        type: "keyword"
+        required: true
+        description: "Normalized name for matching."
+      - name: "name_aliases"
+        type: "keyword[]"
+        required: false
+        description: "Name variants (e.g. Last, First; initials)."
+      - name: "matched_by_orcid"
+        type: "boolean"
+        required: true
+        description: "True when this canonical person record was consolidated through ORCID-based matching."
+
+      - name: "orcid"
+        type: "keyword"
+        required: false
+        description: "Normalized ORCID code (0000-0000-0000-000X)."
+      - name: "researcher_ids"
+        type: "keyword[]"
+        required: false
+        description: "Researcher IDs parsed from frontiers Researcher Ids."
+
+      - name: "country"
+        type: "keyword"
+        required: false
+        description: "Canonical country name."
+      - name: "countries_observed"
+        type: "keyword[]"
+        required: false
+        description: "All observed countries across merged evidence."
+      - name: "current_affiliation"
+        type: "text"
+        required: false
+        description: "Current affiliation from scholars."
+      - name: "chinese_identity"
+        type: "keyword"
+        required: false
+        description: "Chinese identity classification: 国内华人 / 海外华人 / 外国人."
+      - name: "qs_top200_rank"
+        type: "integer"
+        required: false
+        description: "Best matched QS Top 200 rank across known institution evidence."
+      - name: "world_top500_rank"
+        type: "integer"
+        required: false
+        description: "Best matched World Top 500 rank across known institution evidence."
+      - name: "affiliations"
+        type: "text[]"
+        required: false
+        description: "Affiliations parsed from frontiers."
+      - name: "addresses"
+        type: "text[]"
+        required: false
+        description: "Addresses parsed from frontiers."
+      - name: "primary_email"
+        type: "keyword"
+        required: false
+      - name: "emails"
+        type: "keyword[]"
+        required: false
+
+      - name: "subjects"
+        type: "keyword[]"
+        required: false
+        description: "Subject areas from scholars."
+      - name: "keywords"
+        type: "keyword[]"
+        required: false
+        description: "Keywords from scholars."
+      - name: "interests"
+        type: "keyword[]"
+        required: false
+        description: "Research interests from scholars."
+
+      - name: "h_index"
+        type: "integer"
+        required: false
+      - name: "i10_index"
+        type: "integer"
+        required: false
+      - name: "total_citations"
+        type: "integer"
+        required: false
+      - name: "average_citations"
+        type: "float"
+        required: false
+      - name: "articles"
+        type: "integer"
+        required: false
+
+      - name: "google_scholar_url"
+        type: "keyword"
+        required: false
+      - name: "sci_profile_url"
+        type: "keyword"
+        required: false
+      - name: "match_methods"
+        type: "keyword[]"
+        required: false
+      - name: "cluster_size"
+        type: "integer"
+        required: false
+
+      - name: "source_systems"
+        type: "keyword[]"
+        required: true
+        description: "Data origins, e.g. [scholars, frontiers]."
+      - name: "source_refs"
+        type: "object[]"
+        required: true
+        description: "Lineage refs: source_file/sheet/row/raw_key."
+
+      - name: "created_at"
+        type: "datetime"
+        required: true
+      - name: "updated_at"
+        type: "datetime"
+        required: true
+
+    source_mapping:
+      scholars:
+        name: "name_original"
+        orcid: "orcid"
+        countries: "country"
+        current_affiliation: "current_affiliation"
+        subjects: "subjects"
+        keywords: "keywords"
+        interests: "interests"
+        h_index: "h_index"
+        i10_index: "i10_index"
+        total_citations: "total_citations"
+        average_citations: "average_citations"
+        articles: "articles"
+        google_scholar: "google_scholar_url"
+        sci_profile: "sci_profile_url"
+      frontiers:
+        Author Full Names: "name_original (after split)"
+        ORCIDs: "orcid (parsed by person token)"
+        Researcher Ids: "researcher_ids"
+        Affiliations: "affiliations"
+        Addresses: "addresses"
+
+  publication:
+    description: "Canonical publication entity from frontiers records."
+    primary_key: "publication_id"
+    fields:
+      - name: "publication_id"
+        type: "keyword"
+        required: true
+
+      - name: "doi"
+        type: "keyword"
+        required: false
+      - name: "doi_link"
+        type: "keyword"
+        required: false
+      - name: "ut_wos_id"
+        type: "keyword"
+        required: false
+      - name: "pubmed_id"
+        type: "keyword"
+        required: false
+
+      - name: "title"
+        type: "text"
+        required: true
+      - name: "abstract"
+        type: "text"
+        required: false
+      - name: "embedding"
+        type: "float[]"
+        required: false
+        description: "Dense vector from qwen3.7-text-embedding over Title/Abstract/Keywords template (1024-d)."
+      - name: "document_type"
+        type: "keyword"
+        required: false
+      - name: "publication_type"
+        type: "keyword"
+        required: false
+      - name: "publication_year"
+        type: "integer"
+        required: false
+      - name: "publication_date_text"
+        type: "keyword"
+        required: false
+      - name: "volume"
+        type: "keyword"
+        required: false
+      - name: "issue"
+        type: "keyword"
+        required: false
+      - name: "article_number"
+        type: "keyword"
+        required: false
+      - name: "number_of_pages"
+        type: "integer"
+        required: false
+
+      - name: "source_title"
+        type: "keyword"
+        required: false
+      - name: "journal_abbr"
+        type: "keyword"
+        required: false
+      - name: "journal_iso_abbr"
+        type: "keyword"
+        required: false
+      - name: "issn"
+        type: "keyword"
+        required: false
+      - name: "eissn"
+        type: "keyword"
+        required: false
+
+      - name: "language"
+        type: "keyword"
+        required: false
+      - name: "publisher"
+        type: "keyword"
+        required: false
+      - name: "publisher_city"
+        type: "keyword"
+        required: false
+      - name: "publisher_address"
+        type: "text"
+        required: false
+
+      - name: "author_keywords"
+        type: "keyword[]"
+        required: false
+      - name: "keywords_plus"
+        type: "keyword[]"
+        required: false
+      - name: "wos_categories"
+        type: "keyword[]"
+        required: false
+      - name: "research_areas"
+        type: "keyword[]"
+        required: false
+      - name: "web_of_science_index"
+        type: "keyword[]"
+        required: false
+
+      - name: "times_cited_wos_core"
+        type: "integer"
+        required: false
+      - name: "times_cited_all_db"
+        type: "integer"
+        required: false
+      - name: "usage_180d"
+        type: "integer"
+        required: false
+      - name: "usage_since_2013"
+        type: "integer"
+        required: false
+
+      - name: "open_access_designation"
+        type: "keyword"
+        required: false
+      - name: "funding_orgs"
+        type: "text[]"
+        required: false
+      - name: "funding_text"
+        type: "text"
+        required: false
+
+      - name: "source_refs"
+        type: "object[]"
+        required: true
+      - name: "created_at"
+        type: "datetime"
+        required: true
+      - name: "updated_at"
+        type: "datetime"
+        required: true
+
+    source_mapping:
+      frontiers:
+        DOI: "doi"
+        DOI Link: "doi_link"
+        UT (Unique WOS ID): "ut_wos_id"
+        Pubmed Id: "pubmed_id"
+        Article Title: "title"
+        Abstract: "abstract"
+        Document Type: "document_type"
+        Publication Type: "publication_type"
+        Publication Year: "publication_year"
+        Publication Date: "publication_date_text"
+        Volume: "volume"
+        Issue: "issue"
+        Article Number: "article_number"
+        Number of Pages: "number_of_pages"
+        Source Title: "source_title"
+        Journal Abbreviation: "journal_abbr"
+        Journal ISO Abbreviation: "journal_iso_abbr"
+        ISSN: "issn"
+        eISSN: "eissn"
+        Language: "language"
+        Publisher: "publisher"
+        Publisher City: "publisher_city"
+        Publisher Address: "publisher_address"
+        Author Keywords: "author_keywords"
+        Keywords Plus: "keywords_plus"
+        WoS Categories: "wos_categories"
+        Research Areas: "research_areas"
+        Web of Science Index: "web_of_science_index"
+        Times Cited, WoS Core: "times_cited_wos_core"
+        Times Cited, All Databases: "times_cited_all_db"
+        180 Day Usage Count: "usage_180d"
+        Since 2013 Usage Count: "usage_since_2013"
+        Open Access Designations: "open_access_designation"
+        Funding Orgs: "funding_orgs"
+        Funding Text: "funding_text"
+
+  person_publication:
+    description: "Bridge relation between person and publication (authorship and matching evidence)."
+    primary_key: "relation_id"
+    fields:
+      - name: "relation_id"
+        type: "keyword"
+        required: true
+      - name: "person_id"
+        type: "keyword"
+        required: true
+      - name: "publication_id"
+        type: "keyword"
+        required: true
+
+      - name: "relation_type"
+        type: "keyword"
+        required: true
+        enum: ["author", "matched"]
+      - name: "author_order"
+        type: "integer"
+        required: false
+      - name: "author_name_in_paper"
+        type: "text"
+        required: false
+
+      - name: "match_score"
+        type: "float"
+        required: false
+      - name: "match_confidence"
+        type: "keyword"
+        required: false
+        enum: ["high", "medium", "low"]
+      - name: "match_rules_hit"
+        type: "keyword[]"
+        required: false
+
+      - name: "is_corresponding_author"
+        type: "boolean"
+        required: false
+
+      - name: "source_refs"
+        type: "object[]"
+        required: true
+      - name: "created_at"
+        type: "datetime"
+        required: true
+      - name: "updated_at"
+        type: "datetime"
+        required: true
+
+  author_occurrence:
+    description: "Single-paper author appearance record extracted before person deduplication."
+    primary_key: "occurrence_id"
+    fields:
+      - name: "occurrence_id"
+        type: "keyword"
+        required: true
+      - name: "publication_id"
+        type: "keyword"
+        required: true
+      - name: "author_order"
+        type: "integer"
+        required: true
+      - name: "author_name_raw"
+        type: "text"
+        required: true
+      - name: "author_name_norm"
+        type: "keyword"
+        required: true
+      - name: "surname_norm"
+        type: "keyword"
+        required: false
+      - name: "given_names_norm"
+        type: "keyword"
+        required: false
+      - name: "initials"
+        type: "keyword"
+        required: false
+      - name: "name_aliases"
+        type: "keyword[]"
+        required: false
+      - name: "orcid"
+        type: "keyword"
+        required: false
+      - name: "researcher_ids"
+        type: "keyword[]"
+        required: false
+      - name: "is_corresponding_author"
+        type: "boolean"
+        required: false
+      - name: "chinese_identity"
+        type: "keyword"
+        required: false
+      - name: "source_refs"
+        type: "object[]"
+        required: true
+      - name: "created_at"
+        type: "datetime"
+        required: true
+      - name: "updated_at"
+        type: "datetime"
+        required: true
+
+  author_identifier_claim:
+    description: "Author-level identifier evidence such as ORCID and Researcher ID matched within a paper."
+    primary_key: "claim_id"
+    fields:
+      - name: "claim_id"
+        type: "keyword"
+        required: true
+      - name: "occurrence_id"
+        type: "keyword"
+        required: true
+      - name: "publication_id"
+        type: "keyword"
+        required: true
+      - name: "claim_type"
+        type: "keyword"
+        required: true
+      - name: "claim_value"
+        type: "keyword"
+        required: true
+      - name: "matched_name_raw"
+        type: "text"
+        required: false
+      - name: "match_rule"
+        type: "keyword"
+        required: false
+      - name: "confidence"
+        type: "keyword"
+        required: false
+      - name: "score"
+        type: "float"
+        required: false
+      - name: "source_refs"
+        type: "object[]"
+        required: true
+      - name: "created_at"
+        type: "datetime"
+        required: true
+      - name: "updated_at"
+        type: "datetime"
+        required: true
+
+  author_affiliation_claim:
+    description: "Author-level institution and country evidence parsed from Addresses or Reprint Addresses."
+    primary_key: "claim_id"
+    fields:
+      - name: "claim_id"
+        type: "keyword"
+        required: true
+      - name: "occurrence_id"
+        type: "keyword"
+        required: true
+      - name: "publication_id"
+        type: "keyword"
+        required: true
+      - name: "source_field"
+        type: "keyword"
+        required: true
+      - name: "institution"
+        type: "text"
+        required: false
+      - name: "address_text"
+        type: "text"
+        required: false
+      - name: "country_raw"
+        type: "keyword"
+        required: false
+      - name: "country_norm"
+        type: "keyword"
+        required: false
+      - name: "qs_top200_rank"
+        type: "integer"
+        required: false
+        description: "Matched QS Top 200 rank for this institution evidence."
+      - name: "world_top500_rank"
+        type: "integer"
+        required: false
+        description: "Matched World Top 500 rank for this institution evidence."
+      - name: "is_reprint"
+        type: "boolean"
+        required: true
+      - name: "confidence"
+        type: "keyword"
+        required: false
+      - name: "score"
+        type: "float"
+        required: false
+      - name: "source_refs"
+        type: "object[]"
+        required: true
+      - name: "created_at"
+        type: "datetime"
+        required: true
+      - name: "updated_at"
+        type: "datetime"
+        required: true
+
+  author_email_claim:
+    description: "High-confidence author-email binding evidence retained separately from canonical person."
+    primary_key: "claim_id"
+    fields:
+      - name: "claim_id"
+        type: "keyword"
+        required: true
+      - name: "occurrence_id"
+        type: "keyword"
+        required: true
+      - name: "publication_id"
+        type: "keyword"
+        required: true
+      - name: "email"
+        type: "keyword"
+        required: true
+      - name: "email_domain"
+        type: "keyword"
+        required: true
+      - name: "local_part"
+        type: "keyword"
+        required: true
+      - name: "world_top500_rank"
+        type: "integer"
+        required: false
+        description: "Matched Fortune Global 500 rank inferred from the author email domain."
+      - name: "binding_rule"
+        type: "keyword"
+        required: false
+      - name: "confidence"
+        type: "keyword"
+        required: false
+      - name: "score"
+        type: "float"
+        required: false
+      - name: "source_refs"
+        type: "object[]"
+        required: true
+      - name: "created_at"
+        type: "datetime"
+        required: true
+      - name: "updated_at"
+        type: "datetime"
+        required: true
+
+quality_rules:
+  required_checks:
+    - entity: "person"
+      rule: "name_original is not null"
+    - entity: "person"
+      rule: "name_norm is not null"
+    - entity: "publication"
+      rule: "title is not null"
+    - entity: "person_publication"
+      rule: "person_id and publication_id and relation_type are not null"
+    - entity: "author_occurrence"
+      rule: "occurrence_id and publication_id and author_order are not null"
+    - entity: "author_identifier_claim"
+      rule: "claim_id and occurrence_id and claim_type and claim_value are not null"
+    - entity: "author_affiliation_claim"
+      rule: "claim_id and occurrence_id and source_field are not null"
+    - entity: "author_email_claim"
+      rule: "claim_id and occurrence_id and email are not null"
+  soft_checks:
+    - entity: "person"
+      rule: "orcid matches regex when not null"
+    - entity: "publication"
+      rule: "publication_year between 1900 and 2100 when not null"
+    - entity: "author_email_claim"
+      rule: "email is syntactically valid"
+
+indexing_hints:
+  opensearch:
+    keyword_fields:
+      - "person.person_id"
+      - "person.name_norm"
+      - "person.orcid"
+      - "publication.publication_id"
+      - "publication.doi"
+      - "publication.ut_wos_id"
+      - "person_publication.relation_type"
+      - "author_occurrence.occurrence_id"
+      - "author_occurrence.author_name_norm"
+      - "author_identifier_claim.claim_value"
+      - "author_affiliation_claim.country_norm"
+      - "author_email_claim.email"
+    fulltext_fields:
+      - "person.name_original"
+      - "person.current_affiliation"
+      - "publication.title"
+      - "publication.abstract"
+      - "author_occurrence.author_name_raw"
+      - "author_affiliation_claim.address_text"
+    numeric_fields:
+      - "person.h_index"
+      - "person.total_citations"
+      - "publication.publication_year"
+      - "publication.times_cited_all_db"

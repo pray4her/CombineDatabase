@@ -1,0 +1,1402 @@
+[
+  {
+    "rank": "1",
+    "university": "Massachusetts Institute of Technology (MIT)",
+    "country": "United States",
+    "score": "100",
+    "domain": "mit.edu"
+  },
+  {
+    "rank": "2",
+    "university": "Imperial College London",
+    "country": "United Kingdom",
+    "score": "99.4",
+    "domain": "imperial.ac.uk"
+  },
+  {
+    "rank": "3",
+    "university": "Stanford University",
+    "country": "United States",
+    "score": "98.9",
+    "domain": "stanford.edu"
+  },
+  {
+    "rank": "4",
+    "university": "University of Oxford",
+    "country": "United Kingdom",
+    "score": "97.9",
+    "domain": "ox.ac.uk"
+  },
+  {
+    "rank": "5",
+    "university": "Harvard University",
+    "country": "United States",
+    "score": "97.7",
+    "domain": "harvard.edu"
+  },
+  {
+    "rank": "6",
+    "university": "University of Cambridge",
+    "country": "United Kingdom",
+    "score": "97.2",
+    "domain": "cam.ac.uk"
+  },
+  {
+    "rank": "7",
+    "university": "ETH Zurich - Swiss Federal Institute of Technology",
+    "country": "Switzerland",
+    "score": "96.7",
+    "domain": "ethz.ch"
+  },
+  {
+    "rank": "8",
+    "university": "National University of Singapore (NUS)",
+    "country": "Singapore",
+    "score": "95.9",
+    "domain": "nus.edu.sg"
+  },
+  {
+    "rank": "9",
+    "university": "UCL",
+    "country": "United Kingdom",
+    "score": "95.8",
+    "domain": "ucl.ac.uk"
+  },
+  {
+    "rank": "10",
+    "university": "California Institute of Technology (Caltech)",
+    "country": "United States",
+    "score": "94.3",
+    "domain": "caltech.edu"
+  },
+  {
+    "rank": "11",
+    "university": "The University of Hong Kong",
+    "country": "Hong Kong SAR",
+    "score": "94.2",
+    "domain": "hku.hk"
+  },
+  {
+    "rank": "12",
+    "university": "Nanyang Technological University, Singapore (NTU)",
+    "country": "Singapore",
+    "score": "93.7",
+    "domain": "ntu.edu.sg"
+  },
+  {
+    "rank": "13",
+    "university": "University of Chicago",
+    "country": "United States",
+    "score": "93",
+    "domain": "uchicago.edu"
+  },
+  {
+    "rank": "14",
+    "university": "Peking University",
+    "country": "China (Mainland)",
+    "score": "92.6",
+    "domain": "pku.edu.cn"
+  },
+  {
+    "rank": "15",
+    "university": "University of Pennsylvania",
+    "country": "United States",
+    "score": "92.5",
+    "domain": "upenn.edu"
+  },
+  {
+    "rank": "16",
+    "university": "Cornell University",
+    "country": "United States",
+    "score": "91.6",
+    "domain": "cornell.edu"
+  },
+  {
+    "rank": "17",
+    "university": "Tsinghua University",
+    "country": "China (Mainland)",
+    "score": "91.2",
+    "domain": "tsinghua.edu.cn"
+  },
+  {
+    "rank": "17",
+    "university": "University of California, Berkeley (UCB)",
+    "country": "United States",
+    "score": "91.2",
+    "domain": "berkeley.edu"
+  },
+  {
+    "rank": "19",
+    "university": "The University of Melbourne",
+    "country": "Australia",
+    "score": "90.8",
+    "domain": "unimelb.edu.au"
+  },
+  {
+    "rank": "20",
+    "university": "The University of New South Wales (UNSW Sydney)",
+    "country": "Australia",
+    "score": "90.7",
+    "domain": "unsw.edu.au"
+  },
+  {
+    "rank": "21",
+    "university": "Yale University",
+    "country": "United States",
+    "score": "90.4",
+    "domain": "yale.edu"
+  },
+  {
+    "rank": "22",
+    "university": "EPFL",
+    "country": "Switzerland",
+    "score": "90.2",
+    "domain": "epfl.ch"
+  },
+  {
+    "rank": "22",
+    "university": "Technical University of Munich",
+    "country": "Germany",
+    "score": "90.2",
+    "domain": "tum.de"
+  },
+  {
+    "rank": "24",
+    "university": "Johns Hopkins University",
+    "country": "United States",
+    "score": "89.7",
+    "domain": "jhu.edu"
+  },
+  {
+    "rank": "25",
+    "university": "Princeton University",
+    "country": "United States",
+    "score": "89.4",
+    "domain": "princeton.edu"
+  },
+  {
+    "rank": "25",
+    "university": "The University of Sydney",
+    "country": "Australia",
+    "score": "89.4",
+    "domain": "sydney.edu.au"
+  },
+  {
+    "rank": "27",
+    "university": "McGill University",
+    "country": "Canada",
+    "score": "88.9",
+    "domain": "mcgill.ca"
+  },
+  {
+    "rank": "28",
+    "university": "Université PSL",
+    "country": "France",
+    "score": "88.6",
+    "domain": "psl.eu"
+  },
+  {
+    "rank": "29",
+    "university": "University of Toronto",
+    "country": "Canada",
+    "score": "88.5",
+    "domain": "utoronto.ca"
+  },
+  {
+    "rank": "30",
+    "university": "Fudan University",
+    "country": "China (Mainland)",
+    "score": "88.4",
+    "domain": "fudan.edu.cn"
+  },
+  {
+    "rank": "31",
+    "university": "King's College London",
+    "country": "United Kingdom",
+    "score": "88.3",
+    "domain": "kcl.ac.uk"
+  },
+  {
+    "rank": "32",
+    "university": "The Australian National University",
+    "country": "Australia",
+    "score": "87.4",
+    "domain": "anu.edu.au"
+  },
+  {
+    "rank": "32",
+    "university": "The Chinese University of Hong Kong (CUHK)",
+    "country": "Hong Kong SAR",
+    "score": "87.4",
+    "domain": "cuhk.edu.hk"
+  },
+  {
+    "rank": "34",
+    "university": "The University of Edinburgh",
+    "country": "United Kingdom",
+    "score": "87.2",
+    "domain": "ed.ac.uk"
+  },
+  {
+    "rank": "35",
+    "university": "The University of Manchester",
+    "country": "United Kingdom",
+    "score": "86.4",
+    "domain": "manchester.ac.uk"
+  },
+  {
+    "rank": "36",
+    "university": "Monash University",
+    "country": "Australia",
+    "score": "85.8",
+    "domain": "monash.edu"
+  },
+  {
+    "rank": "36",
+    "university": "The University of Tokyo",
+    "country": "Japan",
+    "score": "85.8",
+    "domain": "u-tokyo.ac.jp"
+  },
+  {
+    "rank": "38",
+    "university": "Columbia University",
+    "country": "United States",
+    "score": "85.6",
+    "domain": "columbia.edu"
+  },
+  {
+    "rank": "38",
+    "university": "Seoul National University",
+    "country": "South Korea",
+    "score": "85.6",
+    "domain": "snu.ac.kr"
+  },
+  {
+    "rank": "40",
+    "university": "University of British Columbia",
+    "country": "Canada",
+    "score": "85.5",
+    "domain": "ubc.ca"
+  },
+  {
+    "rank": "41",
+    "university": "Institut Polytechnique de Paris",
+    "country": "France",
+    "score": "85.4",
+    "domain": "ip-paris.fr"
+  },
+  {
+    "rank": "42",
+    "university": "Northwestern University",
+    "country": "United States",
+    "score": "85.1",
+    "domain": "northwestern.edu"
+  },
+  {
+    "rank": "42",
+    "university": "The University of Queensland",
+    "country": "Australia",
+    "score": "85.1",
+    "domain": "uq.edu.au"
+  },
+  {
+    "rank": "44",
+    "university": "The Hong Kong University of Science and Technology",
+    "country": "Hong Kong SAR",
+    "score": "84.8",
+    "domain": "ust.hk"
+  },
+  {
+    "rank": "45",
+    "university": "University of Michigan-Ann Arbor",
+    "country": "United States",
+    "score": "84.7",
+    "domain": "umich.edu"
+  },
+  {
+    "rank": "46",
+    "university": "University of California, Los Angeles (UCLA)",
+    "country": "United States",
+    "score": "84.4",
+    "domain": "ucla.edu"
+  },
+  {
+    "rank": "47",
+    "university": "Delft University of Technology",
+    "country": "Netherlands",
+    "score": "84.3",
+    "domain": "tudelft.nl"
+  },
+  {
+    "rank": "47",
+    "university": "Shanghai Jiao Tong University",
+    "country": "China (Mainland)",
+    "score": "84.3",
+    "domain": "sjtu.edu.cn"
+  },
+  {
+    "rank": "49",
+    "university": "Zhejiang University",
+    "country": "China (Mainland)",
+    "score": "84",
+    "domain": "zju.edu.cn"
+  },
+  {
+    "rank": "50",
+    "university": "Yonsei University",
+    "country": "South Korea",
+    "score": "82.9",
+    "domain": "yonsei.ac.kr"
+  },
+  {
+    "rank": "51",
+    "university": "University of Bristol",
+    "country": "United Kingdom",
+    "score": "82.5",
+    "domain": "bristol.ac.uk"
+  },
+  {
+    "rank": "52",
+    "university": "Carnegie Mellon University",
+    "country": "United States",
+    "score": "82.3",
+    "domain": "cmu.edu"
+  },
+  {
+    "rank": "53",
+    "university": "University of Amsterdam",
+    "country": "Netherlands",
+    "score": "81.5",
+    "domain": "uva.nl"
+  },
+  {
+    "rank": "54",
+    "university": "The Hong Kong Polytechnic University",
+    "country": "Hong Kong SAR",
+    "score": "81.2",
+    "domain": "polyu.edu.hk"
+  },
+  {
+    "rank": "55",
+    "university": "New York University (NYU)",
+    "country": "United States",
+    "score": "81.1",
+    "domain": "nyu.edu"
+  },
+  {
+    "rank": "56",
+    "university": "The London School of Economics and Political Science (LSE)",
+    "country": "United Kingdom",
+    "score": "80.5",
+    "domain": "lse.ac.uk"
+  },
+  {
+    "rank": "57",
+    "university": "Kyoto University",
+    "country": "Japan",
+    "score": "80.2",
+    "domain": "kyoto-u.ac.jp"
+  },
+  {
+    "rank": "58",
+    "university": "Ludwig-Maximilians-Universität München",
+    "country": "Germany",
+    "score": "80.1",
+    "domain": "uni-muenchen.de"
+  },
+  {
+    "rank": "58",
+    "university": "Universiti Malaya (UM)",
+    "country": "Malaysia",
+    "score": "80.1",
+    "domain": "um.edu.my"
+  },
+  {
+    "rank": "60",
+    "university": "KU Leuven",
+    "country": "Belgium",
+    "score": "79.7",
+    "domain": "kuleuven.be"
+  },
+  {
+    "rank": "61",
+    "university": "Korea University",
+    "country": "South Korea",
+    "score": "79.6",
+    "domain": "korea.ac.kr"
+  },
+  {
+    "rank": "62",
+    "university": "Duke University",
+    "country": "United States",
+    "score": "79",
+    "domain": "duke.edu"
+  },
+  {
+    "rank": "63",
+    "university": "City University of Hong Kong",
+    "country": "Hong Kong SAR",
+    "score": "78.9",
+    "domain": "cityu.edu.hk"
+  },
+  {
+    "rank": "63",
+    "university": "National Taiwan University (NTU)",
+    "country": "Taiwan",
+    "score": "78.9",
+    "domain": "ntu.edu.tw"
+  },
+  {
+    "rank": "65",
+    "university": "The University of Auckland",
+    "country": "New Zealand",
+    "score": "77.5",
+    "domain": "auckland.ac.nz"
+  },
+  {
+    "rank": "66",
+    "university": "University of California, San Diego (UCSD)",
+    "country": "United States",
+    "score": "76.9",
+    "domain": "ucsd.edu"
+  },
+  {
+    "rank": "67",
+    "university": "King Fahd University of Petroleum & Minerals",
+    "country": "Saudi Arabia",
+    "score": "76.5",
+    "domain": "kfupm.edu.sa"
+  },
+  {
+    "rank": "68",
+    "university": "University of Texas at Austin",
+    "country": "United States",
+    "score": "76.4",
+    "domain": "utexas.edu"
+  },
+  {
+    "rank": "69",
+    "university": "Brown University",
+    "country": "United States",
+    "score": "76.2",
+    "domain": "brown.edu"
+  },
+  {
+    "rank": "70",
+    "university": "Université Paris-Saclay",
+    "country": "France",
+    "score": "75.9",
+    "domain": "u-psud.fr"
+  },
+  {
+    "rank": "70",
+    "university": "University of Illinois at Urbana-Champaign",
+    "country": "United States",
+    "score": "75.9",
+    "domain": "illinois.edu"
+  },
+  {
+    "rank": "72",
+    "university": "Lund University",
+    "country": "Sweden",
+    "score": "75.7",
+    "domain": "lu.se"
+  },
+  {
+    "rank": "72",
+    "university": "Sorbonne University",
+    "country": "France",
+    "score": "75.7",
+    "domain": "sorbonne-universite.fr"
+  },
+  {
+    "rank": "74",
+    "university": "The University of Warwick",
+    "country": "United Kingdom",
+    "score": "75.2",
+    "domain": "warwick.ac.uk"
+  },
+  {
+    "rank": "75",
+    "university": "Trinity College Dublin, The University of Dublin",
+    "country": "Ireland",
+    "score": "73.9",
+    "domain": "trincoll.edu"
+  },
+  {
+    "rank": "76",
+    "university": "University of Birmingham",
+    "country": "United Kingdom",
+    "score": "73.8",
+    "domain": "birmingham.ac.uk"
+  },
+  {
+    "rank": "77",
+    "university": "The University of Western Australia",
+    "country": "Australia",
+    "score": "73.7",
+    "domain": "uwa.edu.au"
+  },
+  {
+    "rank": "78",
+    "university": "KTH Royal Institute of Technology",
+    "country": "Sweden",
+    "score": "73.6",
+    "domain": "kth.se"
+  },
+  {
+    "rank": "79",
+    "university": "University of Glasgow",
+    "country": "United Kingdom",
+    "score": "73.4",
+    "domain": "gla.ac.uk"
+  },
+  {
+    "rank": "80",
+    "university": "Ruprecht-Karls-Universität Heidelberg",
+    "country": "Germany",
+    "score": "73",
+    "domain": "uni-heidelberg.de"
+  },
+  {
+    "rank": "81",
+    "university": "University of Washington",
+    "country": "United States",
+    "score": "72.7",
+    "domain": "washington.edu"
+  },
+  {
+    "rank": "82",
+    "university": "Adelaide University",
+    "country": "Australia",
+    "score": "72.6",
+    "domain": "adelaide.edu.au"
+  },
+  {
+    "rank": "82",
+    "university": "Pennsylvania State University",
+    "country": "United States",
+    "score": "72.6",
+    "domain": "psu.edu"
+  },
+  {
+    "rank": "84",
+    "university": "Universidad de Buenos Aires (UBA)",
+    "country": "Argentina",
+    "score": "72.3",
+    "domain": "uba.ar"
+  },
+  {
+    "rank": "85",
+    "university": "Tokyo Institute of Technology (Tokyo Tech)",
+    "country": "Japan",
+    "score": "72.1",
+    "domain": "titech.ac.jp"
+  },
+  {
+    "rank": "86",
+    "university": "University of Leeds",
+    "country": "United Kingdom",
+    "score": "72",
+    "domain": "leeds.ac.uk"
+  },
+  {
+    "rank": "87",
+    "university": "University of Southampton",
+    "country": "United Kingdom",
+    "score": "71.2",
+    "domain": "southampton.ac.uk"
+  },
+  {
+    "rank": "88",
+    "university": "Boston University",
+    "country": "United States",
+    "score": "71.1",
+    "domain": "bu.edu"
+  },
+  {
+    "rank": "88",
+    "university": "Freie Universitaet Berlin",
+    "country": "Germany",
+    "score": "71.1",
+    "domain": "fu-berlin.de"
+  },
+  {
+    "rank": "88",
+    "university": "Purdue University",
+    "country": "United States",
+    "score": "71.1",
+    "domain": "purdue.edu"
+  },
+  {
+    "rank": "91",
+    "university": "Osaka University",
+    "country": "Japan",
+    "score": "71",
+    "domain": "osaka-u.ac.jp"
+  },
+  {
+    "rank": "92",
+    "university": "The University of Sheffield",
+    "country": "United Kingdom",
+    "score": "70.9",
+    "domain": "sheffield.ac.uk"
+  },
+  {
+    "rank": "93",
+    "university": "Uppsala University",
+    "country": "Sweden",
+    "score": "70.3",
+    "domain": "uu.se"
+  },
+  {
+    "rank": "94",
+    "university": "Durham University",
+    "country": "United Kingdom",
+    "score": "70.1",
+    "domain": "dur.ac.uk"
+  },
+  {
+    "rank": "94",
+    "university": "University of Alberta",
+    "country": "Canada",
+    "score": "70.1",
+    "domain": "ualberta.ca"
+  },
+  {
+    "rank": "96",
+    "university": "University of Technology Sydney",
+    "country": "Australia",
+    "score": "69.9",
+    "domain": "uts.edu.au"
+  },
+  {
+    "rank": "97",
+    "university": "University of Nottingham",
+    "country": "United Kingdom",
+    "score": "69.4",
+    "domain": "nottingham.ac.uk"
+  },
+  {
+    "rank": "98",
+    "university": "KIT, Karlsruhe Institute of Technology",
+    "country": "Germany",
+    "score": "69.1",
+    "domain": "kit.edu"
+  },
+  {
+    "rank": "98",
+    "university": "Politecnico di Milano",
+    "country": "Italy",
+    "score": "69.1",
+    "domain": "polimi.it"
+  },
+  {
+    "rank": "100",
+    "university": "University of Zurich",
+    "country": "Switzerland",
+    "score": "68.5",
+    "domain": "uzh.ch"
+  },
+  {
+    "rank": "101",
+    "university": "University of Copenhagen",
+    "country": "Denmark",
+    "score": "68.4",
+    "domain": "ku.dk"
+  },
+  {
+    "rank": "102",
+    "university": "Pohang University of Science And Technology (POSTECH)",
+    "country": "South Korea",
+    "score": "67.9",
+    "domain": "postech.ac.kr"
+  },
+  {
+    "rank": "103",
+    "university": "Nanjing University",
+    "country": "China (Mainland)",
+    "score": "67.7",
+    "domain": "nju.edu.cn"
+  },
+  {
+    "rank": "103",
+    "university": "Utrecht University",
+    "country": "Netherlands",
+    "score": "67.7",
+    "domain": "uu.nl"
+  },
+  {
+    "rank": "105",
+    "university": "Lomonosov Moscow State University",
+    "country": "Russia",
+    "score": "67.6",
+    "domain": "msu.ru"
+  },
+  {
+    "rank": "105",
+    "university": "RWTH Aachen University",
+    "country": "Germany",
+    "score": "67.6",
+    "domain": "rwth-aachen.de"
+  },
+  {
+    "rank": "107",
+    "university": "Technical University of Denmark",
+    "country": "Denmark",
+    "score": "67.5",
+    "domain": "dtu.dk"
+  },
+  {
+    "rank": "108",
+    "university": "Universidade de São Paulo",
+    "country": "Brazil",
+    "score": "67.3",
+    "domain": "usp.br"
+  },
+  {
+    "rank": "109",
+    "university": "Tohoku University",
+    "country": "Japan",
+    "score": "66.7",
+    "domain": "tohoku.ac.jp"
+  },
+  {
+    "rank": "110",
+    "university": "Queen Mary University of London",
+    "country": "United Kingdom",
+    "score": "66.6",
+    "domain": "qmul.ac.uk"
+  },
+  {
+    "rank": "110",
+    "university": "University of Wisconsin-Madison",
+    "country": "United States",
+    "score": "66.6",
+    "domain": "wisc.edu"
+  },
+  {
+    "rank": "112",
+    "university": "Qatar University",
+    "country": "Qatar",
+    "score": "66.5",
+    "domain": "qu.edu.qa"
+  },
+  {
+    "rank": "113",
+    "university": "University of St Andrews",
+    "country": "United Kingdom",
+    "score": "66.4",
+    "domain": "st-andrews.ac.uk"
+  },
+  {
+    "rank": "114",
+    "university": "Aalto University",
+    "country": "Finland",
+    "score": "66.3",
+    "domain": "aalto.fi"
+  },
+  {
+    "rank": "114",
+    "university": "University of California, Davis",
+    "country": "United States",
+    "score": "66.3",
+    "domain": "ucdavis.edu"
+  },
+  {
+    "rank": "116",
+    "university": "Pontificia Universidad Católica de Chile (UC)",
+    "country": "Chile",
+    "score": "66.1",
+    "domain": "uc.cl"
+  },
+  {
+    "rank": "116",
+    "university": "University of Helsinki",
+    "country": "Finland",
+    "score": "66.1",
+    "domain": "helsinki.fi"
+  },
+  {
+    "rank": "118",
+    "university": "University College Dublin",
+    "country": "Ireland",
+    "score": "66",
+    "domain": "ucd.ie"
+  },
+  {
+    "rank": "119",
+    "university": "Leiden University",
+    "country": "Netherlands",
+    "score": "65.7",
+    "domain": "leiden.edu"
+  },
+  {
+    "rank": "119",
+    "university": "Rice University",
+    "country": "United States",
+    "score": "65.7",
+    "domain": "rice.edu"
+  },
+  {
+    "rank": "119",
+    "university": "University of Oslo",
+    "country": "Norway",
+    "score": "65.7",
+    "domain": "uio.no"
+  },
+  {
+    "rank": "119",
+    "university": "University of Waterloo",
+    "country": "Canada",
+    "score": "65.7",
+    "domain": "uwaterloo.ca"
+  },
+  {
+    "rank": "123",
+    "university": "Georgia Institute of Technology",
+    "country": "United States",
+    "score": "65.5",
+    "domain": "gatech.edu"
+  },
+  {
+    "rank": "123",
+    "university": "Indian Institute of Technology Delhi (IITD)",
+    "country": "India",
+    "score": "65.5",
+    "domain": "iitd.ac.in"
+  },
+  {
+    "rank": "125",
+    "university": "RMIT University",
+    "country": "Australia",
+    "score": "65.3",
+    "domain": "rmit.edu.au"
+  },
+  {
+    "rank": "126",
+    "university": "Sungkyunkwan University(SKKU)",
+    "country": "South Korea",
+    "score": "65.2",
+    "domain": "skku.edu"
+  },
+  {
+    "rank": "126",
+    "university": "Universiti Kebangsaan Malaysia (UKM)",
+    "country": "Malaysia",
+    "score": "65.2",
+    "domain": "ukm.my"
+  },
+  {
+    "rank": "128",
+    "university": "Sapienza University of Rome",
+    "country": "Italy",
+    "score": "64.9",
+    "domain": "uniroma1.it"
+  },
+  {
+    "rank": "129",
+    "university": "Indian Institute of Technology Bombay (IITB)",
+    "country": "India",
+    "score": "64.8",
+    "domain": "iitb.ac.in"
+  },
+  {
+    "rank": "130",
+    "university": "Humboldt-Universität zu Berlin",
+    "country": "Germany",
+    "score": "64.5",
+    "domain": "hu-berlin.de"
+  },
+  {
+    "rank": "131",
+    "university": "Aarhus University",
+    "country": "Denmark",
+    "score": "64.3",
+    "domain": "au.dk"
+  },
+  {
+    "rank": "132",
+    "university": "University of Bath",
+    "country": "United Kingdom",
+    "score": "64.2",
+    "domain": "bath.ac.uk"
+  },
+  {
+    "rank": "132",
+    "university": "University of Science and Technology of China",
+    "country": "China (Mainland)",
+    "score": "64.2",
+    "domain": "ustc.edu.cn"
+  },
+  {
+    "rank": "134",
+    "university": "Universiti Putra Malaysia (UPM)",
+    "country": "Malaysia",
+    "score": "64.1",
+    "domain": "upm.edu.my"
+  },
+  {
+    "rank": "134",
+    "university": "Universiti Sains Malaysia (USM)",
+    "country": "Malaysia",
+    "score": "64.1",
+    "domain": "usm.my"
+  },
+  {
+    "rank": "136",
+    "university": "Universidad Nacional Autónoma de México (UNAM)",
+    "country": "Mexico",
+    "score": "64",
+    "domain": "unam.mx"
+  },
+  {
+    "rank": "137",
+    "university": "Newcastle University",
+    "country": "United Kingdom",
+    "score": "63.9",
+    "domain": "ncl.ac.uk"
+  },
+  {
+    "rank": "138",
+    "university": "Alma Mater Studiorum - University of Bologna",
+    "country": "Italy",
+    "score": "63.3",
+    "domain": "unibo.it"
+  },
+  {
+    "rank": "138",
+    "university": "Macquarie University",
+    "country": "Australia",
+    "score": "63.3",
+    "domain": "mq.edu.au"
+  },
+  {
+    "rank": "140",
+    "university": "Eindhoven University of Technology",
+    "country": "Netherlands",
+    "score": "63.2",
+    "domain": "tue.nl"
+  },
+  {
+    "rank": "140",
+    "university": "Erasmus University Rotterdam",
+    "country": "Netherlands",
+    "score": "63.2",
+    "domain": "eur.nl"
+  },
+  {
+    "rank": "140",
+    "university": "University of North Carolina, Chapel Hill",
+    "country": "United States",
+    "score": "63.2",
+    "domain": "unc.edu"
+  },
+  {
+    "rank": "143",
+    "university": "King Saud University",
+    "country": "Saudi Arabia",
+    "score": "63.1",
+    "domain": "ksu.edu.sa"
+  },
+  {
+    "rank": "144",
+    "university": "Texas A&M University",
+    "country": "United States",
+    "score": "63",
+    "domain": "tamu.edu"
+  },
+  {
+    "rank": "145",
+    "university": "Technische Universität Berlin (TU Berlin)",
+    "country": "Germany",
+    "score": "62.8",
+    "domain": "tu-berlin.de"
+  },
+  {
+    "rank": "146",
+    "university": "University of Southern California",
+    "country": "United States",
+    "score": "62.6",
+    "domain": "usc.edu"
+  },
+  {
+    "rank": "147",
+    "university": "Stockholm University",
+    "country": "Sweden",
+    "score": "62.5",
+    "domain": "su.se"
+  },
+  {
+    "rank": "147",
+    "university": "University of Groningen",
+    "country": "Netherlands",
+    "score": "62.5",
+    "domain": "rug.nl"
+  },
+  {
+    "rank": "147",
+    "university": "University of Liverpool",
+    "country": "United Kingdom",
+    "score": "62.5",
+    "domain": "liv.ac.uk"
+  },
+  {
+    "rank": "150",
+    "university": "University of Cape Town",
+    "country": "South Africa",
+    "score": "62.3",
+    "domain": "uct.ac.za"
+  },
+  {
+    "rank": "151",
+    "university": "Western University",
+    "country": "Canada",
+    "score": "62",
+    "domain": "uwo.ca"
+  },
+  {
+    "rank": "152",
+    "university": "University of Vienna",
+    "country": "Austria",
+    "score": "61.9",
+    "domain": "univie.ac.at"
+  },
+  {
+    "rank": "153",
+    "university": "Universiti Teknologi Malaysia",
+    "country": "Malaysia",
+    "score": "61.6",
+    "domain": "utm.my"
+  },
+  {
+    "rank": "153",
+    "university": "Wageningen University & Research",
+    "country": "Netherlands",
+    "score": "61.6",
+    "domain": "wur.nl"
+  },
+  {
+    "rank": "155",
+    "university": "The University of Exeter",
+    "country": "United Kingdom",
+    "score": "61.5",
+    "domain": "exeter.ac.uk"
+  },
+  {
+    "rank": "155",
+    "university": "University of Geneva",
+    "country": "Switzerland",
+    "score": "61.5",
+    "domain": "unige.ch"
+  },
+  {
+    "rank": "157",
+    "university": "Lancaster University",
+    "country": "United Kingdom",
+    "score": "61.4",
+    "domain": "lancaster.ac.uk"
+  },
+  {
+    "rank": "158",
+    "university": "University of Basel",
+    "country": "Switzerland",
+    "score": "61.3",
+    "domain": "unibas.ch"
+  },
+  {
+    "rank": "159",
+    "university": "Hanyang University",
+    "country": "South Korea",
+    "score": "61.2",
+    "domain": "hanyang.ac.kr"
+  },
+  {
+    "rank": "160",
+    "university": "Universitat de Barcelona",
+    "country": "Spain",
+    "score": "61",
+    "domain": "ub.edu"
+  },
+  {
+    "rank": "161",
+    "university": "Michigan State University",
+    "country": "United States",
+    "score": "60.9",
+    "domain": "msu.edu"
+  },
+  {
+    "rank": "162",
+    "university": "Ghent University",
+    "country": "Belgium",
+    "score": "60.8",
+    "domain": "ugent.be"
+  },
+  {
+    "rank": "163",
+    "university": "King Abdulaziz University (KAU)",
+    "country": "Saudi Arabia",
+    "score": "60.7",
+    "domain": "kau.edu.sa"
+  },
+  {
+    "rank": "164",
+    "university": "Nagoya University",
+    "country": "Japan",
+    "score": "60.3",
+    "domain": "nagoya-u.ac.jp"
+  },
+  {
+    "rank": "165",
+    "university": "Chalmers University of Technology",
+    "country": "Sweden",
+    "score": "60.2",
+    "domain": "chalmers.se"
+  },
+  {
+    "rank": "166",
+    "university": "Al-Farabi Kazakh National University",
+    "country": "Kazakhstan",
+    "score": "59.8",
+    "domain": "kaznu.kz"
+  },
+  {
+    "rank": "167",
+    "university": "Washington University in St. Louis",
+    "country": "United States",
+    "score": "59.6",
+    "domain": "wustl.edu"
+  },
+  {
+    "rank": "168",
+    "university": "Université de Montréal",
+    "country": "Canada",
+    "score": "59.5",
+    "domain": "umontreal.ca"
+  },
+  {
+    "rank": "169",
+    "university": "University of York",
+    "country": "United Kingdom",
+    "score": "59.4",
+    "domain": "york.ac.uk"
+  },
+  {
+    "rank": "170",
+    "university": "Hokkaido University",
+    "country": "Japan",
+    "score": "59.3",
+    "domain": "hokudai.ac.jp"
+  },
+  {
+    "rank": "170",
+    "university": "Kyushu University",
+    "country": "Japan",
+    "score": "59.3",
+    "domain": "kyushu-u.ac.jp"
+  },
+  {
+    "rank": "172",
+    "university": "Universitat Autònoma de Barcelona",
+    "country": "Spain",
+    "score": "59.2",
+    "domain": "uab.cat"
+  },
+  {
+    "rank": "173",
+    "university": "Arizona State University",
+    "country": "United States",
+    "score": "59.1",
+    "domain": "asu.edu"
+  },
+  {
+    "rank": "173",
+    "university": "McMaster University",
+    "country": "Canada",
+    "score": "59.1",
+    "domain": "mcmaster.ca"
+  },
+  {
+    "rank": "173",
+    "university": "Universidad de Chile",
+    "country": "Chile",
+    "score": "59.1",
+    "domain": "uchile.cl"
+  },
+  {
+    "rank": "176",
+    "university": "National Tsing Hua University",
+    "country": "Taiwan",
+    "score": "59",
+    "domain": "nthu.edu.tw"
+  },
+  {
+    "rank": "177",
+    "university": "Khalifa University of Science and Technology",
+    "country": "United Arab Emirates",
+    "score": "58.8",
+    "domain": "ku.ac.ae"
+  },
+  {
+    "rank": "177",
+    "university": "Tongji University",
+    "country": "China (Mainland)",
+    "score": "58.8",
+    "domain": "tongji.edu.cn"
+  },
+  {
+    "rank": "179",
+    "university": "University of California, Santa Barbara (UCSB)",
+    "country": "United States",
+    "score": "58.7",
+    "domain": "ucsb.edu"
+  },
+  {
+    "rank": "180",
+    "university": "Indian Institute of Technology Madras (IITM)",
+    "country": "India",
+    "score": "58.4",
+    "domain": "iitm.ac.in"
+  },
+  {
+    "rank": "181",
+    "university": "Cardiff University",
+    "country": "United Kingdom",
+    "score": "57.8",
+    "domain": "cardiff.ac.uk"
+  },
+  {
+    "rank": "182",
+    "university": "Emory University",
+    "country": "United States",
+    "score": "57.7",
+    "domain": "emory.edu"
+  },
+  {
+    "rank": "183",
+    "university": "Curtin University",
+    "country": "Australia",
+    "score": "57.6",
+    "domain": "curtin.edu.my"
+  },
+  {
+    "rank": "184",
+    "university": "University of Bern",
+    "country": "Switzerland",
+    "score": "57.5",
+    "domain": "unibe.ch"
+  },
+  {
+    "rank": "184",
+    "university": "University of Wollongong",
+    "country": "Australia",
+    "score": "57.5",
+    "domain": "uow.edu.au"
+  },
+  {
+    "rank": "186",
+    "university": "Wuhan University",
+    "country": "China (Mainland)",
+    "score": "57.3",
+    "domain": "whu.edu.cn"
+  },
+  {
+    "rank": "187",
+    "university": "Complutense University of Madrid",
+    "country": "Spain",
+    "score": "57.1",
+    "domain": "ucm.es"
+  },
+  {
+    "rank": "187",
+    "university": "Tecnológico de Monterrey",
+    "country": "Mexico",
+    "score": "57.1",
+    "domain": "tec.mx"
+  },
+  {
+    "rank": "189",
+    "university": "Universitas Indonesia",
+    "country": "Indonesia",
+    "score": "57",
+    "domain": "ui.ac.id"
+  },
+  {
+    "rank": "190",
+    "university": "The Ohio State University",
+    "country": "United States",
+    "score": "56.9",
+    "domain": "osu.edu"
+  },
+  {
+    "rank": "191",
+    "university": "Queen's University at Kingston",
+    "country": "Canada",
+    "score": "56.8",
+    "domain": "queensu.ca"
+  },
+  {
+    "rank": "191",
+    "university": "Université catholique de Louvain (UCLouvain)",
+    "country": "Belgium",
+    "score": "56.8",
+    "domain": "uclouvain.be"
+  },
+  {
+    "rank": "193",
+    "university": "Universität Hamburg",
+    "country": "Germany",
+    "score": "56.5",
+    "domain": "uni-hamburg.de"
+  },
+  {
+    "rank": "194",
+    "university": "University of Reading",
+    "country": "United Kingdom",
+    "score": "56.2",
+    "domain": "reading.ac.uk"
+  },
+  {
+    "rank": "194",
+    "university": "Vrije Universiteit Amsterdam",
+    "country": "Netherlands",
+    "score": "56.2",
+    "domain": "vu.nl"
+  },
+  {
+    "rank": "196",
+    "university": "Waseda University",
+    "country": "Japan",
+    "score": "56.1",
+    "domain": "waseda.jp"
+  },
+  {
+    "rank": "197",
+    "university": "Technische Universität Wien",
+    "country": "Austria",
+    "score": "55.8",
+    "domain": "tuwien.at"
+  },
+  {
+    "rank": "197",
+    "university": "University of Otago",
+    "country": "New Zealand",
+    "score": "55.8",
+    "domain": "otago.ac.nz"
+  },
+  {
+    "rank": "199",
+    "university": "National Yang Ming Chiao Tung University",
+    "country": "Taiwan",
+    "score": "55.7",
+    "domain": "nycu.edu.tw"
+  },
+  {
+    "rank": "199",
+    "university": "Queen's University Belfast",
+    "country": "United Kingdom",
+    "score": "55.7",
+    "domain": "qub.ac.uk"
+  }
+]
