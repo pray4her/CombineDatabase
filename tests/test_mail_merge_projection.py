@@ -71,6 +71,14 @@ class MailMergeProjectionTests(unittest.TestCase):
         self.assertNotIn("ethnic_chinese", row)
         self.assertNotIn("qs_rank", row)
 
+
+    def test_paper_similarity_none_falls_back_to_contact(self) -> None:
+        row = build_mail_merge_projection([self.candidate(
+            similarity=0.85,
+            paper_evidences=[{"title": "Anchor", "source_title": "Journal", "publication_year": 2024, "similarity": None}],
+        )])[0]
+        self.assertEqual(row["similarity"], 0.85)
+
     def test_equal_evidence_uses_input_order_deterministically(self) -> None:
         candidate = self.candidate(paper_evidences=[
             {"title": "first", "author_order": 1, "publication_year": 2024, "times_cited": 2, "similarity": 0.8},

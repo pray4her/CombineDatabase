@@ -103,6 +103,13 @@ def _evidences(candidate: Mapping[str, Any]) -> list[dict[str, Any]]:
     return [candidate]
 
 
+def _coalesce_similarity(evidence: Mapping[str, Any], fallback_similarity: Any) -> Any:
+    value = evidence.get("similarity")
+    if value is not None and value != "":
+        return value
+    return fallback_similarity
+
+
 def _select_anchor(evidences: list[dict[str, Any]], fallback_similarity: Any) -> dict[str, Any] | None:
     if not evidences:
         return None
@@ -115,7 +122,7 @@ def _select_anchor(evidences: list[dict[str, Any]], fallback_similarity: Any) ->
             author_order,
             -_integer(evidence.get("publication_year")),
             -_integer(evidence.get("times_cited")),
-            -_number(evidence.get("similarity", fallback_similarity)),
+            -_number(_coalesce_similarity(evidence, fallback_similarity)),
             index,
         )
 
@@ -143,7 +150,7 @@ def build_mail_merge_projection(
         recipient_name = _non_empty(candidate.get("full_name")) or _non_empty(candidate.get("short_name"))
         email = _non_empty(candidate.get("email"))
         anchor_title = _non_empty(anchor.get("title", anchor.get("anchor_title")))
-        similarity = _number(anchor.get("similarity", candidate.get("similarity")))
+        similarity = _number(_coalesce_similarity(anchor, candidate.get("similarity")))
         email_validity = candidate.get("email_validity", anchor.get("email_validity"))
         if not recipient_name or not email or not anchor_title:
             continue

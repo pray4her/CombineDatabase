@@ -49,7 +49,10 @@ def load_candidates_from_records_db(db_path: str | Path) -> list[dict[str, Any]]
     for row in rows:
         data = dict(row)
         email = data.get("email")
-        key = str(email).strip().lower() if email is not None else ""
+        email_key = str(email).strip().lower() if email is not None else ""
+        name = data.get("full_name") or data.get("short_name") or ""
+        name_key = str(name).strip().lower()
+        key = email_key + "|" + name_key
         if key not in grouped:
             grouped[key] = {
                 column: data.get(column) for column in CONTACT_COLUMNS if column in data
